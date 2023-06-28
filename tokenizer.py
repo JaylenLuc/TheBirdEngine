@@ -23,7 +23,8 @@ class Tokenizer:
         if Tokenizer.check_relevance(text):
             #parsing
             unparsed_tokens = text.get_text().lower().split()
-        
+            #remove stops 
+            #stem all the words and do not count stop words 
 
 
 

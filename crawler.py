@@ -21,9 +21,11 @@ class CrawlerThread:
         self.frontier = frontier.Frontier()
 
     def crawl(self) -> None:
-        current_url = self.frontier.dequeue()
-        #look at robot file
+        
         while self.frontier.queue:
+            current_url = self.frontier.dequeue()
+            #look at robot file
+            
             #construct bs4 object
             bs_obj = bs4.BeautifulSoup(current_url, 'html.parser')
             #get the text
