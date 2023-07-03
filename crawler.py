@@ -18,7 +18,7 @@ from krovetzstemmer import Stemmer
 
 class CrawlerThread:
 
-    inverted_matrix = dict() #dict{term : dict{URLS : list[positions]}}
+    inverted_matrix = dict() #dict{term : dict{URLS : set(positions)}}
 
     def __init__(self) -> None:
         self.frontier = frontier.Frontier()
@@ -51,19 +51,15 @@ class CrawlerThread:
                     stemmed_word = tokenizer.Tokenizer.stem_word(new_token)
 
                     #add to inverted term matrix
+
+                    #right now we are just doing positional lists and proximity matching, we could change this 
                     try:
-                        CrawlerThread.inverted_matrix[stemmed_word][current_url].append(index)
+                        CrawlerThread.inverted_matrix[stemmed_word][current_url].add(index)
 
                     except KeyError:
                         CrawlerThread.inverted_matrix[stemmed_word] = dict()
-                        CrawlerThread.inverted_matrix[stemmed_word][current_url] = []
-                        CrawlerThread.inverted_matrix[stemmed_word][current_url].append(index)
-
-
-                
-        
-
-
+                        CrawlerThread.inverted_matrix[stemmed_word][current_url] = {}
+                        CrawlerThread.inverted_matrix[stemmed_word][current_url].add(index)
 
 
 

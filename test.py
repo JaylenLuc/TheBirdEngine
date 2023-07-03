@@ -56,7 +56,7 @@ from nltk.corpus import stopwords
 
 # Micheals Micheal Micheal's
 stemmer = Stemmer()
-print(stemmer.stem('branches'))
+print(stemmer.stem('Micheals'))
 
 r = dict()
 

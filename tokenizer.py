@@ -15,7 +15,7 @@ class Tokenizer:
         return re.search(r'(bird|birds|avian|avians)+',text.get_text().lower())
         
         
-    #could be used to tokenize both query and html 
+    #should  be used to tokenize both query and html including token_conflation and stem_word
     @staticmethod
     def tokenize(text : str) -> list:
        
