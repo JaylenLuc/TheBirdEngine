@@ -1,6 +1,7 @@
 #get all relevant text
 #get all the links
 #get all the pictures -- but thats for later
+#get all audio and their tags -- but thats for later
 import bs4
 import re
 from krovetzstemmer import Stemmer
@@ -21,9 +22,9 @@ class Tokenizer:
        
         #parsing
 
-        unparsed_tokens = text.lower().split()
+        unparsed_string = text.lower()
 
-        return list(filter(None,re.split(r"\s|;|:|\"|\“|\”|,|-|—|\!|\?|\.\s+",unparsed_tokens)))
+        return list(filter(None,re.split(r"\s|;|:|\"|\“|\”|,|-|—|\!|\?|\.\s+",unparsed_string)))
     
         #parsing leaves apotrophies and periods within words alone
 
@@ -35,7 +36,10 @@ class Tokenizer:
 
     @staticmethod
     def stem_word(token : str) -> str:
-        stemmer = Stemmer()
-        return stemmer.stem(token)
+        try:
+            stemmer = Stemmer()
+            return stemmer.stem(token)
+        except UnicodeDecodeError:
+            return ''
          
        

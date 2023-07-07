@@ -2,6 +2,7 @@ import bs4
 import re
 from krovetzstemmer import Stemmer
 from collections import defaultdict
+import urllib
 
 # -*- coding: utf-8 -*-
 
@@ -46,7 +47,27 @@ The distance from the riverbank to the island was not great, but at this time of
 “Do we know him?” said Larth, squinting. I.B.M, IBM
 """
 
-from nltk.corpus import stopwords
+# from nltk.corpus import stopwords
+from urllib.parse import urlparse,urljoin
+import urllib.robotparser
+# url = "https://docs.python.org/3/library/urllib.parse.htm"
+# parsed = urlparse(url)
+robot_parser = urllib.robotparser.RobotFileParser()
+
+# rp.set_url(urljoin(parsed.scheme + '://' + parsed.netloc ,  'robots.txt'))
+# rp.read()
+# print(rp.site_maps())
+# print(rp.can_fetch("*", 'https://docs.python.org/dev'))
+
+import requests
+
+current_parsed = urlparse('https://www.allaboutbirds.org/news/')
+
+robot_parser.set_url(urljoin(current_parsed.scheme + '://' + current_parsed.netloc ,  'robots.txt') )
+print(urljoin(current_parsed.scheme + '://' + current_parsed.netloc ,  'robots.txt'))
+robot_parser.read()
+print(robot_parser.can_fetch("*", 'https://www.allaboutbirds.org/news/'))
+print(robot_parser.site_maps)
 #how are we going to split words first of all?:
 
 #Do we care about capitlization - NO
@@ -55,8 +76,5 @@ from nltk.corpus import stopwords
 #stem all the words
 
 # Micheals Micheal Micheal's
-stemmer = Stemmer()
-print(stemmer.stem('Micheals'))
 
-r = dict()
 
