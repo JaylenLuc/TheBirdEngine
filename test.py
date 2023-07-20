@@ -52,22 +52,10 @@ from urllib.parse import urlparse,urljoin
 import urllib.robotparser
 # url = "https://docs.python.org/3/library/urllib.parse.htm"
 # parsed = urlparse(url)
-robot_parser = urllib.robotparser.RobotFileParser()
+import os 
+hashseed = os.getenv('PYTHONHASHSEED')
+os.environ['PYTHONHASHSEED'] = '0'
 
-# rp.set_url(urljoin(parsed.scheme + '://' + parsed.netloc ,  'robots.txt'))
-# rp.read()
-# print(rp.site_maps())
-# print(rp.can_fetch("*", 'https://docs.python.org/dev'))
-
-import requests
-
-current_parsed = urlparse('https://www.allaboutbirds.org/news/')
-
-robot_parser.set_url(urljoin(current_parsed.scheme + '://' + current_parsed.netloc ,  'robots.txt') )
-print(urljoin(current_parsed.scheme + '://' + current_parsed.netloc ,  'robots.txt'))
-robot_parser.read()
-print(robot_parser.can_fetch("*", 'https://www.allaboutbirds.org/news/'))
-print(robot_parser.site_maps)
 #how are we going to split words first of all?:
 
 #Do we care about capitlization - NO
@@ -78,3 +66,7 @@ print(robot_parser.site_maps)
 # Micheals Micheal Micheal's
 
 
+#dict{term : dict{URLS : set(positions)}}
+s = set()
+s.add('fds')
+print('fds' in s)

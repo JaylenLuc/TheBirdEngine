@@ -6,14 +6,17 @@ import bs4
 import re
 from krovetzstemmer import Stemmer
 class Tokenizer:
-
+    
+    #our text classifier
     @staticmethod
     def check_relevance(text : bs4.BeautifulSoup) -> bool:
         #check if bird is in title 
-        if re.search(r'(bird|birds|avian|avians)+', text.title.string.lower() ):
-            return True
-        #if not in title then bird is checked for at least once in the text
-        return re.search(r'(bird|birds|avian|avians)+',text.get_text().lower())
+        if text != None:
+            if re.search(r'(bird|birds|avian|avians)+', text.title.string.lower() ):
+                return True
+            #if not in title then bird is checked for at least once in the text
+            return  3 <= len(re.findall(r'(bird|birds|avian|avians)+',text.get_text().lower()))
+        return False
         
         
     #should  be used to tokenize both query and html including token_conflation and stem_word
