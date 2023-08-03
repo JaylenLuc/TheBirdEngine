@@ -50,6 +50,7 @@ The distance from the riverbank to the island was not great, but at this time of
 # from nltk.corpus import stopwords
 from urllib.parse import urlparse,urljoin
 import urllib.robotparser
+import hashlib
 # url = "https://docs.python.org/3/library/urllib.parse.htm"
 # parsed = urlparse(url)
 import os 
@@ -64,9 +65,29 @@ os.environ['PYTHONHASHSEED'] = '0'
 #stem all the words
 
 # Micheals Micheal Micheal's
+import functools
+from krovetzstemmer import Stemmer
+# BIT_HASH_LENGTH = 3
+# li = [["101",1],["010",5],["111",3],["110",7]]
+    
 
-
-#dict{term : dict{URLS : set(positions)}}
-s = set()
-s.add('fds')
-print('fds' in s)
+            
+# return_vec = [0] * 3
+# for binary_str, weight in li:
+#     for i in range(3):
+#         if binary_str[i] == "1":
+#             return_vec[i] += weight
+#         else:
+#             return_vec[i] -= weight 
+# for i in range(BIT_HASH_LENGTH):
+#     if int(return_vec[i]) > 0 :
+#         return_vec[i] = 1
+#     else:
+#         return_vec[i] = 0
+# print(str(return_vec))
+# current_hash = b"0101101010001100100100110101111010000111011010010111110010111101100101110100010001111010011101011100111010101100010111110100111011111101110100000010111001110010100101010000010101010110000010101101000010001110101010101011000010010111110000101100001100001011"
+# compared_hash =b"1110001100101111011010101000000001100101011011111001000110001100101000010111110001000100010101011101101110100010010010011100000101100010000111010001110001000110110011010001110011100000000110111011111001000100101010101011000101001010110011010000111010011000"
+# new_int = int(current_hash,2) ^ int(compared_hash,2)
+# bin_ = bin(int(new_int))[2:]
+# print(bin_.count('1'))
+print(f"{True}")

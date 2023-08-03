@@ -43,6 +43,6 @@ class Tokenizer:
             stemmer = Stemmer()
             return stemmer.stem(token)
         except UnicodeDecodeError:
-            return ''
+            return token
          
        

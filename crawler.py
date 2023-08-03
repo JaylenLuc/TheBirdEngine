@@ -19,16 +19,16 @@ import urllib.error
 import time 
 from collections import defaultdict
 import os 
-import LocalitySensitiveHashing as LSH
+import  LocalitySensitiveHashing as LSH
 hashseed = os.getenv('PYTHONHASHSEED')
 os.environ['PYTHONHASHSEED'] = '0'
 #stopwords we do at query time
 #from nltk.corpus import stopwords
 #stop_words = set(stopwords.words('english'))
-
+#we can create a ancillary index that indexes the titles of the pages and remove stop words
 class CrawlerThread:
-    url_cache_hash = set()
-    inverted_matrix = defaultdict(dict) #dict{term : dict{URLS : set(positions)}}
+    url_cache_hash = list() #keep last 15 hashes
+    inverted_matrix = defaultdict(dict) #dict{term : dict{URLS : list(positions)}}
 
 
 
@@ -45,7 +45,7 @@ class CrawlerThread:
         #all things we do not want to match for now
         
         #if page is already scraped
-        if current_url.geturl() in CrawlerThread.url_cache_hash: return False
+        #if current_url.geturl() in CrawlerThread.url_cache_hash: return False
        # print("PASSED1")
         #determine if its a frag
         if current_url.fragment : return False
@@ -63,38 +63,47 @@ class CrawlerThread:
         except TypeError:
             return False
 
+    def _add_to_indexer(self) -> None:
 
+        for stemmed_word, positions in self.prelim_dict.items():
 
-    def _add_to_indexer(self) -> None :
+            CrawlerThread.inverted_matrix[stemmed_word][self.current_url] = positions
+
+ 
+
+    def _prelim_parse(self) -> None :
         #we deal with stopwords at query time but stemming at indexing and query 
         # we stem all indices and we stem the query and apply stopwords to the query
         #start1 = time.time()
+        self.prelim_dict = dict()
         print(len(self.tokenized))
         print(self.current_url)
         for index, token in enumerate(self.tokenized):
+
             new_token = tokenizer.Tokenizer.token_conflation(token)
             #start stemming 
             stemmed_word = tokenizer.Tokenizer.stem_word(new_token)
-           
-            print(index, stemmed_word, "| ",end= "\r") #test prints
-            #add to inverted term matrix
-            #right now we are just doing positional lists and proximity matching, we could change this 
 
-            if (not stemmed_word.isnumeric()) or ( len(stemmed_word) <= 10) :
-                
 
-                if len(stemmed_word) > 1: # if stemmed_word.is_numeric() -> if len(stemmed_word) <= 10 
-                    #see if term exists
-                    if self.current_url not in CrawlerThread.inverted_matrix[stemmed_word]:
-                       CrawlerThread.inverted_matrix[stemmed_word][self.current_url] = [index]
+            if (( stemmed_word.isnumeric() and len(stemmed_word) <= 10) or 
+                (len(stemmed_word) > 0 and len(stemmed_word) <= 45) ):
+                    print(index," ",stemmed_word,end = '\r')
+                    # if stemmed_word == 'adélie':
+                    #     print()
+                    if stemmed_word not in self.prelim_dict:
+                       #print("------>", stemmed_word)
+                       self.prelim_dict[stemmed_word] = [index]
 
                     else:
-                        CrawlerThread.inverted_matrix[stemmed_word][self.current_url].append(index)
-            break #TEMP
+                        #print(" ADDED : ", stemmed_word)
+                        self.prelim_dict[stemmed_word].append(index)
+                
+            #break #TEMP
+
                         
                         
         print('Finished 1 article')
-                       
+        
        # start2 = time.time()
         #print("add to index : ", start2 - start1)
     
@@ -119,7 +128,7 @@ class CrawlerThread:
 
 
     def crawl(self) -> None:
-   
+        
         with open("log.txt","w") as log_file:
             count = 0 #TEMP FOR TEST
             
@@ -128,7 +137,7 @@ class CrawlerThread:
                 
 
                 self.current_parsed = urlparse(self.current_url)
-                CrawlerThread.url_cache_hash.add(self.current_parsed.geturl())
+                #CrawlerThread.url_cache_hash.append(self.current_parsed.geturl())
                 robot_parse_url = urljoin(self.current_parsed.scheme + '://' + self.current_parsed.netloc ,  'robots.txt') 
                 no_robot = False
 
@@ -154,24 +163,41 @@ class CrawlerThread:
                     if tokenizer.Tokenizer.check_relevance(self.bs_obj):
                         #parsing
                         self.tokenized = tokenizer.Tokenizer.tokenize(self.bs_obj.get_text())
-
+                    similar = False
                     if self.tokenized: #if list is empty then either it is not relevant or its empty
+                        self._prelim_parse()
+                        hash_byte_string = LSH.LocalitySensitiveHasher.simHash(self.current_url, self)
+                        for hash in CrawlerThread.url_cache_hash:
+                            if LSH.LocalitySensitiveHasher.simHashSimilarityScore(hash_byte_string, hash):
+                                similar = True
+                                print("TOO SIMILAR for : ", self.current_url)
+                                print("current byte string : ",hash_byte_string)
+                                print("compared : ", hash)
+                                print()
+                                break
 
-                        #check the simhash against the last 15 and decide whether to discard 
-                        
-                        self._add_to_indexer()
-                        self._extract_links()
-                            
+                        if not similar: 
+                            if len(CrawlerThread.url_cache_hash) >= 15 : 
+                                CrawlerThread.url_cache_hash.pop(0)
 
+                            CrawlerThread.url_cache_hash.append(hash_byte_string)
 
-                    log_file.write(f"{self.current_url}, {len(self.tokenized) if self.tokenized else self.tokenized }\n")
+                            self._add_to_indexer()
+                            self._extract_links()
+                                
+
+                    
+
+                    log_file.write(f"{self.current_url}, IS RELEVANT : {False if not self.tokenized else True} IS INDEXED : {True if self.tokenized and not similar else False},\n")
 
                     #FOR TEST --------------------
                     count += 1
-                    if count >= 50 :
+                    if count >= 35 :
                         break
                     #END OF TEST ------------------
+                    
                     time.sleep(.5)
+
 
 
 
