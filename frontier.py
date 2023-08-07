@@ -14,3 +14,7 @@ class Frontier:
     def enqueue(self, url : str) -> None:
         #populizes frontier
         Frontier.queue.append(url)
+    
+
+
+

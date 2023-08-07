@@ -10,7 +10,7 @@ class LocalitySensitiveHasher:
     def simHash(current_url : str, crawler_instance : CrawlerThread) -> list:
         final_hash = [0] * 256
 
-        def _generate_32_bit_hash(token : str):
+        def _generate_32_bit_hash(token : str) -> list:
             if (token != None) and (type(token) ==  str) and (len(token) > 0):
                 # print(crawler_instance.prelim_dict)
                 # print()
@@ -39,12 +39,6 @@ class LocalitySensitiveHasher:
                 final_hash[i] = "0"
 
         return final_hash
-
-
-
-            
-
-            
 
     @staticmethod
     def simHashSimilarityScore(current_hash : list, compared_hash : list) -> bool:

@@ -5,21 +5,29 @@
 #store a text representation of the page
 #extract urls from said page and add to the queue
 #Queue = "frontier"
+import os 
+import sys
 
-import bs4
-import frontier
 import urllib
 import urllib.robotparser
-from urllib.parse import urlparse, urljoin
-import tokenizer
-import re
-import requests as req
-from krovetzstemmer import Stemmer
 import urllib.error
-import time 
+import requests as req
+from urllib.parse import urlparse, urljoin
+
+
 from collections import defaultdict
-import os 
+from collections import OrderedDict
+import json
+import re
+import time 
+
 import  LocalitySensitiveHashing as LSH
+import bs4
+import frontier
+import tokenizer
+from krovetzstemmer import Stemmer
+from pympler import asizeof
+
 hashseed = os.getenv('PYTHONHASHSEED')
 os.environ['PYTHONHASHSEED'] = '0'
 #stopwords we do at query time
@@ -28,7 +36,7 @@ os.environ['PYTHONHASHSEED'] = '0'
 #we can create a ancillary index that indexes the titles of the pages and remove stop words
 class CrawlerThread:
     url_cache_hash = list() #keep last 15 hashes
-    inverted_matrix = defaultdict(dict) #dict{term : dict{URLS : list(positions)}}
+    inverted_matrix = defaultdict(dict) #{'a' : {term : {URLS : list(positions)}}}
 
 
 
@@ -66,8 +74,13 @@ class CrawlerThread:
     def _add_to_indexer(self) -> None:
 
         for stemmed_word, positions in self.prelim_dict.items():
+            regex_obj = re.search("[A-Za-z0-9]+",stemmed_word)
+            if regex_obj != None :
 
-            CrawlerThread.inverted_matrix[stemmed_word][self.current_url] = positions
+                if stemmed_word not in  CrawlerThread.inverted_matrix[stemmed_word.lower()[regex_obj.span()[0]]]:
+                    CrawlerThread.inverted_matrix[stemmed_word.lower()[regex_obj.span()[0]]][stemmed_word] = {}
+
+                CrawlerThread.inverted_matrix[stemmed_word.lower()[regex_obj.span()[0]]][stemmed_word][self.current_url] = positions
 
  
 
@@ -164,6 +177,7 @@ class CrawlerThread:
                         #parsing
                         self.tokenized = tokenizer.Tokenizer.tokenize(self.bs_obj.get_text())
                     similar = False
+                    matrix_size_bytes = None
                     if self.tokenized: #if list is empty then either it is not relevant or its empty
                         self._prelim_parse()
                         hash_byte_string = LSH.LocalitySensitiveHasher.simHash(self.current_url, self)
@@ -183,8 +197,10 @@ class CrawlerThread:
                             CrawlerThread.url_cache_hash.append(hash_byte_string)
 
                             self._add_to_indexer()
+                            matrix_size_bytes = asizeof.asizeof(CrawlerThread.inverted_matrix)
+                            print("inverted matrix size in bytes : ", matrix_size_bytes)
                             self._extract_links()
-                                
+                            #profile it -- 500MB to 1GB of RAM then write to disk
 
                     
 
@@ -192,13 +208,51 @@ class CrawlerThread:
 
                     #FOR TEST --------------------
                     count += 1
-                    if count >= 35 :
+                    if count >= 80 :
+                        self.write_to_disk() #TEMP
                         break
                     #END OF TEST ------------------
+
+                    #PROFILING 
                     
+                    matrix_size_bytes = asizeof.asizeof(CrawlerThread.inverted_matrix)
+                    if matrix_size_bytes >= 2000:
+                        
+                        self.write_to_disk()
+
                     time.sleep(.5)
 
+            self.write_to_disk() #write to disk when done
 
+    def write_to_disk(self) -> None:
+        #binary disk write and merge
+        if not os.path.exists("partial_indexes"):
+            os.makedirs("partial_indexes")
+            for letters in range(26):
+                os.makedirs(f'partial_indexes/{chr(97 + letters)}')
+            for number in range(10):
+                os.makedirs(f'partial_indexes/{number}')
+        
+
+        else:
+            print("partial_indexes dir already exists")
+        
+
+        for letter, terms_dict in CrawlerThread.inverted_matrix.items():
+
+            partial_ordered = OrderedDict(sorted(terms_dict.items()))
+
+            
+            print(letter, terms_dict)
+            with open(f"partial_indexes/{letter}/_{len(os.listdir(f'partial_indexes/{letter}'))}.json",'w') as fp:
+                
+                fp.write(json.dumps(partial_ordered, indent = 2))
+        
+        #for this to work, when merging the two partials we must write into the disk line by line and walk the two dicts
+        # The final merged file will NOT be json and will just be a text file where the dict.__repr__() will be written line by line
+        #the seek will read the line and then convert it to a dictionary
+        CrawlerThread.inverted_matrix = {}
+                
 
 
 

@@ -67,7 +67,10 @@ os.environ['PYTHONHASHSEED'] = '0'
 # Micheals Micheal Micheal's
 import functools
 from krovetzstemmer import Stemmer
-# BIT_HASH_LENGTH = 3
+import os
+import json
+from collections import OrderedDict
+#  BIT_HASH_LENGTH = 3
 # li = [["101",1],["010",5],["111",3],["110",7]]
     
 
@@ -90,4 +93,52 @@ from krovetzstemmer import Stemmer
 # new_int = int(current_hash,2) ^ int(compared_hash,2)
 # bin_ = bin(int(new_int))[2:]
 # print(bin_.count('1'))
-print(f"{True}")
+# print(f"{True}")
+
+# if not os.path.exists("partial_indexes"):
+#     os.makedirs("partial_indexes")
+#     for letters in range(26):
+#         os.makedirs(f'partial_indexes/{chr(97 + letters)}')
+# else:
+#     print("partial_indexes dir already exists")
+
+# temp = {'a' : {'azera' : {"1" : [1,2,3,4,5,6,67],"2" : [1,2,3,4,5,6,67],"14" : [1,2,3,323234,5,6,67]},'albert' : {"1" : [1,2,3,4,5,6,67],"2" : [1,2,3,4,5,6,67]},'abudia' : {"5" : [1111,2,3,4,5,6,67],"6" : [1111,2,3,4,5,6,64327]}},
+#         'x' : {'xzera' : {"1" : [1,2,3,4,5,6,67],"2" : [1,2,3,4,5,6,67],"14" : [1,2,3,323234,5,6,67]},'xlbert' : {"1" : [1,2,3,4,5,6,67],"2" : [1,2,3,4,5,6,67]},'xbudia' : {"5" : [1111,2,3,4,5,6,67],"6" : [1111,2,3,4,5,6,64327]}}
+        
+        
+        
+#         }
+# # temp1 = {'a' : {'albert' : {"11" : [1,2,3,4,245,6,67],"22" : [1,2,3,434,5,6,67]},'abudia' : {"55" : [1111,2,3,4,5,6,67],"67" : [1111,243,3,4,5,6,64327]}}}
+# # print(temp['a']['abudia'])
+# # temp_ordered = {}
+# # for letter, term_dict in temp.items():
+# #     temp_ordered = collections.OrderedDict(sorted(term_dict.items()))
+# #     temp[letter] = {}
+# # print(temp_ordered)
+# # print(temp)
+
+
+# # with open("partial_indexes/a.json",'w') as fp:
+
+# #     json.dump(temp_ordered ,fp)
+
+# print(temp)
+# for letter, term_dict in temp.items():
+
+#     partial_ordered = OrderedDict(sorted(term_dict.items()))
+    
+#     with open(f"partial_indexes/{letter}/_{len(os.listdir(f'partial_indexes/{letter}'))}.json",'w') as fp:
+#         fp.write(json.dumps(partial_ordered, indent = 2))
+
+
+#     term_dict[letter] = {}
+ 
+# openoed = open(r"C:\Users\Jaylen\Desktop\TheBirdEngine\partial_indexes\a\_26.json",'r')
+
+# dd = json.load(openoed)
+# print("josnis read : ", dd['albert'])
+
+my_object = ["fdjsafhdsjklfhsdajkfhsdm,lhfdshjkfasjkfhsdkjldsafhsadkjfhsdjkfhasjkfhdlkjfhsadj gfklsdajhfkjsdagfhys",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]
+
+from pympler import asizeof
+print(asizeof.asizeof(my_object)) # should give you the ful
