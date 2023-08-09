@@ -1,0 +1,27 @@
+{
+  "gbif": {
+    "https://en.wikipedia.org/wiki/African_collared_dove": [
+      558
+    ]
+  },
+  "general": {
+    "https://en.wikipedia.org/wiki/African_collared_dove": [
+      106
+    ]
+  },
+  "genus": {
+    "https://en.wikipedia.org/wiki/African_collared_dove": [
+      230
+    ]
+  },
+  "grass": {
+    "https://en.wikipedia.org/wiki/African_collared_dove": [
+      454
+    ]
+  },
+  "grayish": {
+    "https://en.wikipedia.org/wiki/African_collared_dove": [
+      304
+    ]
+  }
+}

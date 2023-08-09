@@ -1,0 +1,23 @@
+{
+  "gbif": {
+    "https://en.wikipedia.org/wiki/Abyssinian_longclaw": [
+      297
+    ]
+  },
+  "general": {
+    "https://en.wikipedia.org/wiki/Abyssinian_longclaw": [
+      103
+    ]
+  },
+  "genus": {
+    "https://en.wikipedia.org/wiki/Abyssinian_longclaw": [
+      155
+    ]
+  },
+  "grassland": {
+    "https://en.wikipedia.org/wiki/Abyssinian_longclaw": [
+      195,
+      230
+    ]
+  }
+}

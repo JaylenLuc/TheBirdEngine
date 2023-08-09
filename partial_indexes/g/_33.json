@@ -1,0 +1,48 @@
+{
+  "(genus": {
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      559
+    ]
+  },
+  "gabon[4]": {
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      365
+    ]
+  },
+  "gbif": {
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      745
+    ]
+  },
+  "general": {
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      112
+    ]
+  },
+  "genetic": {
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      209
+    ]
+  },
+  "genus": {
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      165,
+      205
+    ]
+  },
+  "grass": {
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      479
+    ]
+  },
+  "ground[5]": {
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      496
+    ]
+  },
+  "group": {
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      214
+    ]
+  }
+}

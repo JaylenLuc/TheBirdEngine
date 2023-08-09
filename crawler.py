@@ -27,6 +27,8 @@ import frontier
 import tokenizer
 from krovetzstemmer import Stemmer
 from pympler import asizeof
+from pathlib import Path
+import pymongo as mongo
 
 hashseed = os.getenv('PYTHONHASHSEED')
 os.environ['PYTHONHASHSEED'] = '0'
@@ -43,6 +45,7 @@ class CrawlerThread:
     def __init__(self) -> None:
         self.frontier = frontier.Frontier()
         self.robot_parser = urllib.robotparser.RobotFileParser()
+        self.client_connection = mongo.MongoClient()
     
 
 
@@ -74,13 +77,20 @@ class CrawlerThread:
     def _add_to_indexer(self) -> None:
 
         for stemmed_word, positions in self.prelim_dict.items():
+
             regex_obj = re.search("[A-Za-z0-9]+",stemmed_word)
-            if regex_obj != None :
 
-                if stemmed_word not in  CrawlerThread.inverted_matrix[stemmed_word.lower()[regex_obj.span()[0]]]:
-                    CrawlerThread.inverted_matrix[stemmed_word.lower()[regex_obj.span()[0]]][stemmed_word] = {}
+            if regex_obj != None:
 
-                CrawlerThread.inverted_matrix[stemmed_word.lower()[regex_obj.span()[0]]][stemmed_word][self.current_url] = positions
+                alphabet_to_index = stemmed_word.lower()[regex_obj.span()[0]]
+
+                if alphabet_to_index not in CrawlerThread.inverted_matrix:
+                        CrawlerThread.inverted_matrix[alphabet_to_index] = {}
+
+                if stemmed_word not in  CrawlerThread.inverted_matrix[alphabet_to_index]:
+                    CrawlerThread.inverted_matrix[alphabet_to_index][stemmed_word] = {}
+
+                CrawlerThread.inverted_matrix[alphabet_to_index][stemmed_word][self.current_url] = positions
 
  
 
@@ -204,7 +214,8 @@ class CrawlerThread:
 
                     
 
-                    log_file.write(f"{self.current_url}, IS RELEVANT : {False if not self.tokenized else True} IS INDEXED : {True if self.tokenized and not similar else False},\n")
+                    log_file.write(f"{self.current_url}, IS RELEVANT : {False if not self.tokenized else True} IS INDEXED : \
+                                   {True if self.tokenized and not similar else False},\n")
 
                     #FOR TEST --------------------
                     count += 1
@@ -216,7 +227,7 @@ class CrawlerThread:
                     #PROFILING 
                     
                     matrix_size_bytes = asizeof.asizeof(CrawlerThread.inverted_matrix)
-                    if matrix_size_bytes >= 2000:
+                    if matrix_size_bytes >= 200000:
                         
                         self.write_to_disk()
 
@@ -225,7 +236,8 @@ class CrawlerThread:
             self.write_to_disk() #write to disk when done
 
     def write_to_disk(self) -> None:
-        #binary disk write and merge
+        #binary disk write 
+
         if not os.path.exists("partial_indexes"):
             os.makedirs("partial_indexes")
             for letters in range(26):
@@ -243,15 +255,31 @@ class CrawlerThread:
             partial_ordered = OrderedDict(sorted(terms_dict.items()))
 
             
-            print(letter, terms_dict)
+            #print(letter, terms_dict)
             with open(f"partial_indexes/{letter}/_{len(os.listdir(f'partial_indexes/{letter}'))}.json",'w') as fp:
                 
                 fp.write(json.dumps(partial_ordered, indent = 2))
         
-        #for this to work, when merging the two partials we must write into the disk line by line and walk the two dicts
-        # The final merged file will NOT be json and will just be a text file where the dict.__repr__() will be written line by line
-        #the seek will read the line and then convert it to a dictionary
+
         CrawlerThread.inverted_matrix = {}
+    
+    def merge_files(self) -> None:
+
+        #_0 is going to be the main merge file
+        pass
+
+
+
+
+    def get_auxillary_indices(self, flag = "index_of_indices") -> dict:
+        #will connect to mongoDB server to get indices and read into memory
+        if flag == "index_of_indices":
+            pass
+        elif flag == "index_of_pics":
+            pass
+
+        return dict()
+
                 
 
 

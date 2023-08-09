@@ -1,0 +1,89 @@
+{
+  "identify": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      521
+    ]
+  },
+  "implication": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      300
+    ]
+  },
+  "in": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      46,
+      52,
+      117,
+      132,
+      171,
+      245,
+      269,
+      283,
+      493,
+      557
+    ]
+  },
+  "inaturalist": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      534
+    ]
+  },
+  "inc": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      625
+    ]
+  },
+  "include": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      239
+    ]
+  },
+  "informationcite": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      108
+    ]
+  },
+  "international": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      472
+    ]
+  },
+  "iran": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      249,
+      256
+    ]
+  },
+  "iraq": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      180,
+      246
+    ]
+  },
+  "is": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      166,
+      176,
+      223,
+      588,
+      617
+    ]
+  },
+  "it": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      175,
+      185,
+      285
+    ]
+  },
+  "item": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      111
+    ]
+  },
+  "iti": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      536
+    ]
+  }
+}

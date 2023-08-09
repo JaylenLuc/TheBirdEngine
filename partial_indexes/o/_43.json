@@ -1,0 +1,90 @@
+{
+  "of": {
+    "https://en.wikipedia.org/wiki/African_finfoot": [
+      35,
+      81,
+      86,
+      139,
+      204,
+      271,
+      331,
+      343,
+      405,
+      422,
+      442,
+      602,
+      615,
+      618,
+      653,
+      713,
+      715,
+      718,
+      784,
+      794,
+      811
+    ]
+  },
+  "off": {
+    "https://en.wikipedia.org/wiki/African_finfoot": [
+      335
+    ]
+  },
+  "on": {
+    "https://en.wikipedia.org/wiki/African_finfoot": [
+      241,
+      287,
+      305,
+      348,
+      418,
+      446,
+      745,
+      752
+    ]
+  },
+  "only": {
+    "https://en.wikipedia.org/wiki/African_finfoot": [
+      483,
+      565
+    ]
+  },
+  "opportunistic": {
+    "https://en.wikipedia.org/wiki/African_finfoot": [
+      327
+    ]
+  },
+  "or": {
+    "https://en.wikipedia.org/wiki/African_finfoot": [
+      369,
+      417,
+      530
+    ]
+  },
+  "order": {
+    "https://en.wikipedia.org/wiki/African_finfoot": [
+      159
+    ]
+  },
+  "organization": {
+    "https://en.wikipedia.org/wiki/African_finfoot": [
+      802
+    ]
+  },
+  "ornithologist": {
+    "https://en.wikipedia.org/wiki/African_finfoot": [
+      378
+    ]
+  },
+  "other": {
+    "https://en.wikipedia.org/wiki/African_finfoot": [
+      129,
+      484,
+      499
+    ]
+  },
+  "out": {
+    "https://en.wikipedia.org/wiki/African_finfoot": [
+      56,
+      342
+    ]
+  }
+}

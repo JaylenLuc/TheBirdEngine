@@ -1,0 +1,51 @@
+{
+  "gambia": {
+    "https://en.wikipedia.org/wiki/African_golden_oriole": [
+      336
+    ]
+  },
+  "gbif": {
+    "https://en.wikipedia.org/wiki/African_golden_oriole": [
+      563
+    ]
+  },
+  "general": {
+    "https://en.wikipedia.org/wiki/African_golden_oriole": [
+      116
+    ]
+  },
+  "genus": {
+    "https://en.wikipedia.org/wiki/African_golden_oriole": [
+      174
+    ]
+  },
+  "gold": {
+    "https://en.wikipedia.org/wiki/African_golden_oriole": [
+      401
+    ]
+  },
+  "golden": {
+    "https://en.wikipedia.org/wiki/African_golden_oriole": [
+      1,
+      92,
+      147,
+      189,
+      296,
+      325,
+      345,
+      412,
+      538
+    ]
+  },
+  "great": {
+    "https://en.wikipedia.org/wiki/African_golden_oriole": [
+      398
+    ]
+  },
+  "green": {
+    "https://en.wikipedia.org/wiki/African_golden_oriole": [
+      423,
+      456
+    ]
+  }
+}

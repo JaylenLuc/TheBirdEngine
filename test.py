@@ -48,29 +48,29 @@ The distance from the riverbank to the island was not great, but at this time of
 """
 
 # from nltk.corpus import stopwords
-from urllib.parse import urlparse,urljoin
-import urllib.robotparser
-import hashlib
-# url = "https://docs.python.org/3/library/urllib.parse.htm"
-# parsed = urlparse(url)
-import os 
-hashseed = os.getenv('PYTHONHASHSEED')
-os.environ['PYTHONHASHSEED'] = '0'
+# from urllib.parse import urlparse,urljoin
+# import urllib.robotparser
+# import hashlib
+# # url = "https://docs.python.org/3/library/urllib.parse.htm"
+# # parsed = urlparse(url)
+# import os 
+# hashseed = os.getenv('PYTHONHASHSEED')
+# os.environ['PYTHONHASHSEED'] = '0'
 
-#how are we going to split words first of all?:
+# #how are we going to split words first of all?:
 
-#Do we care about capitlization - NO
-#how about apostrophies or periods? what about hyphens -(periods we split, hyphens and em dashes we split, apostrpoohies )?
-#eg I.B.M , query : IBM --- fixed by igonoring periods only when it is followed by a space ---> conflate the entire token
-#stem all the words
+# #Do we care about capitlization - NO
+# #how about apostrophies or periods? what about hyphens -(periods we split, hyphens and em dashes we split, apostrpoohies )?
+# #eg I.B.M , query : IBM --- fixed by igonoring periods only when it is followed by a space ---> conflate the entire token
+# #stem all the words
 
-# Micheals Micheal Micheal's
-import functools
-from krovetzstemmer import Stemmer
-import os
-import json
-from collections import OrderedDict
-#  BIT_HASH_LENGTH = 3
+# # Micheals Micheal Micheal's
+# import functools
+# from krovetzstemmer import Stemmer
+# import os
+# import json
+# from collections import OrderedDict
+# #  BIT_HASH_LENGTH = 3
 # li = [["101",1],["010",5],["111",3],["110",7]]
     
 
@@ -102,43 +102,147 @@ from collections import OrderedDict
 # else:
 #     print("partial_indexes dir already exists")
 
-# temp = {'a' : {'azera' : {"1" : [1,2,3,4,5,6,67],"2" : [1,2,3,4,5,6,67],"14" : [1,2,3,323234,5,6,67]},'albert' : {"1" : [1,2,3,4,5,6,67],"2" : [1,2,3,4,5,6,67]},'abudia' : {"5" : [1111,2,3,4,5,6,67],"6" : [1111,2,3,4,5,6,64327]}},
-#         'x' : {'xzera' : {"1" : [1,2,3,4,5,6,67],"2" : [1,2,3,4,5,6,67],"14" : [1,2,3,323234,5,6,67]},'xlbert' : {"1" : [1,2,3,4,5,6,67],"2" : [1,2,3,4,5,6,67]},'xbudia' : {"5" : [1111,2,3,4,5,6,67],"6" : [1111,2,3,4,5,6,64327]}}
         
         
         
 #         }
-# # temp1 = {'a' : {'albert' : {"11" : [1,2,3,4,245,6,67],"22" : [1,2,3,434,5,6,67]},'abudia' : {"55" : [1111,2,3,4,5,6,67],"67" : [1111,243,3,4,5,6,64327]}}}
-# # print(temp['a']['abudia'])
-# # temp_ordered = {}
-# # for letter, term_dict in temp.items():
-# #     temp_ordered = collections.OrderedDict(sorted(term_dict.items()))
-# #     temp[letter] = {}
-# # print(temp_ordered)
+# temp1 = {'a' : {'albert' : {"11" : [1,2,3,4,245,6,67],"22" : [1,2,3,434,5,6,67]},'abudia' : {"55" : [1111,2,3,4,5,6,67],"67" : [1111,243,3,4,5,6,64327]}}}
+# print(temp['a']['abudia'])
+# temp_ordered = {}
+# for letter, term_dict in temp.items():
+#     temp_ordered = collections.OrderedDict(sorted(term_dict.items()))
+#     temp[letter] = {}
+# print(temp_ordered)
+# print(temp)
+
+
+# with open("partial_indexes/a.json",'w') as fp:
+
+#     json.dump(temp_ordered ,fp)
+
 # # print(temp)
 
+# def test():
+#     for letter, term_dict in temp.items():
 
-# # with open("partial_indexes/a.json",'w') as fp:
-
-# #     json.dump(temp_ordered ,fp)
-
-# print(temp)
-# for letter, term_dict in temp.items():
-
-#     partial_ordered = OrderedDict(sorted(term_dict.items()))
-    
-#     with open(f"partial_indexes/{letter}/_{len(os.listdir(f'partial_indexes/{letter}'))}.json",'w') as fp:
-#         fp.write(json.dumps(partial_ordered, indent = 2))
+#         partial_ordered = OrderedDict(sorted(term_dict.items()))
+        
+#         with open(f"partial_indexes/{letter}/_{len(os.listdir(f'partial_indexes/{letter}'))}.json",'w') as fp:
+                    
+#             fp.write(json.dumps(partial_ordered, indent = 2))
+temp = {'a' : {'azera' : {"1" : [1,2,3,4,5,6,67],"2" : [1,2,3,4,5,6,67],"14" : [1,2,3,323234,5,6,67]},'albert' : {"1" : [1,2,3,4,5,6,67],"2" : [1,2,3,4,5,6,67]},'abudia' : {"5" : [1111,2,3,4,5,6,67],"6" : [1111,2,3,4,5,6,64327]}},
+         'x' : {'xzera' : {"1" : [1,2,3,4,5,6,67],"2" : [1,2,3,4,5,6,67],"14" : [1,2,3,323234,5,6,67]},'xlbert' : {"1" : [1,2,3,4,5,6,67],"2" : [1,2,3,4,5,6,67]},'xbudia' : {"5" : [1111,2,3,4,5,6,67],"6" : [1111,2,3,4,5,6,64327]}}}
 
 
-#     term_dict[letter] = {}
- 
-# openoed = open(r"C:\Users\Jaylen\Desktop\TheBirdEngine\partial_indexes\a\_26.json",'r')
+import pymongo as mongo
+import pprint
+#-------------------------------------------------------------------------------------------------------------------
+# conn_str = "mongodb+srv://jaylenluc1:cocmaster1@cluster0.xtpwykd.mongodb.net/?retryWrites=true&w=majority"
 
-# dd = json.load(openoed)
-# print("josnis read : ", dd['albert'])
+# client = mongo.MongoClient(conn_str)
 
-my_object = ["fdjsafhdsjklfhsdajkfhsdm,lhfdshjkfasjkfhsdkjldsafhsadkjfhsdjkfhasjkfhdlkjfhsadj gfklsdajhfkjsdagfhys",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]
+# try:
+#     client.admin.command('ping')
+#     print("Pinged your deployment. You successfully connected to MongoDB!")
+# except Exception as e:
+#     print(e)
 
-from pympler import asizeof
-print(asizeof.asizeof(my_object)) # should give you the ful
+# db = client["test_db"]
+
+# print(db.list_collection_names())
+
+# posts = db.posts
+
+# def make1():
+#     print(client.list_database_names())
+
+#     post_id = posts.insert_one(temp).inserted_id
+
+#     print(post_id)
+
+#     print(client.list_database_names())
+
+# def find1():
+#     #pprint.pprint(posts.find_one())
+#     print()
+#     print('hi')
+#     print(posts.find_one())
+#     cursor = posts.find({},{'x' : 1})
+#     print('cursor')
+#     print(cursor[0])
+
+
+
+# #make1()
+# find1()
+
+#-------------------------------------------------------------------------------------------------------------------
+from pathlib import Path
+import os
+import json
+if not os.path.exists("partial_indexes"):
+    os.makedirs("partial_indexes")
+    for letters in range(26):
+        os.makedirs(f'partial_indexes/{chr(97 + letters)}')
+    for number in range(10):
+        os.makedirs(f'partial_indexes/{number}')
+
+
+def merger():
+    path = "partial_indexes"
+    for alphabet in os.listdir(path):
+        cur_path = Path(os.path.join(path,alphabet))
+        list_of_partials = list(cur_path.iterdir())
+        final_merge = Path(list_of_partials[0])
+        with open(final_merge, "w") as final_merged_file:
+            for partial_index in list_of_partials[1:]:
+                #read dict from final file
+                final_partial_dict = list(json.loads(json.load(final_merged_file)).items())
+
+                with open(partial_index, "r") as partial_to_merge:
+                    #read dict form file to merge
+                    partial_dict = list(json.loads(json.load(partial_to_merge)).items())
+
+                    while True:
+                        pass
+
+
+
+
+test1 = {"rew" : {"fdsafdas": [1,2,3,4,5], "fdsafdsafad" : [32532543]}, "hi" : {'fdsafd' : [54325]}, "rewr" : {"fdsafdsaf" : [543,4324]}}
+
+test2 = {"aplzaplrew" : {'fdsafds' : [2,34,5,7,3]}, "plpklphi" : {"fdasfdsa" : [1,2,4,6,7], "vbcnxzmvb" : [1,2,43]}}
+
+test1 = list(test1.items())
+test2 = list(test2.items())
+pointer1 = 0
+pointer2 = 0
+print(test1[pointer1][0])
+print(test1[pointer1][1])
+to_be_added = dict()
+to_be_added[test1[pointer1][0]] =  test1[pointer1][1]
+print(to_be_added)
+if "ab" < "albert":
+    print("ab is first")
+else:
+    print("albert is first")
+new_dict = dict() #dict to be dumped into json final merge file
+while pointer1 < len(test1) and pointer2 < len(test2):
+    entry1 = test1[pointer1]
+    entry2 = test2[pointer2]
+    if entry1[0] < entry2[0]:
+        new_dict[entry1[0]] =  entry1[1]
+        pointer1 += 1
+    else:
+        new_dict[entry2[0]] =  entry2[1]
+        pointer2 += 1
+
+#NOW  YOUR JOB IS TO TAKE THE REST OF THE DICTIONARY AND THEN DUMP IT TO NEW_DICT
+
+
+#merger()
+
+
+
+
+

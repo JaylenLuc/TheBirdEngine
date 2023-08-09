@@ -1,0 +1,62 @@
+{
+  "habitat": {
+    "https://en.wikipedia.org/wiki/Abyssinian_longclaw": [
+      188,
+      255
+    ]
+  },
+  "habitat[edit]": {
+    "https://en.wikipedia.org/wiki/Abyssinian_longclaw": [
+      184
+    ]
+  },
+  "help": {
+    "https://en.wikipedia.org/wiki/Abyssinian_longclaw": [
+      320
+    ]
+  },
+  "helplearn": {
+    "https://en.wikipedia.org/wiki/Abyssinian_longclaw": [
+      22
+    ]
+  },
+  "hererelate": {
+    "https://en.wikipedia.org/wiki/Abyssinian_longclaw": [
+      106
+    ]
+  },
+  "hide": {
+    "https://en.wikipedia.org/wiki/Abyssinian_longclaw": [
+      13,
+      65,
+      99
+    ]
+  },
+  "high": {
+    "https://en.wikipedia.org/wiki/Abyssinian_longclaw": [
+      193
+    ]
+  },
+  "highlands": {
+    "https://en.wikipedia.org/wiki/Abyssinian_longclaw": [
+      199,
+      239
+    ]
+  },
+  "highlandsbird": {
+    "https://en.wikipedia.org/wiki/Abyssinian_longclaw": [
+      343
+    ]
+  },
+  "history": {
+    "https://en.wikipedia.org/wiki/Abyssinian_longclaw": [
+      93,
+      102
+    ]
+  },
+  "http": {
+    "https://en.wikipedia.org/wiki/Abyssinian_longclaw": [
+      327
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "valid": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      381
+    ]
+  },
+  "variation": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      222
+    ]
+  },
+  "vaurie": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      396
+    ]
+  },
+  "version": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      116,
+      470
+    ]
+  },
+  "view": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      641
+    ]
+  },
+  "vocalize": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      217
+    ]
+  },
+  "vol": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      510
+    ]
+  },
+  "volume": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      365
+    ]
+  }
+}

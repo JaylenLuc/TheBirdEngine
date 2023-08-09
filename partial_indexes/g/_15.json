@@ -1,0 +1,34 @@
+{
+  "gbif": {
+    "https://en.wikipedia.org/wiki/Abyssinian_owl": [
+      489,
+      511
+    ]
+  },
+  "general": {
+    "https://en.wikipedia.org/wiki/Abyssinian_owl": [
+      106
+    ]
+  },
+  "genus": {
+    "https://en.wikipedia.org/wiki/Abyssinian_owl": [
+      162,
+      278
+    ]
+  },
+  "gorge": {
+    "https://en.wikipedia.org/wiki/Abyssinian_owl": [
+      318
+    ]
+  },
+  "grassland": {
+    "https://en.wikipedia.org/wiki/Abyssinian_owl": [
+      302
+    ]
+  },
+  "gray": {
+    "https://en.wikipedia.org/wiki/Abyssinian_owl": [
+      201
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "gbif": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      532
+    ]
+  },
+  "gelang": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      421
+    ]
+  },
+  "general": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      100
+    ]
+  },
+  "genus": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      148,
+      271,
+      291
+    ]
+  },
+  "gill": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      458
+    ]
+  },
+  "group": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      238
+    ]
+  }
+}

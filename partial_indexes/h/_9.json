@@ -1,0 +1,65 @@
+{
+  "habitat": {
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      424,
+      446
+    ]
+  },
+  "habitat[edit]": {
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      416
+    ]
+  },
+  "handbook": {
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      624
+    ]
+  },
+  "has": {
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      449,
+      492,
+      664,
+      671
+    ]
+  },
+  "helplearn": {
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      22
+    ]
+  },
+  "hererelate": {
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      109
+    ]
+  },
+  "hidden": {
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      436
+    ]
+  },
+  "hide": {
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      13,
+      65,
+      102
+    ]
+  },
+  "history": {
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      96,
+      105,
+      648
+    ]
+  },
+  "houghton": {
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      614
+    ]
+  },
+  "http": {
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      784
+    ]
+  }
+}

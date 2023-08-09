@@ -1,0 +1,54 @@
+{
+  "g": {
+    "https://en.wikipedia.org/wiki/Acacia_tit": [
+      337
+    ]
+  },
+  "gbif": {
+    "https://en.wikipedia.org/wiki/Acacia_tit": [
+      840,
+      858
+    ]
+  },
+  "general": {
+    "https://en.wikipedia.org/wiki/Acacia_tit": [
+      110
+    ]
+  },
+  "genus": {
+    "https://en.wikipedia.org/wiki/Acacia_tit": [
+      162,
+      467,
+      489
+    ]
+  },
+  "gill": {
+    "https://en.wikipedia.org/wiki/Acacia_tit": [
+      767
+    ]
+  },
+  "glossy": {
+    "https://en.wikipedia.org/wiki/Acacia_tit": [
+      232
+    ]
+  },
+  "great": {
+    "https://en.wikipedia.org/wiki/Acacia_tit": [
+      524
+    ]
+  },
+  "grey": {
+    "https://en.wikipedia.org/wiki/Acacia_tit": [
+      192,
+      222,
+      275,
+      306,
+      501
+    ]
+  },
+  "greyish": {
+    "https://en.wikipedia.org/wiki/Acacia_tit": [
+      294
+    ]
+  }
+}

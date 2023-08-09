@@ -5,7 +5,7 @@ import hashlib
 
 class LocalitySensitiveHasher: 
     _BIT_HASH_LENGTH = 256
-    _SIM_HASH_THRESHOLD = 12
+    _SIM_HASH_THRESHOLD = 8
     @staticmethod
     def simHash(current_url : str, crawler_instance : CrawlerThread) -> list:
         final_hash = [0] * 256

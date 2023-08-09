@@ -1,0 +1,36 @@
+{
+  "validate": {
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      399
+    ]
+  },
+  "version": {
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      126,
+      443,
+      449
+    ]
+  },
+  "very": {
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      304
+    ]
+  },
+  "view": {
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      813
+    ]
+  },
+  "vteold": {
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      552
+    ]
+  },
+  "vulnerable": {
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      157,
+      326,
+      722
+    ]
+  }
+}

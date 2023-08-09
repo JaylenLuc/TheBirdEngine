@@ -1,0 +1,56 @@
+{
+  "garden": {
+    "https://en.wikipedia.org/wiki/African_cuckoo-hawk": [
+      411
+    ]
+  },
+  "gbif": {
+    "https://en.wikipedia.org/wiki/African_cuckoo-hawk": [
+      941
+    ]
+  },
+  "general": {
+    "https://en.wikipedia.org/wiki/African_cuckoo-hawk": [
+      110,
+      532
+    ]
+  },
+  "genus": {
+    "https://en.wikipedia.org/wiki/African_cuckoo-hawk": [
+      163
+    ]
+  },
+  "geography": {
+    "https://en.wikipedia.org/wiki/African_cuckoo-hawk": [
+      479
+    ]
+  },
+  "gill": {
+    "https://en.wikipedia.org/wiki/African_cuckoo-hawk": [
+      809
+    ]
+  },
+  "grass": {
+    "https://en.wikipedia.org/wiki/African_cuckoo-hawk": [
+      687
+    ]
+  },
+  "grasshopper": {
+    "https://en.wikipedia.org/wiki/African_cuckoo-hawk": [
+      626
+    ]
+  },
+  "grey": {
+    "https://en.wikipedia.org/wiki/African_cuckoo-hawk": [
+      250,
+      273,
+      276
+    ]
+  },
+  "ground": {
+    "https://en.wikipedia.org/wiki/African_cuckoo-hawk": [
+      597,
+      714
+    ]
+  }
+}
