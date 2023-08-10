@@ -180,6 +180,7 @@ import pprint
 from pathlib import Path
 import os
 import json
+#creates the directory
 if not os.path.exists("partial_indexes"):
     os.makedirs("partial_indexes")
     for letters in range(26):
@@ -188,61 +189,148 @@ if not os.path.exists("partial_indexes"):
         os.makedirs(f'partial_indexes/{number}')
 
 
-def merger():
+def single_thread_binary_merger():
+
+    def is_empty(file_list) -> bool:
+        if type(file_list) == list:
+            if len(file_list) > 0 : return False
+            else : return True
+        else:
+            char = file_list.read(1)
+            return char != '{'
+
     path = "partial_indexes"
     for alphabet in os.listdir(path):
+        print(alphabet)
         cur_path = Path(os.path.join(path,alphabet))
         list_of_partials = list(cur_path.iterdir())
         final_merge = Path(list_of_partials[0])
-        with open(final_merge, "w") as final_merged_file:
+       #print(final_merge)
+        with open(final_merge, "r+") as final_merged_file:
+            final_merged_is_empty = False
+
+            if is_empty(final_merged_file): 
+                print('is empty for final merge')
+                final_merged_is_empty = True
+
             for partial_index in list_of_partials[1:]:
+                print(partial_index)
                 #read dict from final file
-                final_partial_dict = list(json.loads(json.load(final_merged_file)).items())
+                pointer1 = 0
+                pointer2 = 0
 
-                with open(partial_index, "r") as partial_to_merge:
+                with open(partial_index, "r+") as partial_to_merge:
                     #read dict form file to merge
-                    partial_dict = list(json.loads(json.load(partial_to_merge)).items())
+                    partial_dict = list(json.load(partial_to_merge).items())
+                    partial_to_merge.seek(0)
+                    #print(len(partial_dict))
+                    partial_length = len(partial_dict)
+                    #print(is_empty(partial_to_merge))
+                    if final_merged_is_empty and not is_empty(partial_dict): 
+                        data = json.load(partial_to_merge)
+                        
+                        json.dump(data ,final_merged_file,indent = 2)
+                        final_merged_file.seek(0)
+                        # print("dumped")
+                        final_merged_is_empty = False
+                        continue 
 
-                    while True:
-                        pass
+                    if is_empty(partial_dict):
+                        continue
+
+                    final_partial_dict = list(json.load(final_merged_file).items())
+                    final_merged_file.seek(0)
+                    final_partial_length = len(final_partial_dict)
+
+                    new_dict = dict() #dict to be dumped into json final merge file
+                    while pointer1 < final_partial_length and pointer2 < partial_length:
+                        entry1 = final_partial_dict[pointer1]
+                        entry2 = partial_dict[pointer2]
+                        if entry1[0] < entry2[0]:
+                            new_dict[entry1[0]] =  entry1[1]
+                            pointer1 += 1
+                        #shared keys are nulled
+                        elif entry1[0] == entry2[0]:
+                            # print("key : ", entry1[0], " ",entry2[0])
+                            # print(entry1[1])
+                            # print(entry2[1])
+                            new_merged_dict = entry1[1] | entry2[1]
+                            # print()
+                            # print(new_merged_dict)
+                            
+                            new_dict[entry1[0]] = new_merged_dict
+                            pointer1+=1
+                            pointer2 +=1
+                        else:
+                            new_dict[entry2[0]] =  entry2[1]
+                            pointer2 += 1
+                    #dump the rest of the dictionary which ever one is left
+                    while pointer1 < final_partial_length:
+                        new_dict[final_partial_dict[pointer1][0]] = final_partial_dict[pointer1][1]
+                        pointer1 +=1
+                    while pointer2 < partial_length:
+                        new_dict[partial_dict[pointer2][0]] = partial_dict[pointer2][1]
+                        pointer2 +=1
+
+                json.dump(new_dict,final_merged_file, indent = 2)
+                final_merged_file.seek(0)
+                new_dict = {}
+        break
 
 
 
 
-test1 = {"rew" : {"fdsafdas": [1,2,3,4,5], "fdsafdsafad" : [32532543]}, "hi" : {'fdsafd' : [54325]}, "rewr" : {"fdsafdsaf" : [543,4324]}}
-
-test2 = {"aplzaplrew" : {'fdsafds' : [2,34,5,7,3]}, "plpklphi" : {"fdasfdsa" : [1,2,4,6,7], "vbcnxzmvb" : [1,2,43]}}
-
-test1 = list(test1.items())
-test2 = list(test2.items())
-pointer1 = 0
-pointer2 = 0
-print(test1[pointer1][0])
-print(test1[pointer1][1])
-to_be_added = dict()
-to_be_added[test1[pointer1][0]] =  test1[pointer1][1]
-print(to_be_added)
-if "ab" < "albert":
-    print("ab is first")
-else:
-    print("albert is first")
-new_dict = dict() #dict to be dumped into json final merge file
-while pointer1 < len(test1) and pointer2 < len(test2):
-    entry1 = test1[pointer1]
-    entry2 = test2[pointer2]
-    if entry1[0] < entry2[0]:
-        new_dict[entry1[0]] =  entry1[1]
-        pointer1 += 1
-    else:
-        new_dict[entry2[0]] =  entry2[1]
-        pointer2 += 1
-
-#NOW  YOUR JOB IS TO TAKE THE REST OF THE DICTIONARY AND THEN DUMP IT TO NEW_DICT
 
 
-#merger()
+#test code
+# test1 = {"rew" : {"fdsafdas": [1,2,3,4,5], "fdsafdsafad" : [32532543]}, "hi" : {'fdsafd' : [54325]}, "rewr" : {"fdsafdsaf" : [543,4324]}}
+
+# test2 = {"aplzaplrew" : {'fdsafds' : [2,34,5,7,3]}, "plpklphi" : {"fdasfdsa" : [1,2,4,6,7], "vbcnxzmvb" : [1,2,43]}}
+
+# test1 = list(test1.items())
+# test2 = list(test2.items())
+# pointer1 = 0
+# pointer2 = 0
+# print(test1[pointer1][0])
+# print(test1[pointer1][1])
+# to_be_added = dict()
+# to_be_added[test1[pointer1][0]] =  test1[pointer1][1]
+# print(to_be_added)
+# if "ab" < "albert":
+#     print("ab is first")
+# else:
+#     print("albert is first")
 
 
+
+# new_dict = dict() #dict to be dumped into json final merge file
+# while pointer1 < len(test1) and pointer2 < len(test2):
+#     entry1 = test1[pointer1]
+#     entry2 = test2[pointer2]
+#     if entry1[0] < entry2[0]:
+#         new_dict[entry1[0]] =  entry1[1]
+#         pointer1 += 1
+#     elif entry1[0] == entry2[0]
+#     else:
+#         new_dict[entry2[0]] =  entry2[1]
+#         pointer2 += 1
+# #end of test code
+# while pointer1 < len(test1):
+#     new_dict[test1[pointer1]] = test1[pointer1]
+#     pointer1 +=1
+# while pointer2 < len(test2):
+#     new_dict[test2[pointer2]] = test2[pointer2]
+#     pointer2 +=1
+
+
+
+
+single_thread_binary_merger() #merger tester
+
+# with open(r"C:\Users\Jaylen\Desktop\TheBirdEngine\partial_indexes\0\_1.json", "r") as st:
+#     print(type(st))
+#     char = st.read(1)
+#     print(char != '{')
 
 
 
