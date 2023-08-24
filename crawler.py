@@ -39,6 +39,8 @@ os.environ['PYTHONHASHSEED'] = '0'
 class CrawlerThread:
     url_cache_hash = list() #keep last 15 hashes
     inverted_matrix = defaultdict(dict) #{'a' : {term : {URLS : list(positions)}}}
+    visited_set = set() #all visited URLs
+    site_maps_cache = dict()
 
 
 
@@ -141,7 +143,7 @@ class CrawlerThread:
                 #checking if its relative URL
                 #print("ALL URLS: ", current_crawl_urlparse.geturl())
                 if current_crawl_urlparse.netloc:
-                    
+
                     self.frontier.queue.append(current_crawl_link)
                     
                 else:
@@ -157,16 +159,31 @@ class CrawlerThread:
             
             while self.frontier.queue:
                 self.current_url = self.frontier.dequeue()
+
+                if self.current_url in CrawlerThread.visited_set:
+                    continue
+                else:
+                    CrawlerThread.visited_set.add(self.current_url)
                 
 
                 self.current_parsed = urlparse(self.current_url)
                 #CrawlerThread.url_cache_hash.append(self.current_parsed.geturl())
                 robot_parse_url = urljoin(self.current_parsed.scheme + '://' + self.current_parsed.netloc ,  'robots.txt') 
-                no_robot = False
 
+                no_robot = False
                 try:
                     self.robot_parser.set_url(robot_parse_url)
-                    self.robot_parser.read()
+                    if robot_parse_url not in CrawlerThread.site_maps_cache:
+                        print("NEWW CACHE")
+                        site_maps_lines = urllib.request.urlopen(robot_parse_url)
+                        self.robot_parser.read()
+                        CrawlerThread.site_maps_cache[robot_parse_url] = site_maps_lines.read()
+                    else:
+                        site_map =  CrawlerThread.site_maps_cache[robot_parse_url]
+                        #print(type(site_map))
+                        self.robot_parser.parse(site_map.decode('utf-8'))
+                        print("ALREADY VISITED")
+                        
                 except (urllib.error.URLError, ValueError):
 
                     no_robot = True
@@ -227,7 +244,7 @@ class CrawlerThread:
                     #PROFILING 
                     
                     matrix_size_bytes = asizeof.asizeof(CrawlerThread.inverted_matrix)
-                    if matrix_size_bytes >= 200000:
+                    if matrix_size_bytes >= 200000000:
                         
                         self.write_to_disk()
 
@@ -235,12 +252,16 @@ class CrawlerThread:
             
             self.write_to_disk() #write to disk when done
             self.single_thread_binary_merger()
-            log_file.write()
+            try:
+                log_file.write(f"{os.path.getsize('partial_indexes')}")
+            except FileNotFoundError :
+                print("fuck")
 
 
-            
+
     def write_to_disk(self) -> None:
         #binary disk write 
+        # echo {file you want to ignore} >> .gitignore
 
         if not os.path.exists("partial_indexes"):
             os.makedirs("partial_indexes")
@@ -270,21 +291,27 @@ class CrawlerThread:
     def single_thread_binary_merger(self) -> None:
         #merges files to a single merged json file
         #goes through each alpahbet and each partial for each alphabet, joins dicts together then merges dup keys 
+
         def is_empty(file_list) -> bool:
             if type(file_list) == list:
                 if len(file_list) > 0 : return False
                 else : return True
             else:
+                file_list.seek(0)
                 char = file_list.read(1)
+                file_list.seek(0)
                 return char != '{'
 
         path = "partial_indexes"
         for alphabet in os.listdir(path):
             print(alphabet)
+            
             cur_path = Path(os.path.join(path,alphabet))
             list_of_partials = list(cur_path.iterdir())
             final_merge = Path(list_of_partials[0])
-        #print(final_merge)
+
+
+            new_dict = OrderedDict()
             with open(final_merge, "r+") as final_merged_file:
                 final_merged_is_empty = False
 
@@ -294,46 +321,55 @@ class CrawlerThread:
 
                 for partial_index in list_of_partials[1:]:
                     print(partial_index)
+                    # if partial_index == Path(r"partial_indexes\0\_62.json"):
+                    #     print("WTF")
+                        
                     #read dict from final file
                     pointer1 = 0
                     pointer2 = 0
 
                     with open(partial_index, "r+") as partial_to_merge:
                         #read dict form file to merge
-                        partial_dict = list(json.load(partial_to_merge).items())
-                        partial_to_merge.seek(0)
-                        #print(len(partial_dict))
-                        partial_length = len(partial_dict)
                         #print(is_empty(partial_to_merge))
-                        if final_merged_is_empty and not is_empty(partial_dict): 
-                            data = json.load(partial_to_merge)
-
-                            json.dump(data ,final_merged_file,indent = 2)
-                            final_merged_file.seek(0)
-                            
-                            final_merged_is_empty = False
-                            continue 
-                        
-                        if is_empty(partial_dict):
+                        if is_empty(partial_to_merge):
                             continue
 
-                        final_partial_dict = list(json.load(final_merged_file).items())
-                        final_merged_file.seek(0)
+                        partial_data = json.load(partial_to_merge)
+                            
+                        partial_dict = list(partial_data.items())
+                        
+                        #print(len(partial_dict))
+                        partial_length = len(partial_dict)
 
+
+                        if final_merged_is_empty and not is_empty(partial_to_merge): 
+                                
+                            json.dump(partial_data ,final_merged_file,indent = 2)
+                            final_merged_file.seek(0)
+                            # print("dumped")
+                            final_merged_is_empty = False
+                            continue 
+
+                        #final_merged_file.seek(0) #problem lies here
+                        final_partial_dict = list(new_dict.items())
+                        final_merged_file.seek(0)
                         final_partial_length = len(final_partial_dict)
 
-                        new_dict = dict() 
+                        new_dict = OrderedDict() #dict to be dumped into json final merge file
                         while pointer1 < final_partial_length and pointer2 < partial_length:
                             entry1 = final_partial_dict[pointer1]
                             entry2 = partial_dict[pointer2]
                             if entry1[0] < entry2[0]:
                                 new_dict[entry1[0]] =  entry1[1]
                                 pointer1 += 1
-                            
+                            #shared keys are nulled
                             elif entry1[0] == entry2[0]:
-                                
+                                # print("key : ", entry1[0], " ",entry2[0])
+                                # print(entry1[1])
+                                # print(entry2[1])
                                 new_merged_dict = entry1[1] | entry2[1]
-                             
+                                # print()
+                                # print(new_merged_dict)
                                 
                                 new_dict[entry1[0]] = new_merged_dict
                                 pointer1+=1
@@ -341,20 +377,15 @@ class CrawlerThread:
                             else:
                                 new_dict[entry2[0]] =  entry2[1]
                                 pointer2 += 1
-
                         #dump the rest of the dictionary which ever one is left
                         while pointer1 < final_partial_length:
                             new_dict[final_partial_dict[pointer1][0]] = final_partial_dict[pointer1][1]
                             pointer1 +=1
-
                         while pointer2 < partial_length:
                             new_dict[partial_dict[pointer2][0]] = partial_dict[pointer2][1]
                             pointer2 +=1
 
                     json.dump(new_dict,final_merged_file, indent = 2)
-                    final_merged_file.seek(0)
-
-                    new_dict = {}
 
 
 

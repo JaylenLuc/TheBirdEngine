@@ -46,12 +46,47 @@ The distance from the riverbank to the island was not great, but at this time of
 “Perhaps they’re still on the island,” said Larth. He did not begrudge others the use of the rafts, and the island was large enough to share. Nonetheless, the situation required caution. He cupped his hands to his mouth and gave a shout. It was not long before a man appeared on the bank of the island. The man waved.
 “Do we know him?” said Larth, squinting. I.B.M, IBM
 """
-
+import urllib.robotparser
+import urllib.request
+from urllib.parse import urlparse, urljoin
+import urllib.request
 # from nltk.corpus import stopwords
 # from urllib.parse import urlparse,urljoin
 # import urllib.robotparser
 # import hashlib
-# # url = "https://docs.python.org/3/library/urllib.parse.htm"
+# test_dict = dict()
+# url = "https://docs.python.org/3/library/"
+
+# current_parsed = urlparse(url)
+
+# robot_parser = urllib.robotparser.RobotFileParser()
+# for i in range(2):
+#     robot_parse_url = urljoin(current_parsed.scheme + '://' + current_parsed.netloc , 'robots.txt') 
+#     site_maps_lines = urllib.request.urlopen(robot_parse_url)
+#     #print(site_maps_lines.read())
+    
+#     robot_parser.set_url(robot_parse_url)
+#     if robot_parse_url not in test_dict:
+#         robot_parser.read()
+#         print(robot_parser.can_fetch("*",url))
+#         test_dict[robot_parse_url] = site_maps_lines.read()
+#     else:
+#         site_map = test_dict[robot_parse_url]
+#         print(type(site_map))
+#         robot_parser.parse(site_map.decode('utf-8'))
+#         print(robot_parser.can_fetch("*",url))
+
+
+
+
+
+
+
+
+
+
+
+
 # # parsed = urlparse(url)
 # import os 
 # hashseed = os.getenv('PYTHONHASHSEED')
@@ -180,15 +215,22 @@ import pprint
 from pathlib import Path
 import os
 import json
-#creates the directory
-if not os.path.exists("partial_indexes"):
-    os.makedirs("partial_indexes")
-    for letters in range(26):
-        os.makedirs(f'partial_indexes/{chr(97 + letters)}')
-    for number in range(10):
-        os.makedirs(f'partial_indexes/{number}')
+from collections import OrderedDict
+# #creates the directory
+# if not os.path.exists("partial_indexes"):
+#     os.makedirs("partial_indexes")
+#     for letters in range(26):
+#         os.makedirs(f'partial_indexes/{chr(97 + letters)}')
+#     for number in range(10):
+#         os.makedirs(f'partial_indexes/{number}')
 
 
+
+
+
+
+
+#USE PANDAS TO READ CHUNKS OF JSON AT A TIME
 def single_thread_binary_merger():
 
     def is_empty(file_list) -> bool:
@@ -196,16 +238,21 @@ def single_thread_binary_merger():
             if len(file_list) > 0 : return False
             else : return True
         else:
+            file_list.seek(0)
             char = file_list.read(1)
+            file_list.seek(0)
             return char != '{'
 
     path = "partial_indexes"
     for alphabet in os.listdir(path):
         print(alphabet)
+         
         cur_path = Path(os.path.join(path,alphabet))
         list_of_partials = list(cur_path.iterdir())
         final_merge = Path(list_of_partials[0])
-       #print(final_merge)
+
+
+        new_dict = OrderedDict()
         with open(final_merge, "r+") as final_merged_file:
             final_merged_is_empty = False
 
@@ -215,34 +262,41 @@ def single_thread_binary_merger():
 
             for partial_index in list_of_partials[1:]:
                 print(partial_index)
+                if partial_index == Path(r"partial_indexes\0\_62.json"):
+                    print("WTF")
+                    
                 #read dict from final file
                 pointer1 = 0
                 pointer2 = 0
 
                 with open(partial_index, "r+") as partial_to_merge:
                     #read dict form file to merge
-                    partial_dict = list(json.load(partial_to_merge).items())
-                    partial_to_merge.seek(0)
+                    #print(is_empty(partial_to_merge))
+                    if is_empty(partial_to_merge):
+                        continue
+
+                    partial_data = json.load(partial_to_merge)
+                        
+                    partial_dict = list(partial_data.items())
+                    
                     #print(len(partial_dict))
                     partial_length = len(partial_dict)
-                    #print(is_empty(partial_to_merge))
-                    if final_merged_is_empty and not is_empty(partial_dict): 
-                        data = json.load(partial_to_merge)
-                        
-                        json.dump(data ,final_merged_file,indent = 2)
+
+
+                    if final_merged_is_empty and not is_empty(partial_to_merge): 
+                            
+                        json.dump(partial_data ,final_merged_file,indent = 2)
                         final_merged_file.seek(0)
                         # print("dumped")
                         final_merged_is_empty = False
                         continue 
 
-                    if is_empty(partial_dict):
-                        continue
-
-                    final_partial_dict = list(json.load(final_merged_file).items())
+                    #final_merged_file.seek(0) #problem lies here
+                    final_partial_dict = list(new_dict.items())
                     final_merged_file.seek(0)
                     final_partial_length = len(final_partial_dict)
 
-                    new_dict = dict() #dict to be dumped into json final merge file
+                    new_dict = OrderedDict() #dict to be dumped into json final merge file
                     while pointer1 < final_partial_length and pointer2 < partial_length:
                         entry1 = final_partial_dict[pointer1]
                         entry2 = partial_dict[pointer2]
@@ -273,9 +327,8 @@ def single_thread_binary_merger():
                         pointer2 +=1
 
                 json.dump(new_dict,final_merged_file, indent = 2)
-                final_merged_file.seek(0)
-                new_dict = {}
-        break
+                #final_merged_file.seek(0)
+        #break
 
 
 
@@ -326,7 +379,10 @@ def single_thread_binary_merger():
 
 
 single_thread_binary_merger() #merger tester
-
+# list(obj.items())
+# with open(r"C:\Users\Jaylen\Desktop\TheBirdEngine\partial_indexes\0\_0.json", "r+") as raw:
+#     obj = json.load(raw)
+# list(obj.items())
 # with open(r"C:\Users\Jaylen\Desktop\TheBirdEngine\partial_indexes\0\_1.json", "r") as st:
 #     print(type(st))
 #     char = st.read(1)
