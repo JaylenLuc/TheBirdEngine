@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@mui/material": "^5.14.10",
     "react-icons": "^4.11.0"
   }
 }
