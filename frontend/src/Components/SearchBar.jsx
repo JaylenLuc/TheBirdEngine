@@ -15,7 +15,7 @@ export const SearchBar = () => {
             text_query : input
         })
         .then((response) => {
-            console.log(response)
+            console.log(response.data)
         })
         .catch(function (error) {
             console.log(error);
@@ -29,7 +29,7 @@ export const SearchBar = () => {
 
             <FaSearch id= 'search-icon' />
             <input placeholder='What is the bird in question?' 
-            style={{width: "700px"}} 
+            style={{width: "1200px"}} 
             value={input} 
             onChange={(e) => setInput(e.target.value)}/>
             <button onClick={sendQuery}>Search</button>
