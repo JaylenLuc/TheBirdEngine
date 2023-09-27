@@ -1,3 +1,5 @@
-/partial_indexes
+**/partial_indexes
 /node_modules
 **/settings.py
+**/test.py
+

@@ -6,6 +6,11 @@ name = "pypi"
 [packages]
 djangorestframework = "*"
 django-cors-headers = "*"
+bs4 = "*"
+krovetzstemmer = "*"
+ndjson = "*"
+pymongo = "*"
+pympler = "*"
 
 [dev-packages]
 

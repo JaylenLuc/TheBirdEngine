@@ -29,6 +29,7 @@ from krovetzstemmer import Stemmer
 from pympler import asizeof
 from pathlib import Path
 import pymongo as mongo
+import ndjson
 
 hashseed = os.getenv('PYTHONHASHSEED')
 os.environ['PYTHONHASHSEED'] = '0'
@@ -41,6 +42,7 @@ class CrawlerThread:
     inverted_matrix = defaultdict(dict) #{'a' : {term : {URLS : list(positions)}}}
     visited_set = set() #all visited URLs
     site_maps_cache = dict()
+    index_of_index = dict()
 
 
 
@@ -236,7 +238,7 @@ class CrawlerThread:
 
                     #FOR TEST --------------------
                     count += 1
-                    if count >= 80 :
+                    if count >= 60 :
                         self.write_to_disk() #TEMP
                         break
                     #END OF TEST ------------------
@@ -244,7 +246,7 @@ class CrawlerThread:
                     #PROFILING 
                     
                     matrix_size_bytes = asizeof.asizeof(CrawlerThread.inverted_matrix)
-                    if matrix_size_bytes >= 200000000:
+                    if matrix_size_bytes >= 2000000:
                         
                         self.write_to_disk()
 
@@ -283,7 +285,7 @@ class CrawlerThread:
             #print(letter, terms_dict)
             with open(f"partial_indexes/{letter}/_{len(os.listdir(f'partial_indexes/{letter}'))}.json",'w') as fp:
                 
-                fp.write(json.dumps(partial_ordered, indent = 2))
+                fp.write(json.dumps(partial_ordered, indent = 2)) #we dont have to worrry about new line delineation
         
 
         CrawlerThread.inverted_matrix = {}
@@ -291,7 +293,7 @@ class CrawlerThread:
     def single_thread_binary_merger(self) -> None:
         #merges files to a single merged json file
         #goes through each alpahbet and each partial for each alphabet, joins dicts together then merges dup keys 
-
+        #populates the index of indexes
         def is_empty(file_list) -> bool:
             if type(file_list) == list:
                 if len(file_list) > 0 : return False
@@ -308,17 +310,18 @@ class CrawlerThread:
             
             cur_path = Path(os.path.join(path,alphabet))
             list_of_partials = list(cur_path.iterdir())
+            len_of_partials = len(list_of_partials) - 2
             final_merge = Path(list_of_partials[0])
 
 
             new_dict = OrderedDict()
-            with open(final_merge, "r+") as final_merged_file:
+            with open(final_merge, "r+", encoding="utf-8") as final_merged_file:
                 final_merged_is_empty = False
 
                 if is_empty(final_merged_file): 
                     print('is empty for final merge')
                     final_merged_is_empty = True
-
+                counter = 0 
                 for partial_index in list_of_partials[1:]:
                     print(partial_index)
                     # if partial_index == Path(r"partial_indexes\0\_62.json"):
@@ -328,7 +331,7 @@ class CrawlerThread:
                     pointer1 = 0
                     pointer2 = 0
 
-                    with open(partial_index, "r+") as partial_to_merge:
+                    with open(partial_index, "r+", encoding="utf-8") as partial_to_merge:
                         #read dict form file to merge
                         #print(is_empty(partial_to_merge))
                         if is_empty(partial_to_merge):
@@ -384,8 +387,35 @@ class CrawlerThread:
                         while pointer2 < partial_length:
                             new_dict[partial_dict[pointer2][0]] = partial_dict[pointer2][1]
                             pointer2 +=1
+                    counter += 1
+                    # 0 1 2 len of 3 -> 1
+                    # 1 2
+                    if counter <= len_of_partials:
+                        json.dump(new_dict,final_merged_file, indent = 2) #change to ndjson
+                    else: 
+                        final_merged_file.truncate(0)
+                        writer = ndjson.writer(final_merged_file, ensure_ascii=False)
+                        prev_ind = 0
+                        for post in new_dict.items():
+                            token = post[0]
+                            articles = post[1]
 
-                    json.dump(new_dict,final_merged_file, indent = 2)
+                            writer.writerow({token : articles})
+                            CrawlerThread.index_of_index[token] = prev_ind
+                            prev_ind = final_merged_file.tell()
+
+        with open("index_of_index.json", "w") as ind_of_ind:
+            ind_of_ind.write(json.dumps(CrawlerThread.index_of_index, indent = 2))
+
+        #convert all **/_0.json into **/_0.txt
+        for letters in range(26):
+            p = Path(f'partial_indexes/{chr(97 + letters)}/_0.json')
+            p.rename(p.with_suffix('.txt'))
+        for number in range(10):
+            p = Path(f'partial_indexes/{number}/_0.json')
+            p.rename(p.with_suffix('.txt'))
+
+
 
 
 

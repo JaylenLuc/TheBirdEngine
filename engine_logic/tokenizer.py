@@ -5,6 +5,7 @@
 import bs4
 import re
 from krovetzstemmer import Stemmer
+from QueryRanker import Ranker
 class Tokenizer:
     
     #our text classifier
@@ -21,7 +22,7 @@ class Tokenizer:
         
     #should  be used to tokenize both query and html including token_conflation and stem_word
     @staticmethod
-    def tokenize(text : str) -> list:
+    def tokenize(text : str) -> list[str]:
        
         #parsing
 
@@ -46,10 +47,20 @@ class Tokenizer:
             return token
         
     @staticmethod
-    def get_searchbar_text() -> list[str]:
+    def get_searchbar_text(client_request : dict[str, str]) -> list[str] :
+        print(client_request)
         #get query from 
         #tokenize
+        text_query = client_request['text_query']
         #for each token we conflate and stem
+        for token in range(len(text_query)):
+            text_query[token] = Tokenizer.stem_word(Tokenizer.token_conflation(text_query[token]))
+
+        #here we have the modified text_qury List
+
+        #for loop over list of terms and start ranking 
+
+        #call retrieve_articles from Ranker
         return ""
 
        
