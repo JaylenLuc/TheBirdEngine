@@ -246,7 +246,7 @@ class CrawlerThread:
                     #PROFILING 
                     
                     matrix_size_bytes = asizeof.asizeof(CrawlerThread.inverted_matrix)
-                    if matrix_size_bytes >= 2000000:
+                    if matrix_size_bytes >= 200000000:
                         
                         self.write_to_disk()
 
@@ -310,7 +310,7 @@ class CrawlerThread:
             
             cur_path = Path(os.path.join(path,alphabet))
             list_of_partials = list(cur_path.iterdir())
-            len_of_partials = len(list_of_partials) - 2
+            len_of_partials = len(list_of_partials) - 2 #accurate zero based length of partials 
             final_merge = Path(list_of_partials[0])
 
 
@@ -321,8 +321,7 @@ class CrawlerThread:
                 if is_empty(final_merged_file): 
                     print('is empty for final merge')
                     final_merged_is_empty = True
-                counter = 0 
-                for partial_index in list_of_partials[1:]:
+                for counter, partial_index in enumerate(list_of_partials[1:]):
                     print(partial_index)
                     # if partial_index == Path(r"partial_indexes\0\_62.json"):
                     #     print("WTF")
@@ -387,10 +386,10 @@ class CrawlerThread:
                         while pointer2 < partial_length:
                             new_dict[partial_dict[pointer2][0]] = partial_dict[pointer2][1]
                             pointer2 +=1
-                    counter += 1
+                   
                     # 0 1 2 len of 3 -> 1
                     # 1 2
-                    if counter <= len_of_partials:
+                    if counter  < len_of_partials:
                         json.dump(new_dict,final_merged_file, indent = 2) #change to ndjson
                     else: 
                         final_merged_file.truncate(0)

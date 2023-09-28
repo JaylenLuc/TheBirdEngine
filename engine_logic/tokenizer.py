@@ -47,12 +47,13 @@ class Tokenizer:
             return token
         
     @staticmethod
-    def get_searchbar_text(client_request : dict[str, str]) -> list[str] :
+    def process_query(client_request : dict[str, str]) -> list[str] :
         print(client_request)
         #get query from 
         #tokenize
-        text_query = client_request['text_query']
+        text_query = Tokenizer.tokenize(client_request['text_query'])
         #for each token we conflate and stem
+        
         for token in range(len(text_query)):
             text_query[token] = Tokenizer.stem_word(Tokenizer.token_conflation(text_query[token]))
 
@@ -61,6 +62,6 @@ class Tokenizer:
         #for loop over list of terms and start ranking 
 
         #call retrieve_articles from Ranker
-        return ""
+        return Ranker.vector_space_rank(text_query)
 
        

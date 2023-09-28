@@ -28,7 +28,7 @@ class DataCreateView(generics.CreateAPIView):
         """ call ranker function in engine logic and return top N results in json form"""
         if request.method == 'POST':
             # print(request.data)
-            ranked_res_descending = Tokenizer.get_searchbar_text(request.data)
+            ranked_res_ascending = Tokenizer.process_query(request.data)
             return JsonResponse({"response": 'got post request'}, safe=False)
     
 
