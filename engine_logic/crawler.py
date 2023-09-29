@@ -82,12 +82,12 @@ class CrawlerThread:
 
         for stemmed_word, positions in self.prelim_dict.items():
 
-            regex_obj = re.search("[A-Za-z0-9]+",stemmed_word)
+            regex_obj = re.search("[A-Za-z0-9-&]+",stemmed_word)
 
             if regex_obj != None:
 
                 alphabet_to_index = stemmed_word.lower()[regex_obj.span()[0]]
-
+                stemmed_word = stemmed_word[regex_obj.span()[0] : regex_obj.span()[1]]
                 if alphabet_to_index not in CrawlerThread.inverted_matrix:
                         CrawlerThread.inverted_matrix[alphabet_to_index] = {}
 
@@ -246,7 +246,7 @@ class CrawlerThread:
                     #PROFILING 
                     
                     matrix_size_bytes = asizeof.asizeof(CrawlerThread.inverted_matrix)
-                    if matrix_size_bytes >= 200000000:
+                    if matrix_size_bytes >= 20000000:
                         
                         self.write_to_disk()
 
@@ -393,11 +393,16 @@ class CrawlerThread:
                         json.dump(new_dict,final_merged_file, indent = 2) #change to ndjson
                     else: 
                         final_merged_file.truncate(0)
+
+                        #order the posting list by frequency of the word in the document
+                        
                         writer = ndjson.writer(final_merged_file, ensure_ascii=False)
                         prev_ind = 0
                         for post in new_dict.items():
                             token = post[0]
                             articles = post[1]
+                            #this is to make the champions list. we precompute the descending order of the list then set an arbitrary cut off
+                            articles = dict(sorted(articles.items(), key=lambda item: -len(item[1])))
 
                             writer.writerow({token : articles})
                             CrawlerThread.index_of_index[token] = prev_ind
