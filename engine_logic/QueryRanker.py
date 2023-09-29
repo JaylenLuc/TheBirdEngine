@@ -11,7 +11,11 @@ class Ranker:
     def retrieve_articles(query_term : str) -> dict[str, dict[str, list[int]]]:
         with open(r'C:\Users\Jaylen\Desktop\TheBirdEngine\index_of_index.json', 'r') as fp :
             index_of_index = json.load(fp)
+
+            #congruent term processing so that similar words in substance are found in the index because the index was indexed with subtance of the word in mind
+            query_term = query_term[regex_obj.span()[0] : regex_obj.span()[1]]
             pos = index_of_index[query_term]
+
 
 
             regex_obj = re.search("[A-Za-z0-9]+",query_term)
@@ -79,7 +83,7 @@ class Ranker:
         #1 - we go thru all the docs in the longest posting_list
         #2 - for each doc in the longest posting_list we see if it is in at least threshold other posting_lists
         #3 - if it is , then compute the score and store the score with the URL in a list
-        
+
 
         for term in query_vector:
             pass
