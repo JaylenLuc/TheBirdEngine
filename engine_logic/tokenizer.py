@@ -26,7 +26,7 @@ class Tokenizer:
        
         #parsing
 
-        unparsed_string = text.lower()
+        unparsed_string = text.lower().replace('(','').replace(')','')
 
         return list(filter(None,re.split(r"\s|;|:|\"|\“|\”|,|-|—|\!|\?|\.\s+",unparsed_string)))
     
