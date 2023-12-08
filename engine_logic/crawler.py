@@ -408,7 +408,7 @@ class CrawlerThread:
                             CrawlerThread.index_of_index[token] = prev_ind
                             prev_ind = final_merged_file.tell()
 
-        with open("index_of_index.json", "w") as ind_of_ind:
+        with open("index_of_index.json", "w",encoding="utf8") as ind_of_ind:
             ind_of_ind.write(json.dumps(CrawlerThread.index_of_index, indent = 2))
 
         #convert all **/_0.json into **/_0.txt

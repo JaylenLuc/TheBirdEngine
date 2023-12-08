@@ -15,7 +15,7 @@ class Ranker:
         dirname = os.path.dirname(__file__)
         index_of_index_path =  os.path.join(dirname, 'index_of_index.json')
         #print(index_of_index_path)
-        with open(index_of_index_path, 'r') as fp : #index_of_index.json
+        with open(index_of_index_path, 'r',encoding="utf8") as fp : #index_of_index.json
             index_of_index = json.load(fp)
 
             #congruent term processing so that similar words in substance are found in the index because the index was indexed with subtance of the word in mind
@@ -30,7 +30,7 @@ class Ranker:
                 #partial_indexes\m
                 dirname1 = os.path.dirname(__file__)
                 indexpath =  os.path.join(dirname1, f'partial_indexes/{alphabet_to_index}/_0.txt')
-                with open(indexpath, 'r') as index :
+                with open(indexpath, 'r' ,encoding="utf8") as index :
                     index.seek(pos)
                     postings_list = json.loads(index.readline())
                     print(postings_list)
@@ -101,8 +101,8 @@ class Ranker:
         contenders_list = []
         
         #only compute the scores for the docs in the union
-        #1 - we go thru all the docs in the longest posting_list
-        #2 - for each doc in the longest posting_list we see if it is in at least threshold other posting_lists
+        #1 - we go thru all the docs in the longest posting_list DID NOT DO THIS YET
+        #2 - for each doc in the longest posting_list we see if it is in at least threshold other posting_listsDID NOT DO THIS YET
         #3 - if it is , then compute the score and store the score with the URL in a list
         scores_dict = dict()
         for term_i, posting in enumerate(all_postings):
@@ -117,6 +117,7 @@ class Ranker:
 
         print("SOCRES: ", scores_dict)
 
+        #NOW WE NEED TO LENGTH NORMALIZE 
         for url, weight in scores_dict.items():
         #     print("before: ",weight)
         #     doc_len = 0
@@ -133,6 +134,10 @@ class Ranker:
         #print("scores: ",scores_dict.items())
         ranked_asc = dict(sorted(scores_dict.items(), key=lambda item: -item[1]))
         res = [k for k,v in ranked_asc.items()]
+
+        #what we currently have is LNN.LTC
+
+
         return res
 
 
