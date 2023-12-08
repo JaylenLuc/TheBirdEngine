@@ -2,13 +2,14 @@ import  React, {useState, useRef} from 'react';
 import {FaSearch, fasearch} from 'react-icons/fa';
 import './SearchBar.css';
 import axios from 'axios';
-//import { Link } from 'react-router-dom';
-
-
+import { Link } from 'react-router-dom';
+import Links from './search_results'
+var link_param = []
 export const SearchBar = () => {
-    const res_tab = document.getElementById("results_tab");
+    //var res_tab = document.getElementById("results_tab");
     const [input, setInput] = useState("")
-
+    const [Resultants, setState] = React.useState(link_param);
+    //res_tab.innerHTML  = "Search Results: "
     const sendQuery = async() => {
         alert(input)
         let csrfToken = document.head.querySelector('meta[name="csrf-token"]');
@@ -18,15 +19,18 @@ export const SearchBar = () => {
         .then((response) => {
             let data = response.data;
             console.log(response.data)
-            res_tab.innerHTML  = ""
-            let res_string = ""
+            //res_tab.innerHTML  = "Search Results: "
+            //let res_string = ""
+            console.log("here")
+            
+            link_param = []
             for (let i = 0; i < data.length; i++){
-               res_string = res_string +  data[i] + "<br></br>";
+               
+               link_param.push(data[i])
 
             }
-            res_tab.innerHTML = res_string
-
-
+            setState(link_param);
+            //console.log(link_param[1])
         })
         .catch(function (error) {
             console.log(error);
@@ -47,9 +51,12 @@ export const SearchBar = () => {
                 <button onClick={sendQuery}>Search</button>
             </div>
             
-            <div id='results_tab'></div>
+            <ul>{Resultants.map((item) => (
+                 <li key = {item}><a href={item}>{item}</a></li>
+            ))}</ul>
+
         </div>
-            
+  
 
     )
 }
