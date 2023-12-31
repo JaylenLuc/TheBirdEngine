@@ -21,6 +21,7 @@ class Ranker:
             #congruent term processing so that similar words in substance are found in the index because the index was indexed with subtance of the word in mind
             regex_obj = re.search("[A-Za-z0-9]+",query_term)
             query_term = query_term[regex_obj.span()[0] : regex_obj.span()[1]]
+            print(query_term)
             pos = index_of_index[query_term]
 
             if regex_obj != None:
@@ -132,10 +133,13 @@ class Ranker:
             scores_dict[url] = sum(scores_dict[url])
 
         #print("scores: ",scores_dict.items())
+
+        #length penalization, length normalization using unique pivot?
+
         ranked_asc = dict(sorted(scores_dict.items(), key=lambda item: -item[1]))
         res = [k for k,v in ranked_asc.items()]
 
-        #what we currently have is LNN.LTC
+        #what we currently have is LNL.LTC
 
 
         return res
