@@ -1,0 +1,335 @@
+{
+  "vagrant": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      1017
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      907
+    ]
+  },
+  "valid": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      2475
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      383
+    ]
+  },
+  "value": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      3902
+    ]
+  },
+  "valuecommon": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      5254
+    ]
+  },
+  "van": {
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      883,
+      902
+    ]
+  },
+  "variable": {
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      360
+    ]
+  },
+  "variation": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      224
+    ],
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      240
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      306
+    ]
+  },
+  "variety": {
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      375
+    ]
+  },
+  "various": {
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1011
+    ]
+  },
+  "vary": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      1975,
+      3329
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      696
+    ]
+  },
+  "vast": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      2729
+    ]
+  },
+  "vaurie": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      398
+    ]
+  },
+  "vent": {
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      308
+    ]
+  },
+  "ventral": {
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      354
+    ]
+  },
+  "verifiable": {
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      404
+    ]
+  },
+  "version": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      163
+    ],
+    "https://en.wikipedia.org/wiki/Admiralty_cicadabird": [
+      118,
+      224
+    ],
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      133,
+      649
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      118,
+      472
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      135
+    ],
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      134
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      130
+    ],
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      130
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      132
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      130
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      134
+    ]
+  },
+  "very": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      1694,
+      3105
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      374
+    ],
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      332,
+      347,
+      430
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      355
+    ]
+  },
+  "vibrate": {
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      371
+    ]
+  },
+  "vibration": {
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      418
+    ]
+  },
+  "video": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      5278
+    ],
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      731
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      703
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      1280
+    ]
+  },
+  "view": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      5347
+    ],
+    "https://en.wikipedia.org/wiki/Admiralty_cicadabird": [
+      359
+    ],
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      885
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      643
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1869
+    ],
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      928
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      874
+    ],
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      359,
+      832
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      739
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      1120
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      1435
+    ]
+  },
+  "visible": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      1145
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      278
+    ],
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      321
+    ]
+  },
+  "visitor": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      4830
+    ],
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      185
+    ]
+  },
+  "vi\u1ec7t": {
+    "https://en.wikipedia.org/wiki/Admiralty_cicadabird": [
+      84
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      96
+    ]
+  },
+  "vi\u1ec7twinaray": {
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      99
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      101
+    ],
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      100
+    ],
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      96
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      98
+    ]
+  },
+  "vi\u1ec7twinaray\u4e2d\u6587": {
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      96
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      100
+    ]
+  },
+  "vi\u1ec7twinaray\u5434\u8bed\u4e2d\u6587": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      129
+    ]
+  },
+  "vocabulary": {
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      631
+    ]
+  },
+  "vocalize": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      219
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1370
+    ]
+  },
+  "voice[edit]": {
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      303
+    ]
+  },
+  "vol": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      3788,
+      4880
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      512
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1568
+    ]
+  },
+  "volcaniaca": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      5014
+    ]
+  },
+  "volume": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      5253
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      367
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1230
+    ]
+  },
+  "voyage": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      4873
+    ]
+  },
+  "vteold": {
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1583
+    ]
+  },
+  "vtepenguins(order": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      5019
+    ]
+  },
+  "vulnerable": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      3338
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      1039
+    ]
+  }
+}

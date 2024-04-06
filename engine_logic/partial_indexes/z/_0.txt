@@ -1,0 +1,67 @@
+{"(zoothera": {"https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [874]}}
+{"(zosterops": {"https://en.wikipedia.org/wiki/Abyssinian_white-eye": [179]}}
+{"(zz)": {"https://en.wikipedia.org/wiki/Bird": [4524]}}
+{"z": {"https://en.wikipedia.org/wiki/Bird": [4502, 4522, 4534, 14262, 14416, 14558, 14699, 15764, 15858, 17954], "https://en.wikipedia.org/wiki/Abyssinian_white-eye": [162], "https://en.wikipedia.org/wiki/African_crake": [3010]}}
+{"zaagkuildrift": {"https://en.wikipedia.org/wiki/African_crake": [174]}}
+{"zachary": {"https://en.wikipedia.org/wiki/Bird": [16423]}}
+{"zaire": {"https://en.wikipedia.org/wiki/African_black_swift": [231]}}
+{"zambia": {"https://en.wikipedia.org/wiki/Abyssinian_thrush": [267, 475], "https://en.wikipedia.org/wiki/Abyssinian_waxbill": [356, 432], "https://en.wikipedia.org/wiki/Acacia_pied_barbet": [611], "https://en.wikipedia.org/wiki/African_broadbill": [876, 940], "https://en.wikipedia.org/wiki/African_crake": [3309]}}
+{"zanabazar": {"https://en.wikipedia.org/wiki/Bird": [24316]}}
+{"zapsali": {"https://en.wikipedia.org/wiki/Bird": [24262]}}
+{"zarudny": {"https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [623], "https://en.wikipedia.org/wiki/Afghan_snowfinch": [1652]}}
+{"zealand": {"https://en.wikipedia.org/wiki/Bird": [7696, 7763, 8455, 11512, 11532, 17133, 21403, 21407, 21497, 22586], "https://en.wikipedia.org/wiki/Abbott%27s_booby": [2527, 2580, 2774], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [1021], "https://en.wikipedia.org/wiki/African_collared_dove": [434]}}
+{"zealand[281]": {"https://en.wikipedia.org/wiki/Bird": [11920]}}
+{"zebra": {"https://en.wikipedia.org/wiki/Bird": [3386, 10968]}}
+{"zeep": {"https://en.wikipedia.org/wiki/Acadian_flycatcher": [273]}}
+{"zegrahm": {"https://en.wikipedia.org/wiki/Abyssinian_catbird": [834, 836]}}
+{"zelee": {"https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [4776]}}
+{"zelenkov": {"https://en.wikipedia.org/wiki/Bird": [13263]}}
+{"zffq": {"https://en.wikipedia.org/wiki/African_crake": [3987]}}
+{"zhang": {"https://en.wikipedia.org/wiki/Bird": [14267, 14419, 14421, 14555, 14700]}}
+{"zhao": {"https://en.wikipedia.org/wiki/Bird": [16241]}}
+{"zhen": {"https://en.wikipedia.org/wiki/Afghan_snowfinch": [1363]}}
+{"zheng": {"https://en.wikipedia.org/wiki/Bird": [14413, 14543]}}
+{"zhengi": {"https://en.wikipedia.org/wiki/Bird": [2002]}}
+{"zhenyuanlong": {"https://en.wikipedia.org/wiki/Bird": [24214, 24247]}}
+{"zhiheng": {"https://en.wikipedia.org/wiki/Bird": [18132]}}
+{"zhongjianosauru": {"https://en.wikipedia.org/wiki/Bird": [24241]}}
+{"zhou": {"https://en.wikipedia.org/wiki/Bird": [14261, 14415, 14557, 14698]}}
+{"zhouorni": {"https://en.wikipedia.org/wiki/Bird": [24461]}}
+{"ziane": {"https://en.wikipedia.org/wiki/African_blue_tit": [771]}}
+{"zig": {"https://en.wikipedia.org/wiki/Afghan_snowfinch": [796]}}
+{"zig[10]": {"https://en.wikipedia.org/wiki/Afghan_snowfinch": [797]}}
+{"zimbabwe": {"https://en.wikipedia.org/wiki/Acacia_pied_barbet": [395, 411, 613], "https://en.wikipedia.org/wiki/African_barred_owlet": [618], "https://en.wikipedia.org/wiki/African_broadbill": [944, 958]}}
+{"zimmer": {"https://en.wikipedia.org/wiki/Bird": [21814], "https://en.wikipedia.org/wiki/Acre_tody-tyrant": [330]}}
+{"zimmerman": {"https://en.wikipedia.org/wiki/Abyssinian_white-eye": [425], "https://en.wikipedia.org/wiki/Acacia_tit": [641], "https://en.wikipedia.org/wiki/African_broadbill": [1145]}}
+{"zimmertaxa": {"https://en.wikipedia.org/wiki/Acre_tody-tyrant": [468]}}
+{"zitt": {"https://en.wikipedia.org/wiki/Talk:List_of_birds_by_common_name": [1798]}}
+{"zollinger": {"https://en.wikipedia.org/wiki/Bird": [16552]}}
+{"zone": {"https://en.wikipedia.org/wiki/Bird": [7244], "https://en.wikipedia.org/wiki/Abert%27s_towhee": [432], "https://en.wikipedia.org/wiki/Abyssinian_catbird": [745], "https://en.wikipedia.org/wiki/Acacia_tit": [639], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [1134, 4435]}}
+{"zonotrichia": {"https://en.wikipedia.org/wiki/Bird": [4553]}}
+{"zoo": {"https://en.wikipedia.org/wiki/Abdim%27s_stork": [149, 411, 422, 532, 582], "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [1500, 1631, 1915, 1949]}}
+{"zoobank": {"https://en.wikipedia.org/wiki/Bird": [24906], "https://en.wikipedia.org/wiki/Abyssinian_roller": [713], "https://en.wikipedia.org/wiki/Acre_tody-tyrant": [418]}}
+{"zoogeographic": {"https://en.wikipedia.org/wiki/African_crake": [3247]}}
+{"zool": {"https://en.wikipedia.org/wiki/Bird": [18358], "https://en.wikipedia.org/wiki/Afghan_babbler": [313]}}
+{"zoologia": {"https://en.wikipedia.org/wiki/Abyssinian_waxbill": [604]}}
+{"zoologica": {"https://en.wikipedia.org/wiki/Bird": [16728], "https://en.wikipedia.org/wiki/Afghan_babbler": [452], "https://en.wikipedia.org/wiki/Afghan_snowfinch": [1390]}}
+{"zoologico": {"https://en.wikipedia.org/wiki/Abyssinian_waxbill": [597]}}
+{"zoologique": {"https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [1788], "https://en.wikipedia.org/wiki/Acacia_pied_barbet": [831]}}
+{"zoologische": {"https://en.wikipedia.org/wiki/Abbott%27s_babbler": [1258]}}
+{"zoologist": {"https://en.wikipedia.org/wiki/Bird": [20005], "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [252], "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [260], "https://en.wikipedia.org/wiki/African_broadbill": [771]}}
+{"zoology": {"https://en.wikipedia.org/wiki/Bird": [13524, 14343, 16594, 17459, 17491, 19324, 20517], "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [1354, 1629], "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [612], "https://en.wikipedia.org/wiki/Abyssinian_thrush": [676], "https://en.wikipedia.org/wiki/Abyssinian_waxbill": [521], "https://en.wikipedia.org/wiki/Acorn_woodpecker": [1623], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [4870], "https://en.wikipedia.org/wiki/Afghan_babbler": [372], "https://en.wikipedia.org/wiki/African_citril": [373], "https://en.wikipedia.org/wiki/African_crake": [3107]}}
+{"zoomusicology": {"https://en.wikipedia.org/wiki/Bird": [24843]}}
+{"zoonose": {"https://en.wikipedia.org/wiki/Bird": [21851]}}
+{"zoonotic": {"https://en.wikipedia.org/wiki/Bird": [11774]}}
+{"zootaxa": {"https://en.wikipedia.org/wiki/Abbott%27s_booby": [2325]}}
+{"zoothera": {"https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [185, 798]}}
+{"zoothera[4]": {"https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [721]}}
+{"zosterop": {"https://en.wikipedia.org/wiki/Abyssinian_white-eye": [160, 166, 190, 364, 450, 480]}}
+{"zosteropidae": {"https://en.wikipedia.org/wiki/Abyssinian_white-eye": [158, 196]}}
+{"zu": {"https://en.wikipedia.org/wiki/Abyssinian_wheatear": [1169]}}
+{"zuccon": {"https://en.wikipedia.org/wiki/African_citril": [308]}}
+{"zumpt": {"https://en.wikipedia.org/wiki/African_crake": [3463, 3492]}}
+{"zuo": {"https://en.wikipedia.org/wiki/Bird": [20046], "https://en.wikipedia.org/wiki/Afghan_snowfinch": [1367]}}
+{"zusi": {"https://en.wikipedia.org/wiki/Bird": [13503]}}
+{"zzzzzzzzzztt": {"https://en.wikipedia.org/wiki/African_black_swift": [589]}}
+{"†zhongjianornis": {"https://en.wikipedia.org/wiki/Bird": [2265, 24514]}}
+{"†zhongornis": {"https://en.wikipedia.org/wiki/Bird": [24344]}}

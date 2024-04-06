@@ -1,0 +1,709 @@
+{
+  "(usa)": {
+    "https://en.wikipedia.org/wiki/Acorn_woodpecker": [
+      341
+    ]
+  },
+  "(utc)": {
+    "https://en.wikipedia.org/wiki/Abyssinian_longclaw": [
+      379
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_owl": [
+      573
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_roller": [
+      772
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_scimitarbill": [
+      402
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_slaty_flycatcher": [
+      870
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_thrush": [
+      919
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_waxbill": [
+      789
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_wheatear": [
+      1425
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_white-eye": [
+      530
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_woodpecker": [
+      733
+    ],
+    "https://en.wikipedia.org/wiki/Acacia_pied_barbet": [
+      1121
+    ],
+    "https://en.wikipedia.org/wiki/Acacia_tit": [
+      916
+    ],
+    "https://en.wikipedia.org/wiki/Acadian_flycatcher": [
+      914
+    ],
+    "https://en.wikipedia.org/wiki/Aceh_bulbul": [
+      386
+    ],
+    "https://en.wikipedia.org/wiki/Acorn_woodpecker": [
+      2397
+    ],
+    "https://en.wikipedia.org/wiki/Acre_antshrike": [
+      446
+    ],
+    "https://en.wikipedia.org/wiki/Acre_tody-tyrant": [
+      501
+    ],
+    "https://en.wikipedia.org/wiki/Adamawa_turtle_dove": [
+      634
+    ],
+    "https://en.wikipedia.org/wiki/Adelaide%27s_warbler": [
+      784
+    ]
+  },
+  "u": {
+    "https://en.wikipedia.org/wiki/Abyssinian_slaty_flycatcher": [
+      764
+    ]
+  },
+  "ubio": {
+    "https://en.wikipedia.org/wiki/Abyssinian_wheatear": [
+      1379
+    ]
+  },
+  "uccelli": {
+    "https://en.wikipedia.org/wiki/Abyssinian_waxbill": [
+      586
+    ]
+  },
+  "uganda": {
+    "https://en.wikipedia.org/wiki/Abyssinian_scimitarbill": [
+      198
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_thrush": [
+      408,
+      444,
+      461
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_waxbill": [
+      332,
+      430
+    ],
+    "https://en.wikipedia.org/wiki/Acacia_tit": [
+      569
+    ]
+  },
+  "uk": {
+    "https://en.wikipedia.org/wiki/Acacia_tit": [
+      681
+    ]
+  },
+  "um": {
+    "https://en.wikipedia.org/wiki/Abyssinian_wheatear": [
+      270
+    ]
+  },
+  "unafraid": {
+    "https://en.wikipedia.org/wiki/Abyssinian_wheatear": [
+      883
+    ]
+  },
+  "uncertain": {
+    "https://en.wikipedia.org/wiki/Adamawa_turtle_dove": [
+      348
+    ]
+  },
+  "und": {
+    "https://en.wikipedia.org/wiki/Abyssinian_waxbill": [
+      487
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_wheatear": [
+      265
+    ]
+  },
+  "under": {
+    "https://en.wikipedia.org/wiki/Abyssinian_longclaw": [
+      383
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_owl": [
+      577
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_roller": [
+      776
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_scimitarbill": [
+      406
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_slaty_flycatcher": [
+      874
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_thrush": [
+      923
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_waxbill": [
+      793
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_wheatear": [
+      491,
+      598,
+      781,
+      1050,
+      1429
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_white-eye": [
+      534
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_woodpecker": [
+      737
+    ],
+    "https://en.wikipedia.org/wiki/Acacia_pied_barbet": [
+      285,
+      477,
+      1125
+    ],
+    "https://en.wikipedia.org/wiki/Acacia_tit": [
+      920
+    ],
+    "https://en.wikipedia.org/wiki/Acadian_flycatcher": [
+      918
+    ],
+    "https://en.wikipedia.org/wiki/Aceh_bulbul": [
+      390
+    ],
+    "https://en.wikipedia.org/wiki/Acorn_woodpecker": [
+      248,
+      1646,
+      2401
+    ],
+    "https://en.wikipedia.org/wiki/Acre_antshrike": [
+      450
+    ],
+    "https://en.wikipedia.org/wiki/Acre_tody-tyrant": [
+      505
+    ],
+    "https://en.wikipedia.org/wiki/Adamawa_turtle_dove": [
+      638
+    ],
+    "https://en.wikipedia.org/wiki/Adelaide%27s_warbler": [
+      788
+    ]
+  },
+  "underpart": {
+    "https://en.wikipedia.org/wiki/Abyssinian_slaty_flycatcher": [
+      289
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_wheatear": [
+      587,
+      634
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_white-eye": [
+      242
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_woodpecker": [
+      265
+    ],
+    "https://en.wikipedia.org/wiki/Acacia_pied_barbet": [
+      485,
+      497,
+      535
+    ],
+    "https://en.wikipedia.org/wiki/Acacia_tit": [
+      294
+    ],
+    "https://en.wikipedia.org/wiki/Acadian_flycatcher": [
+      205
+    ],
+    "https://en.wikipedia.org/wiki/Adelaide%27s_warbler": [
+      303
+    ]
+  },
+  "understory": {
+    "https://en.wikipedia.org/wiki/Acre_tody-tyrant": [
+      224
+    ]
+  },
+  "unexpected": {
+    "https://en.wikipedia.org/wiki/Adamawa_turtle_dove": [
+      365
+    ]
+  },
+  "union": {
+    "https://en.wikipedia.org/wiki/Abyssinian_roller": [
+      529
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_slaty_flycatcher": [
+      743
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_thrush": [
+      771
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_waxbill": [
+      575
+    ],
+    "https://en.wikipedia.org/wiki/Acacia_pied_barbet": [
+      883
+    ],
+    "https://en.wikipedia.org/wiki/Acacia_tit": [
+      789
+    ],
+    "https://en.wikipedia.org/wiki/Acorn_woodpecker": [
+      1699
+    ],
+    "https://en.wikipedia.org/wiki/Acre_antshrike": [
+      270
+    ],
+    "https://en.wikipedia.org/wiki/Adelaide%27s_warbler": [
+      282,
+      609
+    ]
+  },
+  "unique": {
+    "https://en.wikipedia.org/wiki/Acadian_flycatcher": [
+      266
+    ]
+  },
+  "unit": {
+    "https://en.wikipedia.org/wiki/Acorn_woodpecker": [
+      1162,
+      1193
+    ]
+  },
+  "united": {
+    "https://en.wikipedia.org/wiki/Acadian_flycatcher": [
+      357,
+      863
+    ],
+    "https://en.wikipedia.org/wiki/Acorn_woodpecker": [
+      167,
+      172,
+      601,
+      2315
+    ]
+  },
+  "university": {
+    "https://en.wikipedia.org/wiki/Acorn_woodpecker": [
+      1606,
+      2132
+    ]
+  },
+  "university)": {
+    "https://en.wikipedia.org/wiki/Acorn_woodpecker": [
+      2217
+    ]
+  },
+  "universit\u00e0": {
+    "https://en.wikipedia.org/wiki/Abyssinian_waxbill": [
+      610
+    ]
+  },
+  "unknown": {
+    "https://en.wikipedia.org/wiki/Abyssinian_woodpecker": [
+      417
+    ],
+    "https://en.wikipedia.org/wiki/Acre_tody-tyrant": [
+      216
+    ]
+  },
+  "unobtrusive": {
+    "https://en.wikipedia.org/wiki/Abyssinian_woodpecker": [
+      421
+    ]
+  },
+  "unreachable": {
+    "https://en.wikipedia.org/wiki/Acacia_pied_barbet": [
+      593
+    ]
+  },
+  "unrelated": {
+    "https://en.wikipedia.org/wiki/Acorn_woodpecker": [
+      947
+    ]
+  },
+  "unsourced": {
+    "https://en.wikipedia.org/wiki/Acadian_flycatcher": [
+      890,
+      893
+    ]
+  },
+  "until": {
+    "https://en.wikipedia.org/wiki/Aceh_bulbul": [
+      229
+    ],
+    "https://en.wikipedia.org/wiki/Acorn_woodpecker": [
+      1675
+    ]
+  },
+  "unusual": {
+    "https://en.wikipedia.org/wiki/Acorn_woodpecker": [
+      823
+    ]
+  },
+  "up": {
+    "https://en.wikipedia.org/wiki/Abyssinian_owl": [
+      324
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_white-eye": [
+      313
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_woodpecker": [
+      336
+    ],
+    "https://en.wikipedia.org/wiki/Acacia_tit": [
+      389
+    ],
+    "https://en.wikipedia.org/wiki/Acorn_woodpecker": [
+      637,
+      674,
+      700,
+      879,
+      885,
+      912,
+      1201
+    ],
+    "https://en.wikipedia.org/wiki/Adamawa_turtle_dove": [
+      393
+    ]
+  },
+  "up)": {
+    "https://en.wikipedia.org/wiki/Acadian_flycatcher": [
+      776
+    ]
+  },
+  "update": {
+    "https://en.wikipedia.org/wiki/Aceh_bulbul": [
+      281
+    ]
+  },
+  "upland": {
+    "https://en.wikipedia.org/wiki/Acre_antshrike": [
+      205
+    ]
+  },
+  "upon": {
+    "https://en.wikipedia.org/wiki/Acorn_woodpecker": [
+      1413
+    ]
+  },
+  "upper": {
+    "https://en.wikipedia.org/wiki/Abyssinian_wheatear": [
+      555,
+      561,
+      576,
+      617,
+      629,
+      669,
+      678,
+      716,
+      723,
+      740,
+      762
+    ],
+    "https://en.wikipedia.org/wiki/Acadian_flycatcher": [
+      226
+    ]
+  },
+  "upperpart": {
+    "https://en.wikipedia.org/wiki/Abyssinian_slaty_flycatcher": [
+      282
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_wheatear": [
+      443
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_white-eye": [
+      213
+    ],
+    "https://en.wikipedia.org/wiki/Acacia_tit": [
+      275
+    ],
+    "https://en.wikipedia.org/wiki/Acadian_flycatcher": [
+      196
+    ],
+    "https://en.wikipedia.org/wiki/Adamawa_turtle_dove": [
+      303
+    ],
+    "https://en.wikipedia.org/wiki/Adelaide%27s_warbler": [
+      300
+    ]
+  },
+  "upright": {
+    "https://en.wikipedia.org/wiki/Abyssinian_wheatear": [
+      978
+    ]
+  },
+  "upward": {
+    "https://en.wikipedia.org/wiki/Abyssinian_roller": [
+      508
+    ]
+  },
+  "upwards": {
+    "https://en.wikipedia.org/wiki/Adamawa_turtle_dove": [
+      428
+    ]
+  },
+  "urban": {
+    "https://en.wikipedia.org/wiki/Acacia_pied_barbet": [
+      556
+    ]
+  },
+  "urbanize": {
+    "https://en.wikipedia.org/wiki/Abyssinian_roller": [
+      520
+    ],
+    "https://en.wikipedia.org/wiki/Acorn_woodpecker": [
+      1392
+    ]
+  },
+  "urlcite": {
+    "https://en.wikipedia.org/wiki/Abyssinian_longclaw": [
+      113
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_owl": [
+      116
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_roller": [
+      119
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_scimitarbill": [
+      113
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_slaty_flycatcher": [
+      124
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_thrush": [
+      120
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_waxbill": [
+      117
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_wheatear": [
+      131
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_white-eye": [
+      114
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_woodpecker": [
+      118
+    ],
+    "https://en.wikipedia.org/wiki/Acacia_pied_barbet": [
+      123
+    ],
+    "https://en.wikipedia.org/wiki/Acacia_tit": [
+      120
+    ],
+    "https://en.wikipedia.org/wiki/Acadian_flycatcher": [
+      116
+    ],
+    "https://en.wikipedia.org/wiki/Aceh_bulbul": [
+      112
+    ],
+    "https://en.wikipedia.org/wiki/Acorn_woodpecker": [
+      140
+    ],
+    "https://en.wikipedia.org/wiki/Acre_antshrike": [
+      113
+    ],
+    "https://en.wikipedia.org/wiki/Acre_tody-tyrant": [
+      112
+    ],
+    "https://en.wikipedia.org/wiki/Adamawa_turtle_dove": [
+      115
+    ],
+    "https://en.wikipedia.org/wiki/Adelaide%27s_warbler": [
+      115
+    ]
+  },
+  "us": {
+    "https://en.wikipedia.org/wiki/Acacia_tit": [
+      731
+    ],
+    "https://en.wikipedia.org/wiki/Acorn_woodpecker": [
+      2222
+    ]
+  },
+  "usa": {
+    "https://en.wikipedia.org/wiki/Abyssinian_waxbill": [
+      651
+    ],
+    "https://en.wikipedia.org/wiki/Acorn_woodpecker": [
+      365
+    ]
+  },
+  "usdonate": {
+    "https://en.wikipedia.org/wiki/Abyssinian_longclaw": [
+      20
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_owl": [
+      20
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_roller": [
+      20
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_scimitarbill": [
+      20
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_slaty_flycatcher": [
+      21
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_thrush": [
+      20
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_waxbill": [
+      21
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_wheatear": [
+      20
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_white-eye": [
+      21
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_woodpecker": [
+      20
+    ],
+    "https://en.wikipedia.org/wiki/Acacia_pied_barbet": [
+      21
+    ],
+    "https://en.wikipedia.org/wiki/Acacia_tit": [
+      20
+    ],
+    "https://en.wikipedia.org/wiki/Acadian_flycatcher": [
+      20
+    ],
+    "https://en.wikipedia.org/wiki/Aceh_bulbul": [
+      20
+    ],
+    "https://en.wikipedia.org/wiki/Acorn_woodpecker": [
+      20
+    ],
+    "https://en.wikipedia.org/wiki/Acre_antshrike": [
+      20
+    ],
+    "https://en.wikipedia.org/wiki/Acre_tody-tyrant": [
+      21
+    ],
+    "https://en.wikipedia.org/wiki/Adamawa_turtle_dove": [
+      21
+    ],
+    "https://en.wikipedia.org/wiki/Adelaide%27s_warbler": [
+      20
+    ]
+  },
+  "use": {
+    "https://en.wikipedia.org/wiki/Abyssinian_longclaw": [
+      396,
+      405
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_owl": [
+      256,
+      590,
+      599
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_roller": [
+      789,
+      798
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_scimitarbill": [
+      419,
+      428
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_slaty_flycatcher": [
+      887,
+      896
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_thrush": [
+      936,
+      945
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_waxbill": [
+      806,
+      815
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_wheatear": [
+      1442,
+      1451
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_white-eye": [
+      547,
+      556
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_woodpecker": [
+      750,
+      759
+    ],
+    "https://en.wikipedia.org/wiki/Acacia_pied_barbet": [
+      1138,
+      1147
+    ],
+    "https://en.wikipedia.org/wiki/Acacia_tit": [
+      933,
+      942
+    ],
+    "https://en.wikipedia.org/wiki/Acadian_flycatcher": [
+      875,
+      931,
+      940
+    ],
+    "https://en.wikipedia.org/wiki/Aceh_bulbul": [
+      403,
+      412
+    ],
+    "https://en.wikipedia.org/wiki/Acorn_woodpecker": [
+      1111,
+      2414,
+      2423
+    ],
+    "https://en.wikipedia.org/wiki/Acre_antshrike": [
+      463,
+      472
+    ],
+    "https://en.wikipedia.org/wiki/Acre_tody-tyrant": [
+      518,
+      527
+    ],
+    "https://en.wikipedia.org/wiki/Adamawa_turtle_dove": [
+      651,
+      660
+    ],
+    "https://en.wikipedia.org/wiki/Adelaide%27s_warbler": [
+      801,
+      810
+    ]
+  },
+  "usg": {
+    "https://en.wikipedia.org/wiki/Acadian_flycatcher": [
+      745
+    ],
+    "https://en.wikipedia.org/wiki/Acorn_woodpecker": [
+      2188
+    ]
+  },
+  "usually": {
+    "https://en.wikipedia.org/wiki/Abyssinian_thrush": [
+      352
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_white-eye": [
+      330
+    ],
+    "https://en.wikipedia.org/wiki/Acorn_woodpecker": [
+      729,
+      930,
+      985,
+      1089
+    ],
+    "https://en.wikipedia.org/wiki/Adelaide%27s_warbler": [
+      423,
+      465
+    ]
+  },
+  "utility": {
+    "https://en.wikipedia.org/wiki/Acorn_woodpecker": [
+      1093
+    ]
+  },
+  "utrecht": {
+    "https://en.wikipedia.org/wiki/Acacia_pied_barbet": [
+      835
+    ]
+  }
+}

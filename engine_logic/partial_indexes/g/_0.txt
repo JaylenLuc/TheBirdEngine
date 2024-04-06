@@ -1,0 +1,316 @@
+{"(galliformes)": {"https://en.wikipedia.org/wiki/Bird": [21990]}}
+{"(genus": {"https://en.wikipedia.org/wiki/African_black_duck": [561]}}
+{"(genus)birds": {"https://en.wikipedia.org/wiki/Afep_pigeon": [798], "https://en.wikipedia.org/wiki/African_black_swift": [732]}}
+{"(geococcyx": {"https://en.wikipedia.org/wiki/Bird": [10027]}}
+{"(geographical": {"https://en.wikipedia.org/wiki/Bird": [22051]}}
+{"(geokichla": {"https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [193]}}
+{"(glaucidium": {"https://en.wikipedia.org/wiki/African_barred_owlet": [195]}}
+{"(gleaning)": {"https://en.wikipedia.org/wiki/Acadian_flycatcher": [457]}}
+{"(great": {"https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [5027]}}
+{"(greater": {"https://en.wikipedia.org/wiki/Bird": [11045]}}
+{"(grebes)": {"https://en.wikipedia.org/wiki/Bird": [3149, 23848], "https://en.wikipedia.org/wiki/African_crake": [3857]}}
+{"(green)": {"https://en.wikipedia.org/wiki/Abdim%27s_stork": [183]}}
+{"(guano)": {"https://en.wikipedia.org/wiki/Bird": [11971]}}
+{"(gulls": {"https://en.wikipedia.org/wiki/Bird": [23872], "https://en.wikipedia.org/wiki/African_crake": [3881]}}
+{"g": {"https://en.wikipedia.org/wiki/Bird": [13350, 13352, 14141, 14219, 14327, 14426, 14549, 15745, 15959, 16016, 16628, 16631, 17056, 17351, 17370, 20045, 20624, 20787, 21482, 22067, 22081, 22125, 22243], "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [1265], "https://en.wikipedia.org/wiki/Abbott%27s_booby": [2165, 2214, 2341, 2372], "https://en.wikipedia.org/wiki/Aberdare_cisticola": [215], "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [594], "https://en.wikipedia.org/wiki/Abert%27s_towhee": [341, 349, 357, 365], "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [354], "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [1127, 1165, 1961], "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [177, 315, 851], "https://en.wikipedia.org/wiki/Abyssinian_scimitarbill": [260], "https://en.wikipedia.org/wiki/Abyssinian_slaty_flycatcher": [304, 758], "https://en.wikipedia.org/wiki/Abyssinian_thrush": [708], "https://en.wikipedia.org/wiki/Abyssinian_woodpecker": [318], "https://en.wikipedia.org/wiki/Acacia_tit": [339], "https://en.wikipedia.org/wiki/Acorn_woodpecker": [229, 569], "https://en.wikipedia.org/wiki/Adamawa_turtle_dove": [273], "https://en.wikipedia.org/wiki/Adelaide%27s_warbler": [334], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [4052, 4060, 4150, 4185, 4192, 4808], "https://en.wikipedia.org/wiki/Afep_pigeon": [295], "https://en.wikipedia.org/wiki/Afghan_snowfinch": [1254, 1319, 1449], "https://en.wikipedia.org/wiki/African_barred_owlet": [184, 372], "https://en.wikipedia.org/wiki/African_blue_flycatcher": [300], "https://en.wikipedia.org/wiki/African_blue_tit": [718], "https://en.wikipedia.org/wiki/African_broadbill": [339, 345, 1197], "https://en.wikipedia.org/wiki/African_crake": [2812, 3220, 3405]}}
+{"g)": {"https://en.wikipedia.org/wiki/Acadian_flycatcher": [290]}}
+{"gabon": {"https://en.wikipedia.org/wiki/Abyssinian_waxbill": [421], "https://en.wikipedia.org/wiki/Acacia_pied_barbet": [851], "https://en.wikipedia.org/wiki/Afep_pigeon": [235, 391], "https://en.wikipedia.org/wiki/African_broadbill": [480, 836]}}
+{"gabon[4]": {"https://en.wikipedia.org/wiki/African_black_duck": [367]}}
+{"gabriel": {"https://en.wikipedia.org/wiki/Bird": [17388]}}
+{"gadow": {"https://en.wikipedia.org/wiki/Bird": [407]}}
+{"gadwall": {"https://en.wikipedia.org/wiki/Bird": [19514]}}
+{"gaese": {"https://en.wikipedia.org/wiki/Bird": [20793]}}
+{"gahr": {"https://en.wikipedia.org/wiki/Bird": [13360]}}
+{"gain": {"https://en.wikipedia.org/wiki/Bird": [1017, 6338]}}
+{"gair": {"https://en.wikipedia.org/wiki/Bird": [16644]}}
+{"gak": {"https://en.wikipedia.org/wiki/Abyssinian_roller": [330]}}
+{"galah": {"https://en.wikipedia.org/wiki/Bird": [3736]}}
+{"galapago": {"https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [5066]}}
+{"galbraith": {"https://en.wikipedia.org/wiki/Bird": [22083]}}
+{"gale": {"https://en.wikipedia.org/wiki/Abbott%27s_babbler": [1539, 1592]}}
+{"galinieri": {"https://en.wikipedia.org/wiki/Abyssinian_catbird": [170, 179, 726, 823, 942, 947, 955, 983]}}
+{"galinieri(guérin": {"https://en.wikipedia.org/wiki/Abyssinian_catbird": [174]}}
+{"galinieri)": {"https://en.wikipedia.org/wiki/Abyssinian_catbird": [187, 852]}}
+{"galinieri_fig12_309814504": {"https://en.wikipedia.org/wiki/Abyssinian_catbird": [926]}}
+{"gall": {"https://en.wikipedia.org/wiki/Bird": [13635]}}
+{"gallant": {"https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [1802]}}
+{"gallbladder[145]": {"https://en.wikipedia.org/wiki/Bird": [6815]}}
+{"gallery": {"https://en.wikipedia.org/wiki/Abert%27s_towhee": [685], "https://en.wikipedia.org/wiki/Acadian_flycatcher": [770], "https://en.wikipedia.org/wiki/Acorn_woodpecker": [2213], "https://en.wikipedia.org/wiki/Adamawa_turtle_dove": [340], "https://en.wikipedia.org/wiki/African_barred_owlet": [402], "https://en.wikipedia.org/wiki/African_blue_flycatcher": [371], "https://en.wikipedia.org/wiki/African_broadbill": [523]}}
+{"gallery[edit]": {"https://en.wikipedia.org/wiki/Abdim%27s_stork": [527], "https://en.wikipedia.org/wiki/Abyssinian_scimitarbill": [233]}}
+{"gallic": {"https://en.wikipedia.org/wiki/Bird": [24696]}}
+{"gallicu": {"https://en.wikipedia.org/wiki/Bird": [17065]}}
+{"galliform": {"https://en.wikipedia.org/wiki/Bird": [2836]}}
+{"galliforme": {"https://en.wikipedia.org/wiki/Bird": [3136, 4236, 23797], "https://en.wikipedia.org/wiki/African_crake": [3806]}}
+{"galloanserae": {"https://en.wikipedia.org/wiki/Bird": [2678, 2876, 3135]}}
+{"gallopavo)": {"https://en.wikipedia.org/wiki/Bird": [10072]}}
+{"gambia": {"https://en.wikipedia.org/wiki/Adamawa_turtle_dove": [236], "https://en.wikipedia.org/wiki/African_blue_flycatcher": [344], "https://en.wikipedia.org/wiki/African_crake": [1630]}}
+{"game": {"https://en.wikipedia.org/wiki/Bird": [3702], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [1493], "https://en.wikipedia.org/wiki/African_crake": [3421]}}
+{"gamebird": {"https://en.wikipedia.org/wiki/Bird": [21989]}}
+{"gamebirds)cracidae": {"https://en.wikipedia.org/wiki/Bird": [23799], "https://en.wikipedia.org/wiki/African_crake": [3808]}}
+{"gang": {"https://en.wikipedia.org/wiki/Afghan_snowfinch": [1365]}}
+{"gannet": {"https://en.wikipedia.org/wiki/Abbott%27s_booby": [213, 485, 512, 532, 2378, 2552, 2652, 2676, 2678, 2680]}}
+{"gansuiforme": {"https://en.wikipedia.org/wiki/Bird": [23706], "https://en.wikipedia.org/wiki/African_crake": [3715]}}
+{"ganzhousauru": {"https://en.wikipedia.org/wiki/Bird": [24175]}}
+{"gao": {"https://en.wikipedia.org/wiki/Bird": [14123]}}
+{"gap": {"https://en.wikipedia.org/wiki/Abbott%27s_booby": [1537]}}
+{"garcia": {"https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [4961], "https://en.wikipedia.org/wiki/African_blue_tit": [910], "https://en.wikipedia.org/wiki/African_crake": [2905]}}
+{"garden": {"https://en.wikipedia.org/wiki/Talk:List_of_birds_by_common_name": [1537], "https://en.wikipedia.org/wiki/Bird": [21435, 22143], "https://en.wikipedia.org/wiki/Abdim%27s_stork": [541], "https://en.wikipedia.org/wiki/Abyssinian_slaty_flycatcher": [389], "https://en.wikipedia.org/wiki/Abyssinian_white-eye": [309], "https://en.wikipedia.org/wiki/Acacia_pied_barbet": [557], "https://en.wikipedia.org/wiki/Adamawa_turtle_dove": [343], "https://en.wikipedia.org/wiki/African_blue_flycatcher": [375]}}
+{"gardens[8]": {"https://en.wikipedia.org/wiki/Abyssinian_thrush": [557]}}
+{"gareth": {"https://en.wikipedia.org/wiki/Bird": [13686, 14092, 14790]}}
+{"gargallo": {"https://en.wikipedia.org/wiki/Bird": [17387]}}
+{"garraffo": {"https://en.wikipedia.org/wiki/Bird": [17155]}}
+{"garrard": {"https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [1222, 1598, 1744, 3775, 3794, 3800, 4651]}}
+{"gary": {"https://en.wikipedia.org/wiki/Bird": [15119, 15982, 21416], "https://en.wikipedia.org/wiki/Acorn_woodpecker": [2116]}}
+{"gas": {"https://en.wikipedia.org/wiki/Bird": [5102, 5221, 5340]}}
+{"gaston": {"https://en.wikipedia.org/wiki/Bird": [20748, 23206]}}
+{"gastornithiforme": {"https://en.wikipedia.org/wiki/Bird": [23712], "https://en.wikipedia.org/wiki/African_crake": [3721]}}
+{"gastropod": {"https://en.wikipedia.org/wiki/African_crake": [2332]}}
+{"gateway": {"https://en.wikipedia.org/wiki/Bird": [21912], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [4694]}}
+{"gather": {"https://en.wikipedia.org/wiki/Bird": [22981], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [2363]}}
+{"gathering": {"https://en.wikipedia.org/wiki/Bird": [11662]}}
+{"gauthier": {"https://en.wikipedia.org/wiki/Bird": [1016, 1035, 1093, 1392, 1451, 13564, 13615, 13632, 13815, 19501]}}
+{"gauthreaux": {"https://en.wikipedia.org/wiki/Bird": [17227]}}
+{"gautier": {"https://en.wikipedia.org/wiki/African_crake": [3279]}}
+{"gave": {"https://en.wikipedia.org/wiki/Bird": [517], "https://en.wikipedia.org/wiki/Afghan_snowfinch": [329, 358]}}
+{"gaviiforme": {"https://en.wikipedia.org/wiki/Bird": [23887], "https://en.wikipedia.org/wiki/African_crake": [3896]}}
+{"gaviiformes[58]": {"https://en.wikipedia.org/wiki/Bird": [3204]}}
+{"gbif": {"https://en.wikipedia.org/wiki/Bird": [24875], "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [1673], "https://en.wikipedia.org/wiki/Abbott%27s_booby": [2917, 2951], "https://en.wikipedia.org/wiki/Abbott%27s_starling": [434], "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [702], "https://en.wikipedia.org/wiki/Abdim%27s_stork": [799], "https://en.wikipedia.org/wiki/Aberdare_cisticola": [386], "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [726], "https://en.wikipedia.org/wiki/Abert%27s_towhee": [758], "https://en.wikipedia.org/wiki/Abyssinian_catbird": [950, 970], "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [851], "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [2072], "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [926, 942], "https://en.wikipedia.org/wiki/Abyssinian_longclaw": [299], "https://en.wikipedia.org/wiki/Abyssinian_owl": [491, 513], "https://en.wikipedia.org/wiki/Abyssinian_roller": [697], "https://en.wikipedia.org/wiki/Abyssinian_scimitarbill": [321], "https://en.wikipedia.org/wiki/Abyssinian_slaty_flycatcher": [811], "https://en.wikipedia.org/wiki/Abyssinian_thrush": [848], "https://en.wikipedia.org/wiki/Abyssinian_waxbill": [691], "https://en.wikipedia.org/wiki/Abyssinian_wheatear": [1367], "https://en.wikipedia.org/wiki/Abyssinian_white-eye": [466], "https://en.wikipedia.org/wiki/Abyssinian_woodpecker": [670], "https://en.wikipedia.org/wiki/Acacia_pied_barbet": [1042], "https://en.wikipedia.org/wiki/Acacia_tit": [842, 860], "https://en.wikipedia.org/wiki/Acadian_flycatcher": [815], "https://en.wikipedia.org/wiki/Aceh_bulbul": [317], "https://en.wikipedia.org/wiki/Acorn_woodpecker": [2259, 2291], "https://en.wikipedia.org/wiki/Acre_antshrike": [366], "https://en.wikipedia.org/wiki/Acre_tody-tyrant": [398], "https://en.wikipedia.org/wiki/Adamawa_turtle_dove": [573], "https://en.wikipedia.org/wiki/Adelaide%27s_warbler": [693, 717], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [5136], "https://en.wikipedia.org/wiki/Admiralty_cicadabird": [246], "https://en.wikipedia.org/wiki/Afep_pigeon": [770], "https://en.wikipedia.org/wiki/Afghan_babbler": [534], "https://en.wikipedia.org/wiki/Afghan_snowfinch": [1728, 1752], "https://en.wikipedia.org/wiki/African_barred_owlet": [799], "https://en.wikipedia.org/wiki/African_black_duck": [747], "https://en.wikipedia.org/wiki/African_black_swift": [704], "https://en.wikipedia.org/wiki/African_blue_flycatcher": [619], "https://en.wikipedia.org/wiki/African_blue_tit": [972, 1002], "https://en.wikipedia.org/wiki/African_broadbill": [1309], "https://en.wikipedia.org/wiki/African_citril": [440, 462], "https://en.wikipedia.org/wiki/African_collared_dove": [560], "https://en.wikipedia.org/wiki/African_crake": [3992]}}
+{"gedimina": {"https://en.wikipedia.org/wiki/Bird": [21346]}}
+{"geebee60": {"https://en.wikipedia.org/wiki/Talk:List_of_birds_by_common_name": [920]}}
+{"geese": {"https://en.wikipedia.org/wiki/Bird": [5859, 6229, 7045, 7516, 11858, 11956, 18116, 23788], "https://en.wikipedia.org/wiki/African_crake": [3797]}}
+{"gehörig": {"https://en.wikipedia.org/wiki/Abyssinian_wheatear": [1174]}}
+{"gelang": {"https://en.wikipedia.org/wiki/Afghan_babbler": [423]}}
+{"geminiraptor": {"https://en.wikipedia.org/wiki/Bird": [24280]}}
+{"gemma": {"https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [4461]}}
+{"gen": {"https://en.wikipedia.org/wiki/Bird": [16168]}}
+{"gene": {"https://en.wikipedia.org/wiki/Bird": [3451, 3457, 3482, 9240, 21365], "https://en.wikipedia.org/wiki/Abbott%27s_booby": [499, 523], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [4556]}}
+{"genera": {"https://en.wikipedia.org/wiki/Talk:List_of_birds_by_common_name": [1891, 1912], "https://en.wikipedia.org/wiki/Bird": [1833, 13478, 23741], "https://en.wikipedia.org/wiki/Abdim%27s_stork": [770], "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [718], "https://en.wikipedia.org/wiki/Abyssinian_thrush": [633], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [426, 2074], "https://en.wikipedia.org/wiki/African_crake": [3750]}}
+{"general": {"https://en.wikipedia.org/wiki/Talk:List_of_birds_by_common_name": [152], "https://en.wikipedia.org/wiki/Bird": [281, 6243, 6310, 11232, 22737, 22769, 23099], "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [112], "https://en.wikipedia.org/wiki/Abbott%27s_booby": [120], "https://en.wikipedia.org/wiki/Abbott%27s_starling": [103], "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [110], "https://en.wikipedia.org/wiki/Abdim%27s_stork": [112], "https://en.wikipedia.org/wiki/Aberdare_cisticola": [103], "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [104], "https://en.wikipedia.org/wiki/Abert%27s_towhee": [106], "https://en.wikipedia.org/wiki/Abyssinian_catbird": [113, 712], "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [114], "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [130], "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [116], "https://en.wikipedia.org/wiki/Abyssinian_longclaw": [103], "https://en.wikipedia.org/wiki/Abyssinian_owl": [106], "https://en.wikipedia.org/wiki/Abyssinian_roller": [109], "https://en.wikipedia.org/wiki/Abyssinian_scimitarbill": [103], "https://en.wikipedia.org/wiki/Abyssinian_slaty_flycatcher": [114], "https://en.wikipedia.org/wiki/Abyssinian_thrush": [110], "https://en.wikipedia.org/wiki/Abyssinian_waxbill": [107], "https://en.wikipedia.org/wiki/Abyssinian_wheatear": [121], "https://en.wikipedia.org/wiki/Abyssinian_white-eye": [104], "https://en.wikipedia.org/wiki/Abyssinian_woodpecker": [108], "https://en.wikipedia.org/wiki/Acacia_pied_barbet": [113], "https://en.wikipedia.org/wiki/Acacia_tit": [110], "https://en.wikipedia.org/wiki/Acadian_flycatcher": [106], "https://en.wikipedia.org/wiki/Aceh_bulbul": [102], "https://en.wikipedia.org/wiki/Acorn_woodpecker": [130], "https://en.wikipedia.org/wiki/Acre_antshrike": [103], "https://en.wikipedia.org/wiki/Acre_tody-tyrant": [102], "https://en.wikipedia.org/wiki/Adamawa_turtle_dove": [105], "https://en.wikipedia.org/wiki/Adelaide%27s_warbler": [105], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [145], "https://en.wikipedia.org/wiki/Admiralty_cicadabird": [100], "https://en.wikipedia.org/wiki/Afep_pigeon": [115], "https://en.wikipedia.org/wiki/Afghan_babbler": [100], "https://en.wikipedia.org/wiki/Afghan_snowfinch": [117, 744], "https://en.wikipedia.org/wiki/African_barred_owlet": [116], "https://en.wikipedia.org/wiki/African_black_duck": [112], "https://en.wikipedia.org/wiki/African_black_swift": [112], "https://en.wikipedia.org/wiki/African_blue_flycatcher": [114], "https://en.wikipedia.org/wiki/African_blue_tit": [112], "https://en.wikipedia.org/wiki/African_broadbill": [116, 1024], "https://en.wikipedia.org/wiki/African_citril": [103], "https://en.wikipedia.org/wiki/African_collared_dove": [106], "https://en.wikipedia.org/wiki/African_crake": [127]}}
+{"generalist": {"https://en.wikipedia.org/wiki/Bird": [6871, 11308]}}
+{"generally": {"https://en.wikipedia.org/wiki/Bird": [4405, 5053, 6616, 9373, 9405, 11366], "https://en.wikipedia.org/wiki/Abert%27s_towhee": [195], "https://en.wikipedia.org/wiki/Abyssinian_thrush": [493, 519], "https://en.wikipedia.org/wiki/Abyssinian_wheatear": [882], "https://en.wikipedia.org/wiki/Acorn_woodpecker": [837]}}
+{"generate": {"https://en.wikipedia.org/wiki/Talk:List_of_birds_by_common_name": [2131], "https://en.wikipedia.org/wiki/Abbott%27s_booby": [1609]}}
+{"generation": {"https://en.wikipedia.org/wiki/Bird": [675, 14837], "https://en.wikipedia.org/wiki/Abbott%27s_booby": [1061]}}
+{"generative": {"https://en.wikipedia.org/wiki/Bird": [22494]}}
+{"generic": {"https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [375], "https://en.wikipedia.org/wiki/Acacia_pied_barbet": [353], "https://en.wikipedia.org/wiki/Afghan_snowfinch": [1339], "https://en.wikipedia.org/wiki/African_blue_flycatcher": [458], "https://en.wikipedia.org/wiki/African_broadbill": [766], "https://en.wikipedia.org/wiki/African_citril": [324]}}
+{"genet": {"https://en.wikipedia.org/wiki/Bird": [21230, 21257]}}
+{"genetic": {"https://en.wikipedia.org/wiki/Abyssinian_thrush": [227], "https://en.wikipedia.org/wiki/Abyssinian_wheatear": [406], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [535], "https://en.wikipedia.org/wiki/African_black_duck": [211]}}
+{"genetics": {"https://en.wikipedia.org/wiki/Bird": [21224, 21260]}}
+{"genevoi": {"https://en.wikipedia.org/wiki/Bird": [19152]}}
+{"genome": {"https://en.wikipedia.org/wiki/Bird": [3369, 3374, 3392, 3404, 3443, 15002, 15305, 15340]}}
+{"genomic": {"https://en.wikipedia.org/wiki/Bird": [2891, 3362, 15376, 20502]}}
+{"gentoo": {"https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [511, 5041]}}
+{"genuine": {"https://en.wikipedia.org/wiki/Afghan_snowfinch": [405]}}
+{"genus": {"https://en.wikipedia.org/wiki/Talk:List_of_birds_by_common_name": [491, 736], "https://en.wikipedia.org/wiki/Bird": [8987, 17164], "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [171, 265, 327, 393, 1216, 1313], "https://en.wikipedia.org/wiki/Abbott%27s_booby": [177, 228, 457, 2639, 2685], "https://en.wikipedia.org/wiki/Abbott%27s_starling": [158, 239], "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [176], "https://en.wikipedia.org/wiki/Abdim%27s_stork": [171], "https://en.wikipedia.org/wiki/Aberdare_cisticola": [156], "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [162, 276, 313], "https://en.wikipedia.org/wiki/Abert%27s_towhee": [160, 711], "https://en.wikipedia.org/wiki/Abyssinian_catbird": [166, 395], "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [173], "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [191, 353, 384], "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [174], "https://en.wikipedia.org/wiki/Abyssinian_longclaw": [157], "https://en.wikipedia.org/wiki/Abyssinian_owl": [164, 280], "https://en.wikipedia.org/wiki/Abyssinian_roller": [165], "https://en.wikipedia.org/wiki/Abyssinian_scimitarbill": [162], "https://en.wikipedia.org/wiki/Abyssinian_slaty_flycatcher": [174, 230, 495, 783], "https://en.wikipedia.org/wiki/Abyssinian_thrush": [164, 305, 566], "https://en.wikipedia.org/wiki/Abyssinian_waxbill": [166, 266], "https://en.wikipedia.org/wiki/Abyssinian_wheatear": [169], "https://en.wikipedia.org/wiki/Abyssinian_white-eye": [159, 189], "https://en.wikipedia.org/wiki/Abyssinian_woodpecker": [162], "https://en.wikipedia.org/wiki/Acacia_pied_barbet": [179, 337], "https://en.wikipedia.org/wiki/Acacia_tit": [164, 469, 491], "https://en.wikipedia.org/wiki/Acadian_flycatcher": [161, 302], "https://en.wikipedia.org/wiki/Aceh_bulbul": [157], "https://en.wikipedia.org/wiki/Acorn_woodpecker": [194, 293], "https://en.wikipedia.org/wiki/Acre_antshrike": [158], "https://en.wikipedia.org/wiki/Acre_tody-tyrant": [157], "https://en.wikipedia.org/wiki/Adamawa_turtle_dove": [162], "https://en.wikipedia.org/wiki/Adelaide%27s_warbler": [159, 191, 294], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [206, 434, 457, 486, 508, 553, 578], "https://en.wikipedia.org/wiki/Admiralty_cicadabird": [147], "https://en.wikipedia.org/wiki/Afep_pigeon": [169], "https://en.wikipedia.org/wiki/Afghan_babbler": [150, 273, 293], "https://en.wikipedia.org/wiki/Afghan_snowfinch": [180, 415, 470, 532], "https://en.wikipedia.org/wiki/African_barred_owlet": [181], "https://en.wikipedia.org/wiki/African_black_duck": [167, 207], "https://en.wikipedia.org/wiki/African_black_swift": [169], "https://en.wikipedia.org/wiki/African_blue_flycatcher": [172, 437], "https://en.wikipedia.org/wiki/African_blue_tit": [167], "https://en.wikipedia.org/wiki/African_broadbill": [170], "https://en.wikipedia.org/wiki/African_citril": [159, 223, 237, 241, 259], "https://en.wikipedia.org/wiki/African_collared_dove": [232], "https://en.wikipedia.org/wiki/African_crake": [198, 656, 674, 713, 792]}}
+{"geo": {"https://en.wikipedia.org/wiki/Abyssinian_roller": [651], "https://en.wikipedia.org/wiki/Abyssinian_slaty_flycatcher": [690], "https://en.wikipedia.org/wiki/Abyssinian_woodpecker": [630], "https://en.wikipedia.org/wiki/African_citril": [405]}}
+{"geoff": {"https://en.wikipedia.org/wiki/Bird": [20268]}}
+{"geoffrey": {"https://en.wikipedia.org/wiki/Bird": [17532]}}
+{"geography": {"https://en.wikipedia.org/wiki/Bird": [21418, 22054, 23344, 23353], "https://en.wikipedia.org/wiki/Abyssinian_wheatear": [464], "https://en.wikipedia.org/wiki/Acacia_pied_barbet": [952], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [1978, 3941], "https://en.wikipedia.org/wiki/African_barred_owlet": [239], "https://en.wikipedia.org/wiki/African_crake": [975]}}
+{"geoguide": {"https://en.wikipedia.org/wiki/Abyssinian_roller": [657]}}
+{"geokichla": {"https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [175, 181, 376, 389, 415, 425, 442, 454, 776, 914, 936]}}
+{"geokichla[2]": {"https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [728]}}
+{"geomagnet": {"https://en.wikipedia.org/wiki/Bird": [8139]}}
+{"georg": {"https://en.wikipedia.org/wiki/Abyssinian_thrush": [650]}}
+{"george": {"https://en.wikipedia.org/wiki/Abbott%27s_babbler": [1540, 1593], "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [258, 1703, 1727], "https://en.wikipedia.org/wiki/Abyssinian_thrush": [332, 681], "https://en.wikipedia.org/wiki/Acacia_pied_barbet": [233, 739, 765], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [1275, 4063], "https://en.wikipedia.org/wiki/Afep_pigeon": [615], "https://en.wikipedia.org/wiki/African_blue_tit": [826, 875], "https://en.wikipedia.org/wiki/African_crake": [3442]}}
+{"georgia": {"https://en.wikipedia.org/wiki/Bird": [19102], "https://en.wikipedia.org/wiki/Abbott%27s_booby": [2811]}}
+{"georgia[14]": {"https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [1000]}}
+{"geospiza": {"https://en.wikipedia.org/wiki/Bird": [10995]}}
+{"gerald": {"https://en.wikipedia.org/wiki/African_black_swift": [623]}}
+{"german)": {"https://en.wikipedia.org/wiki/Abyssinian_waxbill": [495], "https://en.wikipedia.org/wiki/Abyssinian_wheatear": [1176], "https://en.wikipedia.org/wiki/African_crake": [2868]}}
+{"germany": {"https://en.wikipedia.org/wiki/Bird": [2025, 12155, 22554, 24920], "https://en.wikipedia.org/wiki/Abyssinian_thrush": [281], "https://en.wikipedia.org/wiki/Abyssinian_waxbill": [236, 751], "https://en.wikipedia.org/wiki/Abyssinian_wheatear": [228, 1400], "https://en.wikipedia.org/wiki/African_crake": [686, 4035]}}
+{"gerrard": {"https://en.wikipedia.org/wiki/Bird": [24799], "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [780]}}
+{"gerygone*": {"https://en.wikipedia.org/wiki/Talk:List_of_birds_by_common_name": [1777]}}
+{"get": {"https://en.wikipedia.org/wiki/Bird": [4265, 9238], "https://en.wikipedia.org/wiki/Abyssinian_thrush": [522], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [1483]}}
+{"gettyia": {"https://en.wikipedia.org/wiki/Bird": [24481]}}
+{"ghana": {"https://en.wikipedia.org/wiki/Afep_pigeon": [382]}}
+{"ghasal": {"https://en.wikipedia.org/wiki/Abyssinian_waxbill": [490]}}
+{"ghat": {"https://en.wikipedia.org/wiki/Abbott%27s_babbler": [407, 738, 830, 1319]}}
+{"ghazal": {"https://en.wikipedia.org/wiki/Abyssinian_waxbill": [255]}}
+{"giant": {"https://en.wikipedia.org/wiki/Bird": [12462], "https://en.wikipedia.org/wiki/Abyssinian_roller": [415], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [1883, 3057, 3067]}}
+{"giardiasi": {"https://en.wikipedia.org/wiki/Bird": [11764]}}
+{"gibb": {"https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [4894]}}
+{"gibney": {"https://en.wikipedia.org/wiki/African_crake": [1861]}}
+{"gift": {"https://en.wikipedia.org/wiki/Bird": [9464]}}
+{"gigant": {"https://en.wikipedia.org/wiki/Bird": [6675]}}
+{"giganteus)": {"https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [1886]}}
+{"gigantoraptor": {"https://en.wikipedia.org/wiki/Bird": [24145]}}
+{"gila": {"https://en.wikipedia.org/wiki/Abert%27s_towhee": [201]}}
+{"gill": {"https://en.wikipedia.org/wiki/Bird": [15767, 19811, 20636, 20758], "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [1356], "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [433], "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [642], "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [1840], "https://en.wikipedia.org/wiki/Abyssinian_slaty_flycatcher": [727], "https://en.wikipedia.org/wiki/Abyssinian_thrush": [753], "https://en.wikipedia.org/wiki/Abyssinian_waxbill": [550], "https://en.wikipedia.org/wiki/Acacia_pied_barbet": [865], "https://en.wikipedia.org/wiki/Acacia_tit": [769], "https://en.wikipedia.org/wiki/Acorn_woodpecker": [1682], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [3663, 4727], "https://en.wikipedia.org/wiki/Admiralty_cicadabird": [210], "https://en.wikipedia.org/wiki/Afep_pigeon": [639], "https://en.wikipedia.org/wiki/Afghan_babbler": [460], "https://en.wikipedia.org/wiki/African_citril": [342]}}
+{"gillian": {"https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [4895]}}
+{"gillmor": {"https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [540]}}
+{"gionfriddo": {"https://en.wikipedia.org/wiki/Bird": [17739]}}
+{"giraffe": {"https://en.wikipedia.org/wiki/Bird": [19697]}}
+{"giroux": {"https://en.wikipedia.org/wiki/Bird": [18216]}}
+{"gisela": {"https://en.wikipedia.org/wiki/Bird": [20274]}}
+{"give": {"https://en.wikipedia.org/wiki/Bird": [3444, 9465], "https://en.wikipedia.org/wiki/Abyssinian_catbird": [361], "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [1621], "https://en.wikipedia.org/wiki/Abyssinian_roller": [472], "https://en.wikipedia.org/wiki/Acorn_woodpecker": [1663], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [383], "https://en.wikipedia.org/wiki/Afghan_snowfinch": [1161], "https://en.wikipedia.org/wiki/African_black_swift": [377], "https://en.wikipedia.org/wiki/African_broadbill": [632], "https://en.wikipedia.org/wiki/African_crake": [1184]}}
+{"given": {"https://en.wikipedia.org/wiki/Bird": [3074], "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [258], "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [371], "https://en.wikipedia.org/wiki/Abyssinian_wheatear": [238], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [3481], "https://en.wikipedia.org/wiki/African_broadbill": [526], "https://en.wikipedia.org/wiki/African_crake": [1136]}}
+{"gizzard": {"https://en.wikipedia.org/wiki/Bird": [6787]}}
+{"glacial": {"https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [1969]}}
+{"gland": {"https://en.wikipedia.org/wiki/Bird": [6407, 7160, 7209, 7396, 9042, 18393, 23661], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [2930, 2952, 4288], "https://en.wikipedia.org/wiki/African_crake": [3670]}}
+{"glands[48]": {"https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [2998]}}
+{"glasgow": {"https://en.wikipedia.org/wiki/Acacia_pied_barbet": [933]}}
+{"glaucidium": {"https://en.wikipedia.org/wiki/African_barred_owlet": [182, 188, 584, 596, 621, 639, 727, 747, 754, 780, 785, 815]}}
+{"glaucidium_capense": {"https://en.wikipedia.org/wiki/African_barred_owlet": [783]}}
+{"glean": {"https://en.wikipedia.org/wiki/Bird": [6904], "https://en.wikipedia.org/wiki/Adelaide%27s_warbler": [395]}}
+{"glide": {"https://en.wikipedia.org/wiki/Bird": [1689, 1718], "https://en.wikipedia.org/wiki/Adamawa_turtle_dove": [433], "https://en.wikipedia.org/wiki/African_black_swift": [393]}}
+{"global": {"https://en.wikipedia.org/wiki/Bird": [7528, 18752], "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [216], "https://en.wikipedia.org/wiki/Abyssinian_waxbill": [197], "https://en.wikipedia.org/wiki/Acadian_flycatcher": [592], "https://en.wikipedia.org/wiki/Acre_tody-tyrant": [377], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [3149, 3863, 3999, 4568], "https://en.wikipedia.org/wiki/Afghan_snowfinch": [1439]}}
+{"glorify": {"https://en.wikipedia.org/wiki/Bird": [14467]}}
+{"glorioso": {"https://en.wikipedia.org/wiki/Abbott%27s_booby": [439]}}
+{"glossary": {"https://en.wikipedia.org/wiki/Bird": [13194, 23742], "https://en.wikipedia.org/wiki/African_crake": [3751]}}
+{"glossy": {"https://en.wikipedia.org/wiki/Acacia_tit": [234], "https://en.wikipedia.org/wiki/African_blue_tit": [341]}}
+{"glue": {"https://en.wikipedia.org/wiki/Bird": [22118], "https://en.wikipedia.org/wiki/African_black_swift": [564]}}
+{"gm": {"https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [680], "https://en.wikipedia.org/wiki/Abyssinian_roller": [585], "https://en.wikipedia.org/wiki/Adamawa_turtle_dove": [509]}}
+{"gmelin": {"https://en.wikipedia.org/wiki/Abyssinian_thrush": [174, 285, 314, 392, 620]}}
+{"gmelinhidden": {"https://en.wikipedia.org/wiki/Abyssinian_thrush": [884]}}
+{"gnab": {"https://en.wikipedia.org/wiki/Abert%27s_towhee": [760], "https://en.wikipedia.org/wiki/Acadian_flycatcher": [817], "https://en.wikipedia.org/wiki/Acorn_woodpecker": [2261]}}
+{"gnathostomata(jawed": {"https://en.wikipedia.org/wiki/Bird": [23986]}}
+{"gnd": {"https://en.wikipedia.org/wiki/Bird": [25068]}}
+{"gnrh": {"https://en.wikipedia.org/wiki/Bird": [16292]}}
+{"go": {"https://en.wikipedia.org/wiki/Bird": [4712, 8995, 16528], "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [588], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [1533, 2190, 2263]}}
+{"gobipterygidae": {"https://en.wikipedia.org/wiki/Bird": [24462]}}
+{"gobipteryx": {"https://en.wikipedia.org/wiki/Bird": [24463]}}
+{"gobiraptor": {"https://en.wikipedia.org/wiki/Bird": [24176]}}
+{"gobivenator": {"https://en.wikipedia.org/wiki/Bird": [24307]}}
+{"god": {"https://en.wikipedia.org/wiki/Bird": [12223]}}
+{"goddess": {"https://en.wikipedia.org/wiki/Bird": [12324, 12334, 12340, 12347]}}
+{"godefroit": {"https://en.wikipedia.org/wiki/Bird": [13675]}}
+{"gods": {"https://en.wikipedia.org/wiki/Bird": [22348]}}
+{"godwit": {"https://en.wikipedia.org/wiki/Bird": [7662, 7758, 18671]}}
+{"golden": {"https://en.wikipedia.org/wiki/Talk:List_of_birds_by_common_name": [1539, 1541, 1544, 1547], "https://en.wikipedia.org/wiki/Bird": [2637, 9645, 10060, 24773], "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [629, 632], "https://en.wikipedia.org/wiki/Abyssinian_woodpecker": [186, 191, 248, 297], "https://en.wikipedia.org/wiki/Afghan_snowfinch": [1658, 1661]}}
+{"goldfinch": {"https://en.wikipedia.org/wiki/Bird": [19663]}}
+{"golovkin": {"https://en.wikipedia.org/wiki/Bird": [21577]}}
+{"gomera": {"https://en.wikipedia.org/wiki/African_blue_tit": [555]}}
+{"gonad": {"https://en.wikipedia.org/wiki/Bird": [4390, 16252, 16279], "https://en.wikipedia.org/wiki/Abyssinian_slaty_flycatcher": [429]}}
+{"gondar": {"https://en.wikipedia.org/wiki/Abyssinian_wheatear": [255]}}
+{"gondar)[1]": {"https://en.wikipedia.org/wiki/Abyssinian_wheatear": [271]}}
+{"gondwana": {"https://en.wikipedia.org/wiki/Bird": [2752, 2931, 2953, 3015]}}
+{"gone": {"https://en.wikipedia.org/wiki/Bird": [13025, 13170, 16534], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [3606]}}
+{"gong": {"https://en.wikipedia.org/wiki/Bird": [21293]}}
+{"gonochoric[98]": {"https://en.wikipedia.org/wiki/Bird": [4484]}}
+{"gonser": {"https://en.wikipedia.org/wiki/Bird": [16428]}}
+{"good": {"https://en.wikipedia.org/wiki/Bird": [10943], "https://en.wikipedia.org/wiki/Acacia_pied_barbet": [255], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [3201], "https://en.wikipedia.org/wiki/African_crake": [1410, 2705]}}
+{"goose": {"https://en.wikipedia.org/wiki/Bird": [5833]}}
+{"gordon": {"https://en.wikipedia.org/wiki/Bird": [16686, 18428]}}
+{"gorge": {"https://en.wikipedia.org/wiki/Abyssinian_owl": [320]}}
+{"goshawk": {"https://en.wikipedia.org/wiki/African_crake": [2514]}}
+{"goswami": {"https://en.wikipedia.org/wiki/Bird": [14744]}}
+{"got": {"https://en.wikipedia.org/wiki/Talk:List_of_birds_by_common_name": [523]}}
+{"gould": {"https://en.wikipedia.org/wiki/Bird": [24795]}}
+{"gouldian": {"https://en.wikipedia.org/wiki/Talk:List_of_birds_by_common_name": [393]}}
+{"government": {"https://en.wikipedia.org/wiki/Bird": [13124, 17900], "https://en.wikipedia.org/wiki/Abbott%27s_booby": [2224, 2465, 2626], "https://en.wikipedia.org/wiki/Acadian_flycatcher": [610]}}
+{"governor": {"https://en.wikipedia.org/wiki/Abdim%27s_stork": [238]}}
+{"gowaty": {"https://en.wikipedia.org/wiki/Bird": [19927, 19981]}}
+{"gp": {"https://en.wikipedia.org/wiki/Bird": [14855], "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [733, 736], "https://en.wikipedia.org/wiki/African_citril": [318]}}
+{"grabaui": {"https://en.wikipedia.org/wiki/Bird": [14726]}}
+{"grabauorni": {"https://en.wikipedia.org/wiki/Bird": [24422]}}
+{"graceful": {"https://en.wikipedia.org/wiki/Talk:List_of_birds_by_common_name": [1550], "https://en.wikipedia.org/wiki/African_blue_flycatcher": [388]}}
+{"graciliraptor": {"https://en.wikipedia.org/wiki/Bird": [24235]}}
+{"gracilorni": {"https://en.wikipedia.org/wiki/Bird": [24423]}}
+{"gradient": {"https://en.wikipedia.org/wiki/Bird": [15443]}}
+{"gradual": {"https://en.wikipedia.org/wiki/Abyssinian_catbird": [275], "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [538]}}
+{"graduate": {"https://en.wikipedia.org/wiki/Aberdare_cisticola": [238]}}
+{"graham": {"https://en.wikipedia.org/wiki/Bird": [17053], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [4351]}}
+{"grain": {"https://en.wikipedia.org/wiki/Afep_pigeon": [414]}}
+{"gram": {"https://en.wikipedia.org/wiki/Bird": [9928], "https://en.wikipedia.org/wiki/Afghan_snowfinch": [563]}}
+{"grammatical": {"https://en.wikipedia.org/wiki/Afep_pigeon": [623]}}
+{"gran": {"https://en.wikipedia.org/wiki/Bird": [11274], "https://en.wikipedia.org/wiki/African_blue_tit": [249, 294, 412, 566]}}
+{"granary": {"https://en.wikipedia.org/wiki/Acorn_woodpecker": [865, 1085, 1116, 1263, 1282, 1309, 1347, 1465]}}
+{"grand": {"https://en.wikipedia.org/wiki/Bird": [22256], "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [1742]}}
+{"granivore": {"https://en.wikipedia.org/wiki/Bird": [11380]}}
+{"grant": {"https://en.wikipedia.org/wiki/Bird": [21066, 21068], "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [185, 499], "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [460], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [4956]}}
+{"grasping": {"https://en.wikipedia.org/wiki/Bird": [2252]}}
+{"grass": {"https://en.wikipedia.org/wiki/Bird": [9654], "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [606], "https://en.wikipedia.org/wiki/Abyssinian_wheatear": [1020], "https://en.wikipedia.org/wiki/African_black_duck": [481], "https://en.wikipedia.org/wiki/African_black_swift": [562], "https://en.wikipedia.org/wiki/African_broadbill": [659], "https://en.wikipedia.org/wiki/African_collared_dove": [456], "https://en.wikipedia.org/wiki/African_crake": [288, 443, 451, 498, 1561, 1587, 1657, 1724, 1963, 1989, 2161, 2176, 2246, 2364]}}
+{"grasshopper": {"https://en.wikipedia.org/wiki/African_broadbill": [585], "https://en.wikipedia.org/wiki/African_crake": [2346]}}
+{"grassland": {"https://en.wikipedia.org/wiki/Bird": [11377], "https://en.wikipedia.org/wiki/Aberdare_cisticola": [194], "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [822], "https://en.wikipedia.org/wiki/Abyssinian_longclaw": [197, 232], "https://en.wikipedia.org/wiki/Abyssinian_owl": [304], "https://en.wikipedia.org/wiki/Abyssinian_waxbill": [406], "https://en.wikipedia.org/wiki/Acacia_pied_barbet": [551], "https://en.wikipedia.org/wiki/African_crake": [316, 529, 1323, 1685, 1698, 1755, 1795, 1797, 1851, 2465, 2655, 2687]}}
+{"grassquit*": {"https://en.wikipedia.org/wiki/Talk:List_of_birds_by_common_name": [1792]}}
+{"grassy": {"https://en.wikipedia.org/wiki/African_crake": [1700]}}
+{"grating": {"https://en.wikipedia.org/wiki/African_crake": [404, 1121]}}
+{"gray": {"https://en.wikipedia.org/wiki/Talk:List_of_birds_by_common_name": [1282], "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [659, 713], "https://en.wikipedia.org/wiki/Abyssinian_owl": [203], "https://en.wikipedia.org/wiki/Adelaide%27s_warbler": [299], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [3630, 4864], "https://en.wikipedia.org/wiki/Afep_pigeon": [192, 307, 313]}}
+{"grayish": {"https://en.wikipedia.org/wiki/Abbott%27s_babbler": [705], "https://en.wikipedia.org/wiki/African_collared_dove": [306]}}
+{"grayson": {"https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [812]}}
+{"grazers[154][155]": {"https://en.wikipedia.org/wiki/Bird": [7051]}}
+{"great": {"https://en.wikipedia.org/wiki/Talk:List_of_birds_by_common_name": [1552, 1554], "https://en.wikipedia.org/wiki/Bird": [3619, 7094, 9984, 10265, 11109, 12525, 14042, 18256, 20629, 21314], "https://en.wikipedia.org/wiki/Abbott%27s_booby": [2648, 2717], "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [588], "https://en.wikipedia.org/wiki/Abyssinian_thrush": [261], "https://en.wikipedia.org/wiki/Abyssinian_wheatear": [963], "https://en.wikipedia.org/wiki/Acacia_tit": [526], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [1409, 1749], "https://en.wikipedia.org/wiki/Afghan_snowfinch": [1617], "https://en.wikipedia.org/wiki/African_crake": [2469]}}
+{"greater": {"https://en.wikipedia.org/wiki/Bird": [3607, 5098, 6207, 10025, 15601, 20916, 21706], "https://en.wikipedia.org/wiki/Abdim%27s_stork": [757], "https://en.wikipedia.org/wiki/Abyssinian_scimitarbill": [226], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [2919], "https://en.wikipedia.org/wiki/African_barred_owlet": [262]}}
+{"greece": {"https://en.wikipedia.org/wiki/Bird": [12339, 12344, 22469, 22649], "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [271], "https://en.wikipedia.org/wiki/Acacia_pied_barbet": [358, 372], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [564, 3440, 3462], "https://en.wikipedia.org/wiki/African_crake": [802]}}
+{"green": {"https://en.wikipedia.org/wiki/Talk:List_of_birds_by_common_name": [1556], "https://en.wikipedia.org/wiki/Bird": [5478, 18105, 19737, 21643, 22187], "https://en.wikipedia.org/wiki/Abbott%27s_booby": [193, 1558], "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [302], "https://en.wikipedia.org/wiki/Abyssinian_white-eye": [215], "https://en.wikipedia.org/wiki/African_blue_tit": [501], "https://en.wikipedia.org/wiki/African_crake": [2368]}}
+{"greene": {"https://en.wikipedia.org/wiki/Bird": [19221]}}
+{"greenish": {"https://en.wikipedia.org/wiki/Acorn_woodpecker": [485], "https://en.wikipedia.org/wiki/African_barred_owlet": [328]}}
+{"greenwood": {"https://en.wikipedia.org/wiki/Bird": [17610]}}
+{"greeting": {"https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [1659]}}
+{"gregarious": {"https://en.wikipedia.org/wiki/African_black_swift": [436], "https://en.wikipedia.org/wiki/African_crake": [1012]}}
+{"gregorova": {"https://en.wikipedia.org/wiki/Bird": [14360]}}
+{"gregory": {"https://en.wikipedia.org/wiki/Bird": [13997, 14905]}}
+{"gretcheniao": {"https://en.wikipedia.org/wiki/Bird": [24455]}}
+{"grey": {"https://en.wikipedia.org/wiki/Talk:List_of_birds_by_common_name": [726, 1280, 1559, 1561, 1564], "https://en.wikipedia.org/wiki/Abbott%27s_booby": [672], "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [607, 618], "https://en.wikipedia.org/wiki/Abdim%27s_stork": [433, 439], "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [808], "https://en.wikipedia.org/wiki/Abyssinian_catbird": [230, 273, 298, 347], "https://en.wikipedia.org/wiki/Abyssinian_slaty_flycatcher": [254, 464], "https://en.wikipedia.org/wiki/Abyssinian_wheatear": [449, 543], "https://en.wikipedia.org/wiki/Abyssinian_white-eye": [218], "https://en.wikipedia.org/wiki/Acacia_tit": [194, 224, 277, 308, 503], "https://en.wikipedia.org/wiki/Adamawa_turtle_dove": [280, 285, 306], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [775], "https://en.wikipedia.org/wiki/Afghan_snowfinch": [597, 627, 1636, 1647], "https://en.wikipedia.org/wiki/African_black_swift": [313], "https://en.wikipedia.org/wiki/African_broadbill": [238], "https://en.wikipedia.org/wiki/African_crake": [340, 887, 924, 961, 1035]}}
+{"grey[16]": {"https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [804]}}
+{"greyish": {"https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [236, 260, 296], "https://en.wikipedia.org/wiki/Abyssinian_wheatear": [545, 636, 691, 773], "https://en.wikipedia.org/wiki/Abyssinian_white-eye": [248], "https://en.wikipedia.org/wiki/Acacia_tit": [296], "https://en.wikipedia.org/wiki/African_barred_owlet": [247], "https://en.wikipedia.org/wiki/African_blue_flycatcher": [262, 281]}}
+{"grind": {"https://en.wikipedia.org/wiki/Bird": [6793]}}
+{"griseu": {"https://en.wikipedia.org/wiki/Bird": [21953]}}
+{"grit": {"https://en.wikipedia.org/wiki/Bird": [17746, 17755], "https://en.wikipedia.org/wiki/African_crake": [2487]}}
+{"grivet": {"https://en.wikipedia.org/wiki/Acorn_woodpecker": [1755]}}
+{"groningen": {"https://en.wikipedia.org/wiki/Bird": [18320]}}
+{"groom": {"https://en.wikipedia.org/wiki/Bird": [6375]}}
+{"grosso": {"https://en.wikipedia.org/wiki/Talk:List_of_birds_by_common_name": [1610]}}
+{"grote": {"https://en.wikipedia.org/wiki/African_broadbill": [914]}}
+{"ground": {"https://en.wikipedia.org/wiki/Talk:List_of_birds_by_common_name": [1588, 1694], "https://en.wikipedia.org/wiki/Bird": [2066, 5589, 8972, 9597, 9704, 9798, 9814], "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [234, 916], "https://en.wikipedia.org/wiki/Abbott%27s_booby": [1326, 1651], "https://en.wikipedia.org/wiki/Abert%27s_towhee": [520, 541, 568, 715, 718, 726, 730], "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [1, 106, 163, 203, 207, 227, 245, 250, 346, 414, 564, 623, 683, 694, 762, 782, 817, 888, 908, 988, 1024, 1202, 1257, 1349, 1386, 1459, 1466, 1482, 1559, 1566, 1594, 1634, 1911, 1987, 1999, 2034], "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [1, 93, 149, 191, 225, 325, 365, 470, 530, 541, 638, 673, 767, 872], "https://en.wikipedia.org/wiki/Abyssinian_wheatear": [922], "https://en.wikipedia.org/wiki/Abyssinian_white-eye": [340], "https://en.wikipedia.org/wiki/Adamawa_turtle_dove": [386], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [607, 1034, 3005], "https://en.wikipedia.org/wiki/Afghan_snowfinch": [205, 283, 534, 1056, 1076, 1452, 1756], "https://en.wikipedia.org/wiki/African_barred_owlet": [529], "https://en.wikipedia.org/wiki/African_blue_flycatcher": [406], "https://en.wikipedia.org/wiki/African_broadbill": [574, 689], "https://en.wikipedia.org/wiki/African_crake": [235, 1178, 2186, 2392, 2407]}}
+{"ground[3]": {"https://en.wikipedia.org/wiki/Aberdare_cisticola": [270]}}
+{"ground[5]": {"https://en.wikipedia.org/wiki/African_black_duck": [498]}}
+{"ground[9]": {"https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [671]}}
+{"groundnut": {"https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [885]}}
+{"grounds": {"https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [2206, 2607], "https://en.wikipedia.org/wiki/African_crake": [423, 2009]}}
+{"group": {"https://en.wikipedia.org/wiki/Bird": [412, 502, 970, 1043, 1056, 1068, 1123, 1172, 1226, 1251, 1432, 1568, 1670, 2102, 2123, 2402, 2417, 2690, 2939, 3035, 4005, 7548, 7814, 8511, 10430, 11179, 11198, 11230, 13127, 19387, 24043], "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [360, 1099, 1253], "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [886], "https://en.wikipedia.org/wiki/Abyssinian_roller": [474], "https://en.wikipedia.org/wiki/Acorn_woodpecker": [672, 687, 908, 963, 966, 1016, 1022, 1279, 1874], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [1425, 1871], "https://en.wikipedia.org/wiki/Afghan_babbler": [240], "https://en.wikipedia.org/wiki/African_black_duck": [216], "https://en.wikipedia.org/wiki/African_crake": [568, 1638, 2459]}}
+{"group)": {"https://en.wikipedia.org/wiki/African_blue_tit": [857, 928]}}
+{"groups[76]": {"https://en.wikipedia.org/wiki/Bird": [4669]}}
+{"groups[citation": {"https://en.wikipedia.org/wiki/Bird": [1153]}}
+{"grouse": {"https://en.wikipedia.org/wiki/Talk:List_of_birds_by_common_name": [406], "https://en.wikipedia.org/wiki/Bird": [11907, 24668]}}
+{"grow": {"https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [1134], "https://en.wikipedia.org/wiki/Abyssinian_woodpecker": [429], "https://en.wikipedia.org/wiki/Acre_antshrike": [228], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [2627]}}
+{"grown": {"https://en.wikipedia.org/wiki/Bird": [10339, 12113], "https://en.wikipedia.org/wiki/African_crake": [2312]}}
+{"growth": {"https://en.wikipedia.org/wiki/Bird": [6023, 6422, 16326], "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [881, 899], "https://en.wikipedia.org/wiki/Abbott%27s_booby": [1823]}}
+{"growth[4]": {"https://en.wikipedia.org/wiki/African_barred_owlet": [409]}}
+{"gru": {"https://en.wikipedia.org/wiki/Bird": [20838, 20839]}}
+{"grub": {"https://en.wikipedia.org/wiki/Abert%27s_towhee": [555]}}
+{"gruiforme": {"https://en.wikipedia.org/wiki/Bird": [3166, 23875], "https://en.wikipedia.org/wiki/African_crake": [195, 3560, 3884]}}
+{"grégoire": {"https://en.wikipedia.org/wiki/Bird": [20966]}}
+{"grémillet": {"https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [4186]}}
+{"grönvold": {"https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [156]}}
+{"guadalupe": {"https://en.wikipedia.org/wiki/Talk:List_of_birds_by_common_name": [1567]}}
+{"guam": {"https://en.wikipedia.org/wiki/Abbott%27s_booby": [923]}}
+{"guan": {"https://en.wikipedia.org/wiki/Bird": [5869]}}
+{"guanay": {"https://en.wikipedia.org/wiki/Abbott%27s_booby": [2771]}}
+{"guano": {"https://en.wikipedia.org/wiki/Bird": [831, 11587, 11989, 11999, 21588, 21618, 22000, 24678], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [3175]}}
+{"guard": {"https://en.wikipedia.org/wiki/Bird": [9265, 10291, 10320, 20056, 20201], "https://en.wikipedia.org/wiki/African_broadbill": [732]}}
+{"guardian": {"https://en.wikipedia.org/wiki/Abyssinian_catbird": [825], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [4032, 4106]}}
+{"guatemala": {"https://en.wikipedia.org/wiki/Acorn_woodpecker": [383]}}
+{"guestbook": {"https://en.wikipedia.org/wiki/Talk:List_of_birds_by_common_name": [554]}}
+{"guide": {"https://en.wikipedia.org/wiki/Talk:List_of_birds_by_common_name": [808, 1033], "https://en.wikipedia.org/wiki/Bird": [15660, 17888, 21702, 22829, 23346, 23363, 23378, 23407, 23411, 23611, 23618], "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [1419], "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [535], "https://en.wikipedia.org/wiki/Abert%27s_towhee": [598], "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [1922], "https://en.wikipedia.org/wiki/Abyssinian_wheatear": [1233, 1331], "https://en.wikipedia.org/wiki/Abyssinian_woodpecker": [583], "https://en.wikipedia.org/wiki/Acacia_pied_barbet": [923], "https://en.wikipedia.org/wiki/Acorn_woodpecker": [2122], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [4715, 4831, 4939], "https://en.wikipedia.org/wiki/Afep_pigeon": [728], "https://en.wikipedia.org/wiki/Afghan_snowfinch": [1543, 1567], "https://en.wikipedia.org/wiki/African_barred_owlet": [707], "https://en.wikipedia.org/wiki/African_black_swift": [626], "https://en.wikipedia.org/wiki/African_crake": [3041]}}
+{"guide)": {"https://en.wikipedia.org/wiki/Abbott%27s_starling": [349]}}
+{"guilherme": {"https://en.wikipedia.org/wiki/Acre_tody-tyrant": [337]}}
+{"guillemot": {"https://en.wikipedia.org/wiki/Bird": [9770, 20336]}}
+{"guillermo": {"https://en.wikipedia.org/wiki/African_blue_tit": [916]}}
+{"guinea": {"https://en.wikipedia.org/wiki/Talk:List_of_birds_by_common_name": [368], "https://en.wikipedia.org/wiki/Bird": [5793], "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [708], "https://en.wikipedia.org/wiki/Afep_pigeon": [377, 393], "https://en.wikipedia.org/wiki/African_broadbill": [815, 834], "https://en.wikipedia.org/wiki/African_crake": [3160, 3217]}}
+{"guinea)": {"https://en.wikipedia.org/wiki/African_crake": [1459]}}
+{"guineafowl": {"https://en.wikipedia.org/wiki/Bird": [15643, 20612]}}
+{"guioli": {"https://en.wikipedia.org/wiki/Bird": [16237]}}
+{"guldemond": {"https://en.wikipedia.org/wiki/Bird": [15682]}}
+{"gulf": {"https://en.wikipedia.org/wiki/African_crake": [3215]}}
+{"gull": {"https://en.wikipedia.org/wiki/Bird": [2494, 7056, 7133, 21774], "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [3078]}}
+{"gulosu": {"https://en.wikipedia.org/wiki/Abbott%27s_booby": [2759, 2847]}}
+{"gurilynia": {"https://en.wikipedia.org/wiki/Bird": [24424]}}
+{"gustavo": {"https://en.wikipedia.org/wiki/Bird": [15320]}}
+{"guthrie": {"https://en.wikipedia.org/wiki/Bird": [17252]}}
+{"gutiérrez": {"https://en.wikipedia.org/wiki/Bird": [19843]}}
+{"guttata[250]": {"https://en.wikipedia.org/wiki/Bird": [10971]}}
+{"guttera": {"https://en.wikipedia.org/wiki/Bird": [23814], "https://en.wikipedia.org/wiki/African_crake": [3823]}}
+{"guy": {"https://en.wikipedia.org/wiki/Bird": [19629], "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [249, 368]}}
+{"guzmán": {"https://en.wikipedia.org/wiki/Bird": [19839]}}
+{"guánica": {"https://en.wikipedia.org/wiki/Adelaide%27s_warbler": [371]}}
+{"gvt": {"https://en.wikipedia.org/wiki/Bird": [18938]}}
+{"gwiyannenkurdîкыргызчакырык": {"https://en.wikipedia.org/wiki/Bird": [229]}}
+{"gymnori": {"https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [644], "https://en.wikipedia.org/wiki/Afghan_snowfinch": [1673]}}
+{"gérard": {"https://en.wikipedia.org/wiki/African_crake": [3036]}}
+{"göth": {"https://en.wikipedia.org/wiki/Bird": [16457, 16481]}}
+{"gúбашҡортсабеларускаябеларуская": {"https://en.wikipedia.org/wiki/Bird": [218]}}
+{"†gallornis": {"https://en.wikipedia.org/wiki/Bird": [24546]}}
+{"†gansus": {"https://en.wikipedia.org/wiki/Bird": [2306, 24498]}}
+{"†gargantuavis": {"https://en.wikipedia.org/wiki/Bird": [24499]}}
+{"†giganhinga": {"https://en.wikipedia.org/wiki/Abbott%27s_booby": [2838]}}
+{"†guildavis": {"https://en.wikipedia.org/wiki/Bird": [24547]}}

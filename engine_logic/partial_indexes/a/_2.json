@@ -1,0 +1,3244 @@
+{
+  "(a": {
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      694,
+      698
+    ]
+  },
+  "(above)": {
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      147
+    ]
+  },
+  "(also": {
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      210
+    ]
+  },
+  "(and": {
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      278
+    ]
+  },
+  "(arizelopsar": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      175
+    ]
+  },
+  "(around": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      823
+    ]
+  },
+  "(aves": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      1221,
+      1287
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      2249,
+      2284,
+      2308
+    ]
+  },
+  "[accessed": {
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      927
+    ]
+  },
+  "a": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      191,
+      342,
+      351,
+      362,
+      374,
+      387,
+      533,
+      545,
+      555,
+      566,
+      577,
+      588,
+      599,
+      609,
+      630,
+      686,
+      704,
+      733,
+      740,
+      760,
+      768,
+      929,
+      941,
+      1005,
+      1018,
+      1028,
+      1037,
+      1059,
+      1071,
+      1103,
+      1115,
+      1124,
+      1132,
+      1187,
+      1189,
+      1211,
+      1248,
+      1307,
+      1331,
+      1377,
+      1405,
+      1541,
+      1594,
+      1781,
+      1789
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      218,
+      234,
+      254,
+      273,
+      389,
+      403,
+      547,
+      561,
+      675,
+      684,
+      692,
+      721,
+      769,
+      913,
+      1029,
+      1071,
+      1083,
+      1132,
+      1143,
+      1225,
+      1293,
+      1369,
+      1531,
+      1561,
+      1569,
+      1673,
+      1694,
+      1727,
+      1813,
+      1827,
+      1920,
+      2026,
+      2049,
+      2052,
+      2159,
+      2208,
+      2251,
+      2278,
+      2302,
+      2335,
+      2366,
+      2402,
+      2457,
+      2488,
+      3071,
+      3079
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      162,
+      178,
+      286,
+      295,
+      301,
+      451,
+      554,
+      562
+    ],
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      198,
+      235,
+      246,
+      287,
+      305,
+      310,
+      327,
+      337,
+      381,
+      419,
+      546,
+      792,
+      800
+    ],
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      200,
+      279,
+      429,
+      476,
+      547,
+      574,
+      899,
+      907
+    ],
+    "https://en.wikipedia.org/wiki/Aberdare_cisticola": [
+      172,
+      220,
+      226,
+      235,
+      243,
+      294,
+      298,
+      328,
+      352,
+      407,
+      495,
+      503
+    ],
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      184,
+      265,
+      490,
+      501,
+      533,
+      618,
+      639,
+      878,
+      998,
+      1006
+    ],
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      180,
+      188,
+      322,
+      483,
+      543,
+      592,
+      597,
+      623,
+      891,
+      899
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      189,
+      226,
+      245,
+      269,
+      278,
+      294,
+      309,
+      357,
+      364,
+      425,
+      523,
+      552,
+      634,
+      642,
+      669,
+      763,
+      782,
+      807,
+      909,
+      989,
+      1084,
+      1092
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      148,
+      202,
+      233,
+      365,
+      385,
+      403,
+      550,
+      569,
+      632,
+      727,
+      753,
+      777,
+      944,
+      952
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      278,
+      315,
+      360,
+      403,
+      417,
+      438,
+      478,
+      494,
+      521,
+      615,
+      646,
+      666,
+      860,
+      958,
+      997,
+      1044,
+      1075,
+      1205,
+      1226,
+      1295,
+      1389,
+      1406,
+      1447,
+      1486,
+      1581,
+      1586,
+      1598,
+      1609,
+      1613,
+      1626,
+      1653,
+      1679,
+      1838,
+      1867,
+      1888,
+      1900,
+      1955,
+      2175,
+      2183
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      196,
+      237,
+      247,
+      328,
+      335,
+      653,
+      678,
+      771,
+      794,
+      822,
+      845,
+      869,
+      1022,
+      1030
+    ]
+  },
+  "a&c": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      353
+    ]
+  },
+  "aakspa1": {
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      697,
+      699
+    ]
+  },
+  "ab": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      1238
+    ]
+  },
+  "aba": {
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      742
+    ]
+  },
+  "abandon": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      1955
+    ]
+  },
+  "abandoned": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      1668,
+      1809
+    ]
+  },
+  "abbbab1": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      1668,
+      1670
+    ]
+  },
+  "abbboo2": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      2910,
+      2912
+    ]
+  },
+  "abbott": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      0,
+      88,
+      144,
+      186,
+      245,
+      306,
+      627,
+      785,
+      906,
+      1501,
+      1547,
+      1602
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      0,
+      96,
+      152,
+      199,
+      240,
+      249,
+      422,
+      504,
+      566,
+      713,
+      946,
+      1098,
+      1526,
+      1584,
+      1739,
+      1783,
+      2111,
+      2145,
+      2221,
+      2346,
+      2427,
+      2461,
+      2672,
+      2905
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      0,
+      80,
+      135,
+      173,
+      249,
+      268,
+      283,
+      331,
+      379
+    ]
+  },
+  "abbotti": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      175,
+      183,
+      185,
+      292,
+      368,
+      534,
+      1138,
+      1315,
+      1504,
+      1550,
+      1643,
+      1658,
+      1686
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      184,
+      196,
+      2182,
+      2219,
+      2321,
+      2430,
+      2616,
+      2624,
+      2888,
+      2893,
+      2898,
+      2944,
+      2946
+    ]
+  },
+  "abbotti(ridgway": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      188
+    ]
+  },
+  "abbotti)": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      189,
+      1605
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      202,
+      2349
+    ]
+  },
+  "abbotti[2]": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      263
+    ]
+  },
+  "abbottiblyth": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      179
+    ]
+  },
+  "abbsta2": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      431,
+      433
+    ]
+  },
+  "abbwar1": {
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      721,
+      723
+    ]
+  },
+  "abcwin1": {
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      848,
+      850
+    ]
+  },
+  "abd": {
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      0,
+      85,
+      142,
+      191,
+      207,
+      396,
+      477,
+      491,
+      592
+    ]
+  },
+  "abdim": {
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      0,
+      86,
+      144,
+      188,
+      247,
+      252,
+      371,
+      487,
+      576,
+      596,
+      631,
+      653,
+      701
+    ]
+  },
+  "abdimii": {
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      175,
+      427,
+      536,
+      538,
+      557,
+      621,
+      629,
+      634,
+      777,
+      782,
+      814
+    ]
+  },
+  "abdimii)": {
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      191,
+      704
+    ]
+  },
+  "abdimiilichtenstein": {
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      179
+    ]
+  },
+  "abdim\u2019s": {
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      645
+    ]
+  },
+  "abdsto1": {
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      794,
+      796
+    ]
+  },
+  "abecis1": {
+    "https://en.wikipedia.org/wiki/Aberdare_cisticola": [
+      383,
+      385
+    ]
+  },
+  "aberdare": {
+    "https://en.wikipedia.org/wiki/Aberdare_cisticola": [
+      0,
+      81,
+      135,
+      160,
+      167,
+      203,
+      273,
+      311,
+      335,
+      355,
+      370,
+      375,
+      401
+    ]
+  },
+  "aberdare)": {
+    "https://en.wikipedia.org/wiki/Aberdare_cisticola": [
+      170,
+      358
+    ]
+  },
+  "aberdarelyne": {
+    "https://en.wikipedia.org/wiki/Aberdare_cisticola": [
+      164
+    ]
+  },
+  "aberrant": {
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      0,
+      80,
+      136,
+      178,
+      249,
+      305,
+      549,
+      553,
+      685,
+      813
+    ]
+  },
+  "abert": {
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      0,
+      83,
+      138,
+      175,
+      235,
+      238,
+      293,
+      514,
+      647,
+      670,
+      680,
+      682,
+      690,
+      712,
+      761,
+      764
+    ]
+  },
+  "aberti": {
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      164,
+      172,
+      174,
+      575,
+      678,
+      701,
+      741,
+      767,
+      783
+    ]
+  },
+  "aberti(baird": {
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      168
+    ]
+  },
+  "aberti)": {
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      178
+    ]
+  },
+  "abetow": {
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      743,
+      753,
+      755,
+      779
+    ]
+  },
+  "abgthr1": {
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      923,
+      925
+    ]
+  },
+  "able": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      1177
+    ]
+  },
+  "about": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      638,
+      1795
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      596,
+      1451,
+      1806,
+      3085
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      568
+    ],
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      806
+    ],
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      913
+    ],
+    "https://en.wikipedia.org/wiki/Aberdare_cisticola": [
+      509
+    ],
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      1012
+    ],
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      652,
+      905
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      368,
+      1098
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      958
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      2189
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      1036
+    ]
+  },
+  "above": {
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      483
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      327,
+      336,
+      511
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      498,
+      671
+    ]
+  },
+  "abroscopu": {
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      747,
+      749,
+      786
+    ]
+  },
+  "absent": {
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      271
+    ]
+  },
+  "abundant": {
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      709
+    ]
+  },
+  "abycat1": {
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      967,
+      969
+    ]
+  },
+  "abyssinian": {
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      0,
+      91,
+      144,
+      181,
+      223,
+      242,
+      376,
+      422,
+      520,
+      564,
+      593,
+      612,
+      647,
+      685,
+      746,
+      849,
+      865,
+      887,
+      889,
+      898
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      0,
+      90,
+      146,
+      184,
+      230,
+      362,
+      492,
+      639
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      0,
+      105,
+      162,
+      202,
+      249,
+      345,
+      413,
+      563,
+      613,
+      682,
+      693,
+      781,
+      816,
+      907,
+      1201,
+      1256,
+      1348,
+      1385,
+      1458,
+      1465,
+      1481,
+      1558,
+      1565,
+      1633,
+      1910,
+      1998
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      0,
+      92,
+      148,
+      190,
+      224,
+      324,
+      364,
+      469,
+      529,
+      637,
+      766,
+      871
+    ]
+  },
+  "abyssinicu": {
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      195,
+      331,
+      412,
+      1660,
+      1670,
+      1677,
+      1685,
+      1966,
+      2055,
+      2089
+    ]
+  },
+  "abyssinicus(boddaert": {
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      199
+    ]
+  },
+  "abyssinicus)": {
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      210,
+      1990
+    ]
+  },
+  "accompany": {
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      304
+    ]
+  },
+  "account": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      50
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      50
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      50
+    ],
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      52
+    ],
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      50
+    ],
+    "https://en.wikipedia.org/wiki/Aberdare_cisticola": [
+      50
+    ],
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      51
+    ],
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      50
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      50
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      50
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      51
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      51
+    ]
+  },
+  "accountlog": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      45
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      45
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      45
+    ],
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      47
+    ],
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      45
+    ],
+    "https://en.wikipedia.org/wiki/Aberdare_cisticola": [
+      45
+    ],
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      46
+    ],
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      45
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      45
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      45
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      46
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      46
+    ]
+  },
+  "across": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      38,
+      856,
+      862
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      38
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      38
+    ],
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      40
+    ],
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      38
+    ],
+    "https://en.wikipedia.org/wiki/Aberdare_cisticola": [
+      38
+    ],
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      39
+    ],
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      38
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      38
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      38
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      39,
+      911,
+      1304
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      39
+    ]
+  },
+  "act": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      1825,
+      2142
+    ]
+  },
+  "acta": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      1554
+    ]
+  },
+  "action": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      109
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      117
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      100
+    ],
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      107
+    ],
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      109
+    ],
+    "https://en.wikipedia.org/wiki/Aberdare_cisticola": [
+      100
+    ],
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      101
+    ],
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      103
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      110
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      111
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      127
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      113
+    ]
+  },
+  "action[1]": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      2046
+    ]
+  },
+  "actually": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      433
+    ]
+  },
+  "acutangula": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      859
+    ]
+  },
+  "adapt": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      896
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      286,
+      577
+    ]
+  },
+  "add": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      3014
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      496
+    ],
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      944
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      975
+    ]
+  },
+  "addisu": {
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      2022
+    ]
+  },
+  "addition": {
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      730
+    ]
+  },
+  "additional": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      1761
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      1487,
+      1989,
+      3051
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      534
+    ],
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      772
+    ],
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      879
+    ],
+    "https://en.wikipedia.org/wiki/Aberdare_cisticola": [
+      475
+    ],
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      978
+    ],
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      871
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      1064
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      924
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      2155
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      1002
+    ]
+  },
+  "adelardo": {
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      696
+    ]
+  },
+  "adjutant": {
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      754,
+      758
+    ]
+  },
+  "administer": {
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      406
+    ]
+  },
+  "adrian": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      361
+    ]
+  },
+  "adult": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      626
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      704,
+      1185,
+      1211,
+      1637
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      435,
+      549,
+      1245
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      235
+    ]
+  },
+  "adulthood": {
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      1239
+    ]
+  },
+  "adults[4]": {
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      303
+    ]
+  },
+  "adverse": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      364
+    ]
+  },
+  "adw": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      1659
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      420
+    ],
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      778
+    ],
+    "https://en.wikipedia.org/wiki/Aberdare_cisticola": [
+      371
+    ],
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      744
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      958
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      839
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      2056
+    ]
+  },
+  "aeromona": {
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      1445
+    ]
+  },
+  "afd": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      2894
+    ]
+  },
+  "affect": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      365,
+      1655
+    ]
+  },
+  "afghanistan": {
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      681
+    ]
+  },
+  "africa": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      2690
+    ],
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      227
+    ],
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      228,
+      263,
+      269,
+      318,
+      651,
+      696,
+      711
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      601
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      211
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      213,
+      236,
+      702,
+      916,
+      1899,
+      1928
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      208,
+      831
+    ]
+  },
+  "africabird": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      473
+    ],
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      830
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      881,
+      885
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      2103,
+      2107
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      958
+    ]
+  },
+  "africanu": {
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      1402
+    ]
+  },
+  "afrotropic": {
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      429
+    ]
+  },
+  "after": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      421
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      1470
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      1191
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      698
+    ]
+  },
+  "against": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      1557
+    ]
+  },
+  "age": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      1511
+    ]
+  },
+  "agitated[11]": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      1129
+    ]
+  },
+  "ago[5]": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      546
+    ]
+  },
+  "agree": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      1770
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      3060
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      543
+    ],
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      781
+    ],
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      888
+    ],
+    "https://en.wikipedia.org/wiki/Aberdare_cisticola": [
+      484
+    ],
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      987
+    ],
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      880
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      1073
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      933
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      2164
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      1011
+    ]
+  },
+  "agreement[12]": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      1869
+    ]
+  },
+  "aim": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      1787
+    ]
+  },
+  "air": {
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      844
+    ]
+  },
+  "al": {
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      1,
+      86,
+      143,
+      192,
+      208,
+      397,
+      593
+    ]
+  },
+  "alan": {
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      759
+    ]
+  },
+  "alarm": {
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      559
+    ]
+  },
+  "alarmed[9]": {
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      846
+    ]
+  },
+  "albertine": {
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      472
+    ]
+  },
+  "ale": {
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      426
+    ]
+  },
+  "ali": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      1380
+    ]
+  },
+  "alike": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      683
+    ]
+  },
+  "alive": {
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      883
+    ]
+  },
+  "all": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      468
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      396,
+      530,
+      572,
+      632,
+      956,
+      1737,
+      2055
+    ],
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      651
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      669
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      1011
+    ]
+  },
+  "ally": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      1220
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      2822
+    ]
+  },
+  "along": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      203,
+      376,
+      390,
+      415
+    ],
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      499
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      337,
+      541
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      546
+    ]
+  },
+  "also": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      816
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      1640,
+      2130
+    ],
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      192,
+      504
+    ],
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      239
+    ],
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      209,
+      528
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      548
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      188,
+      537,
+      625,
+      630
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      275,
+      878,
+      962,
+      1307,
+      1405,
+      1469
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      511,
+      578,
+      615
+    ]
+  },
+  "altera": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      498,
+      578
+    ]
+  },
+  "alternative": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      2254
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      686
+    ]
+  },
+  "although": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      269,
+      302,
+      426,
+      725,
+      856,
+      898,
+      1219,
+      1248,
+      1939,
+      1956
+    ],
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      500
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      1492
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      505
+    ]
+  },
+  "altitude": {
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      214
+    ]
+  },
+  "amabile": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      487
+    ]
+  },
+  "america": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      418
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      253
+    ],
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      194,
+      231,
+      606
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      1463
+    ]
+  },
+  "americabird": {
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      800
+    ]
+  },
+  "americana)": {
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      690
+    ]
+  },
+  "among": {
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      380,
+      521
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      527
+    ]
+  },
+  "amphibian": {
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      508
+    ]
+  },
+  "an": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      400
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      204,
+      474,
+      507,
+      631,
+      641,
+      761,
+      936,
+      968,
+      1159,
+      1255,
+      1486,
+      1683,
+      1873,
+      2426
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      252
+    ],
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      152
+    ],
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      345,
+      361
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      479,
+      621
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      214
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      212,
+      448,
+      525,
+      1231,
+      1283,
+      1425,
+      1440
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      228
+    ]
+  },
+  "analysis": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      493
+    ]
+  },
+  "anastomu": {
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      691
+    ]
+  },
+  "ancient": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      270
+    ]
+  },
+  "and": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      70,
+      73,
+      209,
+      221,
+      235,
+      257,
+      286,
+      340,
+      369,
+      382,
+      395,
+      418,
+      430,
+      442,
+      447,
+      466,
+      482,
+      501,
+      506,
+      516,
+      523,
+      573,
+      584,
+      596,
+      605,
+      646,
+      653,
+      669,
+      689,
+      702,
+      708,
+      710,
+      715,
+      724,
+      744,
+      767,
+      776,
+      794,
+      808,
+      820,
+      825,
+      827,
+      835,
+      882,
+      895,
+      900,
+      904,
+      954,
+      971,
+      985,
+      991,
+      1030,
+      1063,
+      1094,
+      1111,
+      1123,
+      1159,
+      1164,
+      1218,
+      1281,
+      1391,
+      1424,
+      1444,
+      1465,
+      1485,
+      1572,
+      1598,
+      1650,
+      1776
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      70,
+      79,
+      214,
+      221,
+      284,
+      314,
+      355,
+      486,
+      533,
+      535,
+      556,
+      575,
+      594,
+      613,
+      623,
+      653,
+      655,
+      663,
+      691,
+      711,
+      734,
+      747,
+      779,
+      787,
+      812,
+      818,
+      852,
+      905,
+      927,
+      953,
+      995,
+      1075,
+      1095,
+      1182,
+      1240,
+      1302,
+      1343,
+      1400,
+      1406,
+      1431,
+      1485,
+      1512,
+      1520,
+      1631,
+      1671,
+      1725,
+      1748,
+      1766,
+      1791,
+      1895,
+      1952,
+      1972,
+      1985,
+      2016,
+      2057,
+      2071,
+      2119,
+      2139,
+      2231,
+      2244,
+      2260,
+      2288,
+      2313,
+      2379,
+      2472,
+      2528,
+      2553,
+      2653,
+      2819,
+      3066
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      191,
+      209,
+      255,
+      273,
+      289,
+      294,
+      307,
+      549
+    ],
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      148,
+      258,
+      290,
+      309,
+      377,
+      490,
+      787
+    ],
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      68,
+      218,
+      229,
+      250,
+      277,
+      316,
+      346,
+      365,
+      412,
+      414,
+      423,
+      437,
+      441,
+      454,
+      475,
+      496,
+      511,
+      520,
+      665,
+      894
+    ],
+    "https://en.wikipedia.org/wiki/Aberdare_cisticola": [
+      212,
+      222,
+      234,
+      249,
+      258,
+      267,
+      281,
+      289,
+      303,
+      490
+    ],
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      207,
+      210,
+      216,
+      236,
+      238,
+      244,
+      278,
+      357,
+      410,
+      441,
+      565,
+      741,
+      993
+    ],
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      200,
+      220,
+      249,
+      258,
+      283,
+      406,
+      433,
+      447,
+      462,
+      492,
+      548,
+      553,
+      595,
+      602,
+      607,
+      886
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      69,
+      220,
+      237,
+      257,
+      321,
+      397,
+      419,
+      431,
+      491,
+      494,
+      504,
+      610,
+      630,
+      673,
+      698,
+      799,
+      862,
+      1079
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      73,
+      76,
+      245,
+      256,
+      289,
+      309,
+      312,
+      328,
+      351,
+      395,
+      427,
+      438,
+      457,
+      460,
+      485,
+      489,
+      542,
+      552,
+      619,
+      646,
+      659,
+      667,
+      684,
+      939
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      75,
+      85,
+      90,
+      220,
+      425,
+      447,
+      457,
+      474,
+      545,
+      601,
+      610,
+      633,
+      658,
+      674,
+      680,
+      707,
+      719,
+      733,
+      804,
+      835,
+      866,
+      875,
+      884,
+      925,
+      931,
+      948,
+      975,
+      1001,
+      1042,
+      1090,
+      1105,
+      1130,
+      1183,
+      1210,
+      1230,
+      1265,
+      1299,
+      1316,
+      1336,
+      1346,
+      1371,
+      1400,
+      1413,
+      1422,
+      1509,
+      1516,
+      1544,
+      1554,
+      1562,
+      1573,
+      1578,
+      1596,
+      2003,
+      2170
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      74,
+      244,
+      261,
+      263,
+      275,
+      299,
+      312,
+      355,
+      367,
+      386,
+      401,
+      410,
+      412,
+      439,
+      448,
+      451,
+      487,
+      493,
+      534,
+      572,
+      576,
+      603,
+      619,
+      625,
+      634,
+      665,
+      682,
+      697,
+      735,
+      760,
+      1017
+    ]
+  },
+  "andersen": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      1266
+    ]
+  },
+  "anderson": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      2240
+    ]
+  },
+  "anderton": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      1410
+    ]
+  },
+  "andhra": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      833
+    ]
+  },
+  "andrew": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      1233,
+      1588
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      370
+    ]
+  },
+  "anhinga": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      2687,
+      2818,
+      2837
+    ]
+  },
+  "anhinga)genusspeciesanhinga": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      2686
+    ]
+  },
+  "anhingidae": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      2683,
+      2836
+    ]
+  },
+  "animal": {
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      598
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      1275,
+      1280,
+      1301,
+      1969,
+      1972
+    ]
+  },
+  "animalia": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      162
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      168,
+      2824
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      149
+    ],
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      167
+    ],
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      162
+    ],
+    "https://en.wikipedia.org/wiki/Aberdare_cisticola": [
+      147
+    ],
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      153
+    ],
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      151
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      157
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      164
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      182
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      165
+    ]
+  },
+  "annam)": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      502
+    ]
+  },
+  "another": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      369
+    ]
+  },
+  "ant": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      380,
+      1872,
+      1879,
+      1889,
+      1947
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      617,
+      624
+    ]
+  },
+  "antarctic": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      2529,
+      2582,
+      2804
+    ]
+  },
+  "antedate": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      481
+    ]
+  },
+  "antiphonal": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      1025
+    ]
+  },
+  "any": {
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      321
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      702
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      507,
+      1326
+    ]
+  },
+  "ao": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      1565
+    ]
+  },
+  "apart": {
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      262
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      462
+    ]
+  },
+  "apparent": {
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      716
+    ]
+  },
+  "appeal[1]": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      1714
+    ]
+  },
+  "appear": {
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      581
+    ]
+  },
+  "appearance": {
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      267
+    ]
+  },
+  "appendix": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      160,
+      2117,
+      2199
+    ]
+  },
+  "apply": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      1764
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      3054
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      537
+    ],
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      775
+    ],
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      882
+    ],
+    "https://en.wikipedia.org/wiki/Aberdare_cisticola": [
+      478
+    ],
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      981
+    ],
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      874
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      1067
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      927
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      2158
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      1005
+    ]
+  },
+  "approach": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      880
+    ]
+  },
+  "approximate": {
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      603
+    ]
+  },
+  "april": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      920
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      759,
+      873,
+      1218,
+      1399,
+      1405
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      517
+    ],
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      931
+    ],
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      660
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      645
+    ]
+  },
+  "aquaria": {
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      424
+    ]
+  },
+  "aquarium": {
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      413
+    ]
+  },
+  "arabia": {
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      631
+    ]
+  },
+  "arakan": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      318
+    ]
+  },
+  "archipelago": {
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      218
+    ]
+  },
+  "archive": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      2353,
+      2474,
+      2496
+    ],
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      453
+    ],
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      356,
+      583,
+      601,
+      635,
+      655
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      750
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      740,
+      795
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      2007
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      809,
+      886
+    ]
+  },
+  "are": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      31,
+      218,
+      372,
+      469,
+      529,
+      672,
+      677,
+      682,
+      728,
+      949,
+      965,
+      1090
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      31,
+      661,
+      846,
+      861,
+      884,
+      900,
+      1113,
+      1128,
+      1245,
+      1250,
+      1269,
+      1312,
+      1374,
+      1402,
+      1409,
+      1419,
+      1448,
+      1473,
+      1663,
+      1835,
+      2040,
+      2147,
+      2155
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      31
+    ],
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      33
+    ],
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      31
+    ],
+    "https://en.wikipedia.org/wiki/Aberdare_cisticola": [
+      31
+    ],
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      32,
+      325
+    ],
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      31,
+      240,
+      254,
+      261,
+      280
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      31,
+      268,
+      325,
+      410,
+      446,
+      496,
+      508,
+      547,
+      558,
+      649
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      31,
+      259,
+      281,
+      295,
+      314,
+      334,
+      398,
+      430,
+      624,
+      636,
+      674
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      32,
+      430,
+      516,
+      751,
+      836,
+      899,
+      992,
+      1259,
+      1351,
+      1484,
+      1494,
+      1546
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      32,
+      236,
+      266,
+      358,
+      369,
+      688,
+      692
+    ]
+  },
+  "area": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      1062
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      398,
+      814,
+      1772,
+      1811,
+      1816
+    ],
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      461
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      480,
+      571,
+      713
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      735,
+      746,
+      754,
+      768,
+      1503
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      575
+    ]
+  },
+  "arizelopsar": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      166,
+      240
+    ]
+  },
+  "arizelopsaroberholser": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      159
+    ]
+  },
+  "arizona": {
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      207,
+      459,
+      472
+    ]
+  },
+  "ark": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      2896
+    ],
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      780
+    ],
+    "https://en.wikipedia.org/wiki/Aberdare_cisticola": [
+      373
+    ]
+  },
+  "arnaut": {
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      246
+    ]
+  },
+  "around": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      910,
+      1076
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      293,
+      297,
+      542,
+      1475,
+      1507
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      379,
+      453
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      444,
+      586,
+      596,
+      1052,
+      1125,
+      1521
+    ]
+  },
+  "arthropod": {
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      1312
+    ]
+  },
+  "article": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      449
+    ],
+    "https://en.wikipedia.org/wiki/Aberdare_cisticola": [
+      405
+    ],
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      876
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      987
+    ]
+  },
+  "articleabout": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      18
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      18
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      18
+    ],
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      20
+    ],
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      18
+    ],
+    "https://en.wikipedia.org/wiki/Aberdare_cisticola": [
+      18
+    ],
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      19
+    ],
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      18
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      18
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      18
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      19
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      19
+    ]
+  },
+  "articles": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      1718,
+      1733
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      2992
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      484,
+      504,
+      509
+    ],
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      733
+    ],
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      839
+    ],
+    "https://en.wikipedia.org/wiki/Aberdare_cisticola": [
+      435,
+      445,
+      450
+    ],
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      953
+    ],
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      832
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      1019,
+      1034,
+      1039
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      890
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      963
+    ]
+  },
+  "articletalk": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      99
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      107
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      90
+    ],
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      97
+    ],
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      99
+    ],
+    "https://en.wikipedia.org/wiki/Aberdare_cisticola": [
+      90
+    ],
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      91
+    ],
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      93
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      100
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      101
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      117
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      103
+    ]
+  },
+  "arunachal": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      792
+    ]
+  },
+  "as": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      128,
+      313,
+      464,
+      486,
+      890
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      136,
+      429,
+      908,
+      910,
+      1826,
+      1864,
+      2002,
+      2008,
+      2097,
+      2122,
+      2132
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      119
+    ],
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      126,
+      234,
+      286
+    ],
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      128,
+      194,
+      375
+    ],
+    "https://en.wikipedia.org/wiki/Aberdare_cisticola": [
+      119
+    ],
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      120,
+      489
+    ],
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      122,
+      482,
+      504,
+      506
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      129,
+      461
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      130,
+      190,
+      613,
+      701
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      146,
+      359,
+      528,
+      728,
+      777,
+      935,
+      937,
+      980,
+      1059,
+      1061,
+      1161,
+      1163,
+      1358,
+      1597,
+      1612,
+      1624,
+      1646
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      132,
+      349,
+      631,
+      742
+    ]
+  },
+  "ascension": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      2643
+    ]
+  },
+  "asefa": {
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      2021
+    ]
+  },
+  "asia": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      208,
+      216,
+      784,
+      1243,
+      1255,
+      1416
+    ],
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      692,
+      705
+    ],
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      861
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      394
+    ]
+  },
+  "asia[8]": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      858
+    ]
+  },
+  "asiabird": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      1709
+    ],
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      914
+    ]
+  },
+  "asiatic": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      1173
+    ],
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      580
+    ]
+  },
+  "asiaticus)": {
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      742
+    ]
+  },
+  "assam": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      483,
+      796,
+      804
+    ],
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      344,
+      354
+    ]
+  },
+  "assemblage": {
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      201
+    ]
+  },
+  "assess": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      962
+    ]
+  },
+  "assistant": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      314
+    ]
+  },
+  "associate": {
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      2030
+    ]
+  },
+  "association": {
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      409,
+      420
+    ]
+  },
+  "assumption": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      245,
+      413,
+      2323
+    ]
+  },
+  "asturianu\u0431\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438catal\u00e0cebuanocymraegdin\u00e9": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      84
+    ],
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      87
+    ]
+  },
+  "at": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      32,
+      976,
+      1746
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      32,
+      768,
+      797,
+      1026,
+      1101,
+      1201,
+      1213,
+      1329,
+      1933,
+      3036
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      32,
+      214,
+      218,
+      519
+    ],
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      34,
+      757
+    ],
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      32,
+      146,
+      360,
+      470,
+      528,
+      539,
+      639,
+      659,
+      864
+    ],
+    "https://en.wikipedia.org/wiki/Aberdare_cisticola": [
+      32,
+      460
+    ],
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      33,
+      963
+    ],
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      32,
+      306,
+      326,
+      539,
+      686,
+      702,
+      856
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      32,
+      450,
+      1049
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      32,
+      516,
+      564,
+      657,
+      909
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      33,
+      167,
+      481,
+      625,
+      662,
+      685,
+      1014,
+      1136,
+      1628,
+      2140
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      33,
+      212,
+      901,
+      987
+    ]
+  },
+  "atlas": {
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      648
+    ]
+  },
+  "attack": {
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      1317
+    ]
+  },
+  "attempt": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      1200,
+      1204,
+      1366,
+      1804
+    ]
+  },
+  "attract": {
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      559
+    ]
+  },
+  "attractive": {
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      229
+    ]
+  },
+  "attribute": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      1069
+    ]
+  },
+  "attribution": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      1757
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      3047
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      530
+    ],
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      768
+    ],
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      875
+    ],
+    "https://en.wikipedia.org/wiki/Aberdare_cisticola": [
+      471
+    ],
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      974
+    ],
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      867
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      1060
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      920
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      2151
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      998
+    ]
+  },
+  "auckland": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      2786
+    ]
+  },
+  "audubon": {
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      679
+    ]
+  },
+  "august": {
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      463
+    ],
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      312
+    ],
+    "https://en.wikipedia.org/wiki/Aberdare_cisticola": [
+      290
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      659
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      647
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      923
+    ]
+  },
+  "australasian": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      2679,
+      2692
+    ]
+  },
+  "australia": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      259,
+      912,
+      1782,
+      2136,
+      2223,
+      2350,
+      2464,
+      2493,
+      2525,
+      2578,
+      2591,
+      2625,
+      2904
+    ]
+  },
+  "australiaendangere": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      2983
+    ]
+  },
+  "authority": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      2957
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      762
+    ]
+  },
+  "automatic": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      3013
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      495
+    ],
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      943
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      974
+    ]
+  },
+  "available": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      1752
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      3042
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      525
+    ],
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      763
+    ],
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      870
+    ],
+    "https://en.wikipedia.org/wiki/Aberdare_cisticola": [
+      466
+    ],
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      969
+    ],
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      862
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      920,
+      1055
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      915
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      2146
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      993
+    ]
+  },
+  "ave": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      166
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      172,
+      2828
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      153
+    ],
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      171
+    ],
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      166
+    ],
+    "https://en.wikipedia.org/wiki/Aberdare_cisticola": [
+      151
+    ],
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      157
+    ],
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      155
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      161
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      168
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      186
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      169
+    ]
+  },
+  "avec": {
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      1770
+    ]
+  },
+  "average": {
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      346,
+      362
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      585,
+      619,
+      1232
+    ]
+  },
+  "avian": {
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      628
+    ]
+  },
+  "avibase": {
+    "https://en.wikipedia.org/wiki/Abbott%27s_babbler": [
+      1661
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_booby": [
+      2899
+    ],
+    "https://en.wikipedia.org/wiki/Abbott%27s_starling": [
+      422
+    ],
+    "https://en.wikipedia.org/wiki/Abd_al-Kuri_sparrow": [
+      690
+    ],
+    "https://en.wikipedia.org/wiki/Abdim%27s_stork": [
+      783
+    ],
+    "https://en.wikipedia.org/wiki/Aberrant_bush_warbler": [
+      712
+    ],
+    "https://en.wikipedia.org/wiki/Abert%27s_towhee": [
+      746
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_catbird": [
+      960
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_crimsonwing": [
+      841
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_hornbill": [
+      2058
+    ],
+    "https://en.wikipedia.org/wiki/Abyssinian_ground_thrush": [
+      916
+    ]
+  }
+}

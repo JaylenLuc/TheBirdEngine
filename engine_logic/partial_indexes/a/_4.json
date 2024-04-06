@@ -1,0 +1,3260 @@
+{
+  "(a": {
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      299
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      986,
+      1087
+    ]
+  },
+  "(about": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      2244
+    ]
+  },
+  "(adelie": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      3881,
+      3886
+    ]
+  },
+  "(african": {
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      653
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      1236
+    ]
+  },
+  "(allactaga": {
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1066
+    ]
+  },
+  "(anas": {
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      198,
+      631
+    ]
+  },
+  "(anatini)": {
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      602
+    ]
+  },
+  "(apus": {
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      203
+    ]
+  },
+  "(argya": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      166
+    ]
+  },
+  "(as": {
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      226
+    ]
+  },
+  "(aves": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      443
+    ]
+  },
+  "(aves)": {
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      824,
+      886
+    ]
+  },
+  "a": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      239,
+      322,
+      557,
+      585,
+      631,
+      685,
+      691,
+      728,
+      738,
+      744,
+      809,
+      832,
+      861,
+      903,
+      948,
+      974,
+      1223,
+      1278,
+      1314,
+      1405,
+      1451,
+      1476,
+      1492,
+      1505,
+      1512,
+      1557,
+      1559,
+      1561,
+      1624,
+      1635,
+      1658,
+      1685,
+      1693,
+      1720,
+      1726,
+      1733,
+      1752,
+      1870,
+      1881,
+      2002,
+      2006,
+      2054,
+      2214,
+      2322,
+      2545,
+      2690,
+      2846,
+      2878,
+      2918,
+      2933,
+      3139,
+      3144,
+      3259,
+      3263,
+      3320,
+      3323,
+      3378,
+      3404,
+      3472,
+      3474,
+      3554,
+      3559,
+      3570,
+      3582,
+      3620,
+      3626,
+      3635,
+      3644,
+      3693,
+      3705,
+      3715,
+      3723,
+      3750,
+      3988,
+      4046,
+      4087,
+      4182,
+      4254,
+      4301,
+      4486,
+      4606,
+      4672,
+      4788,
+      4813,
+      4829,
+      4890,
+      4937,
+      5324,
+      5332
+    ],
+    "https://en.wikipedia.org/wiki/Admiralty_cicadabird": [
+      174,
+      259,
+      336,
+      344
+    ],
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      196,
+      225,
+      263,
+      306,
+      338,
+      462,
+      513,
+      584,
+      622,
+      630,
+      659,
+      674,
+      702,
+      862,
+      870
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      153,
+      169,
+      191,
+      207,
+      280,
+      323,
+      422,
+      446,
+      449,
+      500,
+      620,
+      628
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      153,
+      157,
+      216,
+      264,
+      306,
+      606,
+      620,
+      625,
+      645,
+      672,
+      762,
+      782,
+      794,
+      857,
+      906,
+      926,
+      949,
+      977,
+      1153,
+      1162,
+      1174,
+      1178,
+      1202,
+      1248,
+      1314,
+      1384,
+      1408,
+      1438,
+      1846,
+      1854
+    ],
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      198,
+      224,
+      233,
+      255,
+      275,
+      362,
+      455,
+      459,
+      498,
+      502,
+      520,
+      577,
+      666,
+      692,
+      706,
+      730,
+      905,
+      913
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      170,
+      178,
+      186,
+      201,
+      254,
+      264,
+      272,
+      312,
+      317,
+      373,
+      563,
+      580,
+      603,
+      648,
+      851,
+      859
+    ],
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      172,
+      215,
+      261,
+      271,
+      277,
+      298,
+      308,
+      323,
+      327,
+      339,
+      342,
+      379,
+      386,
+      467,
+      478,
+      482,
+      547,
+      560,
+      583,
+      625,
+      809,
+      817
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      201,
+      222,
+      229,
+      312,
+      330,
+      390,
+      418,
+      435,
+      527,
+      541,
+      554,
+      566,
+      716,
+      724
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      189,
+      320,
+      330,
+      349,
+      359,
+      374,
+      471,
+      615,
+      623,
+      637,
+      676,
+      711,
+      751,
+      767,
+      1097,
+      1105
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      183,
+      203,
+      218,
+      354,
+      377,
+      556,
+      600,
+      605,
+      608,
+      612,
+      645,
+      675,
+      679,
+      738,
+      999,
+      1013,
+      1030,
+      1057,
+      1082,
+      1102,
+      1106,
+      1140,
+      1147,
+      1150,
+      1170,
+      1230,
+      1250,
+      1412,
+      1420
+    ]
+  },
+  "a10": {
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1482
+    ]
+  },
+  "a14001400": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      4823
+    ]
+  },
+  "abandoned": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      4314
+    ]
+  },
+  "abd": {
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1621
+    ]
+  },
+  "abdulali": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      376
+    ]
+  },
+  "aberrant": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      2435
+    ]
+  },
+  "ability": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      2889,
+      2920
+    ]
+  },
+  "able": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      1928
+    ]
+  },
+  "about": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      492,
+      1319,
+      2586,
+      3392,
+      3808,
+      5338
+    ],
+    "https://en.wikipedia.org/wiki/Admiralty_cicadabird": [
+      350
+    ],
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      743,
+      876
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      634
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      427,
+      1860
+    ],
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      340,
+      348,
+      919
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      398,
+      865
+    ],
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      823
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      730
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      733,
+      1111
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      682,
+      1426
+    ]
+  },
+  "above": {
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      249
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      492
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      687
+    ]
+  },
+  "abrupt": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      3895
+    ]
+  },
+  "absurd": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      1471
+    ]
+  },
+  "abuse": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      2450
+    ]
+  },
+  "academy": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      3913,
+      4680
+    ],
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      567
+    ]
+  },
+  "accept": {
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      457
+    ]
+  },
+  "accidental": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      2096
+    ]
+  },
+  "accompany": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      1287
+    ]
+  },
+  "accordingly": {
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      236
+    ]
+  },
+  "account": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      50
+    ],
+    "https://en.wikipedia.org/wiki/Admiralty_cicadabird": [
+      50
+    ],
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      50
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      50
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      50,
+      537
+    ],
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      51
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      51
+    ],
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      51
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      51
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      51
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      50
+    ]
+  },
+  "accountlog": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      45
+    ],
+    "https://en.wikipedia.org/wiki/Admiralty_cicadabird": [
+      45
+    ],
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      45
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      45
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      45
+    ],
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      46
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      46
+    ],
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      46
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      46
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      46
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      45
+    ]
+  },
+  "accumulate": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      1992
+    ]
+  },
+  "accumulating[20]": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      1067
+    ]
+  },
+  "accurate": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      2474
+    ]
+  },
+  "across": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      38
+    ],
+    "https://en.wikipedia.org/wiki/Admiralty_cicadabird": [
+      38
+    ],
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      38
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      38
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      38
+    ],
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      39,
+      278
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      39
+    ],
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      39
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      39
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      39
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      38
+    ]
+  },
+  "act": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      3580,
+      3604
+    ]
+  },
+  "acta": {
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      799
+    ]
+  },
+  "action": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      142
+    ],
+    "https://en.wikipedia.org/wiki/Admiralty_cicadabird": [
+      97
+    ],
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      112
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      97
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      114
+    ],
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      113
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      109
+    ],
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      109,
+      382
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      111
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      109
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      113
+    ]
+  },
+  "active": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      2082
+    ]
+  },
+  "activity": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      2429
+    ]
+  },
+  "actual": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      3168
+    ]
+  },
+  "actually": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      3562
+    ]
+  },
+  "adare": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      1217,
+      2493
+    ]
+  },
+  "add": {
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1799
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      1050
+    ]
+  },
+  "addition": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      918
+    ]
+  },
+  "additional": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      5304
+    ],
+    "https://en.wikipedia.org/wiki/Admiralty_cicadabird": [
+      316
+    ],
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      842
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      600
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1826
+    ],
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      885
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      831
+    ],
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      789
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      696
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      1077
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      1392
+    ]
+  },
+  "address": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      2826
+    ]
+  },
+  "adeliae": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      210,
+      230,
+      615,
+      3880,
+      3885,
+      4588,
+      4692,
+      4994,
+      5001,
+      5106,
+      5111,
+      5166
+    ]
+  },
+  "adeliae(hombron": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      214
+    ]
+  },
+  "adeliae)": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      237
+    ]
+  },
+  "adelie": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      2948,
+      3075,
+      3860,
+      4356,
+      5002,
+      5011,
+      5120,
+      5151
+    ]
+  },
+  "adeli\u00e6": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      228
+    ]
+  },
+  "adeli\u00e6[4]": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      389
+    ]
+  },
+  "adepen1": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      5127,
+      5129,
+      5149
+    ]
+  },
+  "admiralitati": {
+    "https://en.wikipedia.org/wiki/Admiralty_cicadabird": [
+      151,
+      161,
+      164,
+      239,
+      253
+    ]
+  },
+  "admiralitatis)": {
+    "https://en.wikipedia.org/wiki/Admiralty_cicadabird": [
+      172
+    ]
+  },
+  "admiralitatisrothschild": {
+    "https://en.wikipedia.org/wiki/Admiralty_cicadabird": [
+      155
+    ]
+  },
+  "admiralty": {
+    "https://en.wikipedia.org/wiki/Admiralty_cicadabird": [
+      0,
+      78,
+      131,
+      166,
+      187
+    ]
+  },
+  "adult": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      669,
+      822,
+      855,
+      867,
+      1106,
+      2299,
+      2803,
+      2824,
+      2854,
+      2901,
+      3041,
+      3074
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1168
+    ]
+  },
+  "adw": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      5107
+    ],
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      754
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1720
+    ],
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      782
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      731
+    ],
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      688
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      589,
+      605
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      1297
+    ]
+  },
+  "ad\u00e8le": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      292
+    ]
+  },
+  "ad\u00e8le[5]": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      417
+    ]
+  },
+  "ad\u00e9lie": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      0,
+      115,
+      177,
+      221,
+      234,
+      286,
+      311,
+      334,
+      405,
+      408,
+      446,
+      489,
+      530,
+      628,
+      868,
+      939,
+      945,
+      1107,
+      1389,
+      1722,
+      1820,
+      1858,
+      1893,
+      1914,
+      1950,
+      2128,
+      2200,
+      2308,
+      2330,
+      2346,
+      2489,
+      2499,
+      2551,
+      2572,
+      2707,
+      2742,
+      2804,
+      2855,
+      2866,
+      2896,
+      3042,
+      3089,
+      3125,
+      3150,
+      3360,
+      3809,
+      3904,
+      4075,
+      4153,
+      4207,
+      4230,
+      4264,
+      4332,
+      4392,
+      4477,
+      4624,
+      4918,
+      4958,
+      5037
+    ]
+  },
+  "ad\u00e9lies": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      1595,
+      2141
+    ]
+  },
+  "aeroelastic": {
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      1211
+    ]
+  },
+  "af323cd82322": {
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      1001
+    ]
+  },
+  "afar": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      1642
+    ]
+  },
+  "afbduc1": {
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      740,
+      742
+    ]
+  },
+  "afbfly1": {
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      614,
+      616
+    ]
+  },
+  "afbowl1": {
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      794,
+      796
+    ]
+  },
+  "afbtit2": {
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      969,
+      971
+    ]
+  },
+  "afep": {
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      0,
+      90,
+      147,
+      180,
+      212,
+      258,
+      277,
+      409,
+      683,
+      723,
+      725,
+      745
+    ]
+  },
+  "afepig1": {
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      763,
+      765
+    ]
+  },
+  "afford": {
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      194
+    ]
+  },
+  "afghanistan": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      0,
+      78,
+      132,
+      164,
+      204,
+      238,
+      260,
+      266
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      0,
+      95,
+      149,
+      198,
+      204,
+      235,
+      706,
+      751,
+      772,
+      802,
+      971,
+      992,
+      1043,
+      1101,
+      1273,
+      1470,
+      1501,
+      1577,
+      1710,
+      1755
+    ]
+  },
+  "afghanistan[11]": {
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      815
+    ]
+  },
+  "afghanistanbird": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      555
+    ]
+  },
+  "afghanistanendemic": {
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1782
+    ]
+  },
+  "afghanistanpyrgilaudahidden": {
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1785
+    ]
+  },
+  "afgsno1": {
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1745,
+      1747
+    ]
+  },
+  "afrbro1": {
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      1304,
+      1306
+    ]
+  },
+  "africa": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      5068
+    ],
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      188,
+      209,
+      230,
+      364,
+      402,
+      550,
+      801
+    ],
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      0,
+      91,
+      148,
+      156,
+      192,
+      215,
+      229,
+      358,
+      380,
+      391,
+      412,
+      479,
+      678,
+      724,
+      756,
+      773
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      0,
+      88,
+      144,
+      183,
+      195,
+      246,
+      250,
+      288,
+      303,
+      333,
+      345,
+      348,
+      361,
+      459,
+      469,
+      628,
+      662,
+      695,
+      706,
+      722
+    ],
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      0,
+      88,
+      144,
+      200,
+      209,
+      226,
+      238,
+      255,
+      284,
+      286,
+      442,
+      473,
+      521,
+      530,
+      543,
+      652,
+      668,
+      679
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      0,
+      90,
+      146,
+      184,
+      191,
+      215,
+      218,
+      308,
+      336,
+      383,
+      411,
+      464,
+      553
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      0,
+      85,
+      144,
+      183,
+      202,
+      272,
+      279,
+      307,
+      389,
+      498,
+      593,
+      620,
+      648,
+      666,
+      756
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      0,
+      92,
+      148,
+      187,
+      215,
+      335,
+      351,
+      408,
+      437,
+      442,
+      464,
+      475,
+      492,
+      501,
+      539,
+      850,
+      979,
+      1010,
+      1121,
+      1173,
+      1244,
+      1254,
+      1259
+    ]
+  },
+  "africa)": {
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      765
+    ]
+  },
+  "africabird": {
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      835
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      778,
+      782
+    ],
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      734,
+      738,
+      741
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      650
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      1017,
+      1020
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      1340,
+      1344
+    ]
+  },
+  "africaowl": {
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      831
+    ]
+  },
+  "afrswi1": {
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      697,
+      699
+    ]
+  },
+  "after": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      285,
+      481,
+      814,
+      2194,
+      2212
+    ],
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      460,
+      483
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      362,
+      385,
+      681,
+      881
+    ],
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      553,
+      559
+    ]
+  },
+  "afternoon": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      3551
+    ]
+  },
+  "again": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      2610,
+      2683
+    ]
+  },
+  "against": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      1789
+    ]
+  },
+  "aglietti": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      3817
+    ]
+  },
+  "ago": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      476,
+      496,
+      2017
+    ]
+  },
+  "agree": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      5313
+    ],
+    "https://en.wikipedia.org/wiki/Admiralty_cicadabird": [
+      325
+    ],
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      851
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      609
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1835
+    ],
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      894
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      840
+    ],
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      798
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      705
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      1086
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      1401
+    ]
+  },
+  "ai": {
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1362
+    ]
+  },
+  "ainley": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      2469,
+      4058,
+      4148,
+      4190
+    ]
+  },
+  "al": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      3658,
+      3671
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1622
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      894
+    ]
+  },
+  "alan": {
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1534
+    ],
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      669
+    ]
+  },
+  "alarm": {
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      779
+    ]
+  },
+  "albigulari": {
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      854
+    ]
+  },
+  "alex": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      4452
+    ]
+  },
+  "alexander": {
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      1195
+    ]
+  },
+  "algeria": {
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      798
+    ]
+  },
+  "ali": {
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      311
+    ]
+  },
+  "alive": {
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      606,
+      694
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      640
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      578
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      1184
+    ]
+  },
+  "all": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      280,
+      801,
+      1361,
+      1497,
+      1765,
+      1778,
+      2646,
+      2985
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      591
+    ]
+  },
+  "allan": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      4540
+    ]
+  },
+  "allopatric": {
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      454
+    ]
+  },
+  "allow": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      1521
+    ]
+  },
+  "ally": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      442,
+      468
+    ]
+  },
+  "almost": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      1737
+    ]
+  },
+  "along": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      244,
+      269,
+      969,
+      1330
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      425
+    ]
+  },
+  "alphabet": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      3441,
+      3463,
+      3479
+    ]
+  },
+  "alpine": {
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      555
+    ]
+  },
+  "also": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      96,
+      438,
+      1286,
+      1383,
+      1399,
+      2868,
+      2931,
+      3082
+    ],
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      184,
+      385
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      221
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1034
+    ],
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      426
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      291,
+      467
+    ],
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      205,
+      376,
+      538
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      426
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      191,
+      395
+    ]
+  },
+  "also[edit]": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      3386
+    ]
+  },
+  "alstr\u00f6m": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      425
+    ]
+  },
+  "alter": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      2830
+    ]
+  },
+  "although": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      522,
+      652
+    ]
+  },
+  "altirostri": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      412
+    ]
+  },
+  "altitude": {
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      893
+    ],
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      420
+    ]
+  },
+  "alula": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      4945
+    ]
+  },
+  "always": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      1798
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      491
+    ]
+  },
+  "am": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      413
+    ]
+  },
+  "america": {
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      218
+    ]
+  },
+  "america[14]": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      1025
+    ]
+  },
+  "amid": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      4359
+    ]
+  },
+  "amir": {
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      968
+    ]
+  },
+  "among": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      1294,
+      3388
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      432,
+      765,
+      962
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      397
+    ]
+  },
+  "amount": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      2775,
+      2780,
+      2863
+    ]
+  },
+  "amphipod": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      1965
+    ]
+  },
+  "an": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      395,
+      1715,
+      1865,
+      2064,
+      2113,
+      2525,
+      2583,
+      2817,
+      2954,
+      3237,
+      3349,
+      3468,
+      3937
+    ],
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      744
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      369,
+      491,
+      734,
+      938,
+      1541
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      502
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      363,
+      640
+    ]
+  },
+  "ana": {
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      168,
+      174,
+      208,
+      530,
+      651,
+      683,
+      690,
+      729,
+      763
+    ]
+  },
+  "analysis": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      2458,
+      3159
+    ]
+  },
+  "anas)": {
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      562
+    ]
+  },
+  "anas_sparsa": {
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      732
+    ]
+  },
+  "anatidae": {
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      166
+    ]
+  },
+  "ancestor": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      483,
+      500
+    ]
+  },
+  "ancient": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      563,
+      4905
+    ]
+  },
+  "and": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      68,
+      77,
+      80,
+      84,
+      88,
+      268,
+      319,
+      327,
+      330,
+      357,
+      363,
+      430,
+      436,
+      510,
+      544,
+      569,
+      601,
+      642,
+      662,
+      664,
+      676,
+      743,
+      750,
+      838,
+      844,
+      900,
+      927,
+      942,
+      972,
+      998,
+      1022,
+      1047,
+      1095,
+      1196,
+      1214,
+      1283,
+      1336,
+      1369,
+      1450,
+      1466,
+      1502,
+      1535,
+      1550,
+      1568,
+      1601,
+      1634,
+      1639,
+      1660,
+      1665,
+      1689,
+      1704,
+      1741,
+      1757,
+      1772,
+      1796,
+      1827,
+      1830,
+      1894,
+      1908,
+      1947,
+      1971,
+      2036,
+      2076,
+      2109,
+      2189,
+      2266,
+      2282,
+      2300,
+      2407,
+      2433,
+      2441,
+      2448,
+      2453,
+      2463,
+      2467,
+      2476,
+      2520,
+      2555,
+      2608,
+      2632,
+      2641,
+      2793,
+      2851,
+      2902,
+      2996,
+      3010,
+      3056,
+      3062,
+      3069,
+      3079,
+      3086,
+      3091,
+      3107,
+      3120,
+      3190,
+      3280,
+      3333,
+      3442,
+      3601,
+      3900,
+      4313,
+      4412,
+      4617,
+      4913,
+      4925,
+      4971,
+      5319
+    ],
+    "https://en.wikipedia.org/wiki/Admiralty_cicadabird": [
+      331
+    ],
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      251,
+      282,
+      289,
+      293,
+      297,
+      309,
+      315,
+      319,
+      330,
+      381,
+      405,
+      415,
+      436,
+      451,
+      501,
+      547,
+      559,
+      629,
+      634,
+      732,
+      857
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      210,
+      216,
+      249,
+      252,
+      300,
+      307,
+      410,
+      441,
+      445,
+      467,
+      517,
+      615
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      68,
+      72,
+      75,
+      156,
+      292,
+      328,
+      353,
+      365,
+      380,
+      395,
+      398,
+      446,
+      459,
+      465,
+      484,
+      542,
+      576,
+      605,
+      610,
+      630,
+      644,
+      666,
+      714,
+      733,
+      760,
+      776,
+      785,
+      793,
+      799,
+      853,
+      856,
+      863,
+      884,
+      894,
+      918,
+      930,
+      987,
+      1010,
+      1028,
+      1031,
+      1040,
+      1050,
+      1059,
+      1123,
+      1125,
+      1145,
+      1151,
+      1518,
+      1539,
+      1841
+    ],
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      74,
+      213,
+      254,
+      261,
+      273,
+      281,
+      293,
+      296,
+      307,
+      315,
+      324,
+      330,
+      334,
+      345,
+      370,
+      378,
+      383,
+      407,
+      423,
+      432,
+      491,
+      556,
+      592,
+      619,
+      630,
+      679,
+      900
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      71,
+      225,
+      267,
+      270,
+      286,
+      341,
+      353,
+      366,
+      369,
+      376,
+      404,
+      411,
+      437,
+      460,
+      479,
+      495,
+      509,
+      523,
+      556,
+      567,
+      846
+    ],
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      186,
+      190,
+      233,
+      244,
+      295,
+      331,
+      368,
+      405,
+      411,
+      415,
+      427,
+      465,
+      481,
+      493,
+      570,
+      630,
+      646,
+      804
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      211,
+      232,
+      239,
+      247,
+      252,
+      272,
+      286,
+      297,
+      318,
+      343,
+      349,
+      378,
+      393,
+      407,
+      426,
+      446,
+      490,
+      501,
+      711
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      205,
+      218,
+      248,
+      265,
+      281,
+      293,
+      303,
+      332,
+      352,
+      397,
+      405,
+      411,
+      425,
+      452,
+      458,
+      512,
+      556,
+      577,
+      618,
+      658,
+      667,
+      735,
+      830,
+      848,
+      864,
+      898,
+      939,
+      1092
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      237,
+      246,
+      274,
+      278,
+      300,
+      310,
+      332,
+      342,
+      380,
+      431,
+      477,
+      481,
+      490,
+      532,
+      534,
+      560,
+      578,
+      588,
+      622,
+      631,
+      648,
+      660,
+      744,
+      772,
+      792,
+      816,
+      840,
+      845,
+      858,
+      867,
+      869,
+      877,
+      894,
+      907,
+      921,
+      942,
+      945,
+      961,
+      963,
+      972,
+      980,
+      1002,
+      1052,
+      1158,
+      1407
+    ]
+  },
+  "anderton": {
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1413,
+      1558
+    ]
+  },
+  "anderzej": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      4305
+    ]
+  },
+  "andrew": {
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1219,
+      1465
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      775
+    ]
+  },
+  "andrzej": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      4303
+    ]
+  },
+  "anger\u2026": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      1541
+    ]
+  },
+  "angle": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      1055
+    ]
+  },
+  "angola": {
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      613
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      860
+    ]
+  },
+  "angola[4]": {
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      389
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      360
+    ]
+  },
+  "angola[6]": {
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      406
+    ]
+  },
+  "angry": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      1683
+    ]
+  },
+  "animal": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      1834,
+      3389
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      516,
+      607
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      1263
+    ]
+  },
+  "animalia": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      197
+    ],
+    "https://en.wikipedia.org/wiki/Admiralty_cicadabird": [
+      138
+    ],
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      160
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      141
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      171
+    ],
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      172
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      158
+    ],
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      158
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      163
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      158
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      161
+    ]
+  },
+  "ann": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      4551
+    ]
+  },
+  "annale": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      4777
+    ]
+  },
+  "another": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      794
+    ]
+  },
+  "anseriforme": {
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      164
+    ]
+  },
+  "answer": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      3841
+    ]
+  },
+  "ant": {
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1039
+    ]
+  },
+  "antarctic": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      250,
+      550,
+      950,
+      978,
+      1232,
+      1260,
+      1302,
+      1958,
+      1962,
+      2028,
+      2139,
+      2222,
+      2343,
+      2622,
+      2974,
+      3278,
+      3287,
+      4026,
+      4100,
+      4197,
+      4239,
+      4269,
+      4324,
+      4811,
+      4827,
+      4941
+    ]
+  },
+  "antarctica": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      185,
+      352,
+      970,
+      1219,
+      1575,
+      2122,
+      2243,
+      2581,
+      2648,
+      3039,
+      3908,
+      4360,
+      4565,
+      4922
+    ]
+  },
+  "antarctica[citation": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      3306
+    ]
+  },
+  "antarcticabird": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      5191
+    ]
+  },
+  "antinori": {
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      496
+    ]
+  },
+  "any": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      876,
+      1618,
+      1793
+    ]
+  },
+  "apart": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      1811
+    ]
+  },
+  "apodidae": {
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      168
+    ]
+  },
+  "apodiforme": {
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      166
+    ]
+  },
+  "apparent": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      1863
+    ]
+  },
+  "appear": {
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      302
+    ]
+  },
+  "appearance": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      824
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      745
+    ]
+  },
+  "appendix": {
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      164,
+      657
+    ]
+  },
+  "apply": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      5307
+    ],
+    "https://en.wikipedia.org/wiki/Admiralty_cicadabird": [
+      319
+    ],
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      845
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      603
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1829
+    ],
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      888
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      834
+    ],
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      792
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      699
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      1080
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      1395
+    ]
+  },
+  "april": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      4013,
+      4418,
+      4701,
+      4746,
+      5017
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1468
+    ]
+  },
+  "apsley": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      1220,
+      4652
+    ]
+  },
+  "aptenodyte": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      487
+    ]
+  },
+  "apu": {
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      170,
+      176,
+      602,
+      666,
+      686,
+      718
+    ]
+  },
+  "apus_barbatus": {
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      689
+    ]
+  },
+  "aquatic": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      2943
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      515
+    ]
+  },
+  "arabia": {
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1660
+    ]
+  },
+  "arbitrary": {
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      492
+    ]
+  },
+  "archive": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      3827,
+      3847,
+      3866,
+      3942,
+      3975,
+      4003,
+      4033,
+      4107,
+      4135,
+      4241,
+      4338,
+      4365,
+      4420,
+      4438,
+      4526,
+      4641
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      335
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1300,
+      1348,
+      1394
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      618,
+      663
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      590
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      1127
+    ]
+  },
+  "ardeola": {
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      741
+    ]
+  },
+  "are": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      31,
+      579,
+      753,
+      756,
+      783,
+      819,
+      858,
+      967,
+      1003,
+      1180,
+      1198,
+      1251,
+      1524,
+      1548,
+      1822,
+      1927,
+      2149,
+      2152,
+      2553,
+      2685,
+      2709,
+      2886,
+      2904,
+      2968,
+      2988,
+      3044,
+      3271
+    ],
+    "https://en.wikipedia.org/wiki/Admiralty_cicadabird": [
+      31
+    ],
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      31,
+      302,
+      321,
+      333,
+      356,
+      446,
+      455,
+      488
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      31,
+      220
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      31,
+      237,
+      486,
+      587,
+      637,
+      709,
+      913,
+      1117,
+      1128
+    ],
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      32,
+      298,
+      309,
+      317,
+      326,
+      336,
+      463,
+      494,
+      534,
+      542,
+      564,
+      582
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      32
+    ],
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      32,
+      247,
+      451,
+      489
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      32,
+      241,
+      261,
+      274,
+      277,
+      365,
+      453,
+      467
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      32,
+      456,
+      522,
+      660,
+      730
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      31,
+      232,
+      258,
+      276,
+      279,
+      289,
+      394,
+      451,
+      694,
+      715,
+      787,
+      794
+    ]
+  },
+  "area": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      396,
+      1050,
+      1141,
+      1205,
+      3178,
+      3182,
+      3198,
+      3352
+    ],
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      361
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      979
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      395
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      401
+    ]
+  },
+  "area[9]": {
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      1022
+    ]
+  },
+  "areas[4]": {
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      443
+    ]
+  },
+  "argya": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      151,
+      157
+    ]
+  },
+  "argya[6][7]": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      294
+    ]
+  },
+  "argyabird": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      546
+    ]
+  },
+  "ark": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      5109
+    ],
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      784
+    ]
+  },
+  "around": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      690,
+      1919,
+      2014,
+      2137,
+      2647,
+      3273
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      604
+    ]
+  },
+  "arrive": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      1867,
+      2202
+    ]
+  },
+  "ars": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      3973
+    ]
+  },
+  "article": {
+    "https://en.wikipedia.org/wiki/Admiralty_cicadabird": [
+      257
+    ]
+  },
+  "articleabout": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      18
+    ],
+    "https://en.wikipedia.org/wiki/Admiralty_cicadabird": [
+      18
+    ],
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      18
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      18
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      18
+    ],
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      19
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      19
+    ],
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      19
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      19
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      19
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      18
+    ]
+  },
+  "articles": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      5205,
+      5220,
+      5237
+    ],
+    "https://en.wikipedia.org/wiki/Admiralty_cicadabird": [
+      280,
+      291
+    ],
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      808
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      566
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1787
+    ],
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      840,
+      857
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      792
+    ],
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      750
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      655,
+      668
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      1033
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      1349,
+      1364
+    ]
+  },
+  "articletalk": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      132
+    ],
+    "https://en.wikipedia.org/wiki/Admiralty_cicadabird": [
+      87
+    ],
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      102
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      87
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      104
+    ],
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      103
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      99
+    ],
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      99
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      101
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      99
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      103
+    ]
+  },
+  "as": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      161,
+      371,
+      442,
+      608,
+      1016,
+      1092,
+      1176,
+      1178,
+      1339,
+      1514,
+      1516,
+      1650,
+      1809,
+      2063,
+      2505,
+      2595,
+      2649,
+      2651,
+      2666,
+      2715,
+      2946,
+      3065,
+      3348,
+      4485
+    ],
+    "https://en.wikipedia.org/wiki/Admiralty_cicadabird": [
+      116
+    ],
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      131,
+      186,
+      493
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      116
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      133,
+      252,
+      468,
+      480,
+      482,
+      494,
+      905,
+      948,
+      1023,
+      1038,
+      1091,
+      1137
+    ],
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      132,
+      401,
+      576
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      128,
+      228,
+      293
+    ],
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      128,
+      207,
+      250
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      130,
+      399,
+      401,
+      485,
+      488
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      128,
+      675
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      132,
+      193,
+      594,
+      781
+    ]
+  },
+  "ashley": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      4510
+    ]
+  },
+  "asia": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      311,
+      328
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      467,
+      1564
+    ]
+  },
+  "asiabird": {
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      553
+    ]
+  },
+  "assess": {
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      251,
+      947
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      235
+    ]
+  },
+  "assign": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      454
+    ]
+  },
+  "associate": {
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1072
+    ]
+  },
+  "assume": {
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      690
+    ]
+  },
+  "asturianu\u0431\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438catal\u00e0cebuanocymraegdin\u00e9": {
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      95
+    ]
+  },
+  "at": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      32,
+      859,
+      1068,
+      1148,
+      1303,
+      1484,
+      1670,
+      1918,
+      2125,
+      2203,
+      2401,
+      2491,
+      2655,
+      2699,
+      2763,
+      3111,
+      3370,
+      4121,
+      5004,
+      5289
+    ],
+    "https://en.wikipedia.org/wiki/Admiralty_cicadabird": [
+      32,
+      301
+    ],
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      32,
+      734,
+      827
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      32,
+      585
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      32,
+      832,
+      1093,
+      1130,
+      1170,
+      1811
+    ],
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      33,
+      421,
+      870
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      33,
+      816
+    ],
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      33,
+      273,
+      279,
+      418,
+      774
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      33,
+      588,
+      594,
+      681
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      33,
+      436,
+      476,
+      1062
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      32,
+      285,
+      607,
+      1281,
+      1287,
+      1377
+    ]
+  },
+  "atlas": {
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      770
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      719
+    ],
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      676
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      1261
+    ]
+  },
+  "attempt": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      2370
+    ]
+  },
+  "attitude": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      1446
+    ]
+  },
+  "attribution": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      5300
+    ],
+    "https://en.wikipedia.org/wiki/Admiralty_cicadabird": [
+      312
+    ],
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      838
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      596
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1822
+    ],
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      881
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      827
+    ],
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      785
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      692
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      1073
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      1388
+    ]
+  },
+  "auckland": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      2126
+    ]
+  },
+  "audio": {
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      719
+    ]
+  },
+  "augment": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      3191
+    ]
+  },
+  "august": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      4226,
+      5287
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      814
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      1060
+    ]
+  },
+  "auk": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      4272
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      571
+    ]
+  },
+  "australia": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      1019,
+      5119
+    ]
+  },
+  "authier": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      4188
+    ]
+  },
+  "author": {
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      453
+    ]
+  },
+  "authority": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      5167
+    ],
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      571
+    ]
+  },
+  "auto": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      2430
+    ]
+  },
+  "automate": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      2562
+    ]
+  },
+  "automatic": {
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1798
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      1049
+    ]
+  },
+  "autour": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      4766
+    ]
+  },
+  "available": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      2733,
+      3205,
+      5295
+    ],
+    "https://en.wikipedia.org/wiki/Admiralty_cicadabird": [
+      307
+    ],
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      833
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      591
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1817
+    ],
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      876
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      822
+    ],
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      780
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      687
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      466,
+      1068
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      1383
+    ]
+  },
+  "ave": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      201
+    ],
+    "https://en.wikipedia.org/wiki/Admiralty_cicadabird": [
+      142
+    ],
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      164
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_babbler": [
+      145
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      175
+    ],
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      176
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      162
+    ],
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      162
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      167
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      162
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      165
+    ]
+  },
+  "average": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      2584
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      591
+    ]
+  },
+  "avibase": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      5112
+    ],
+    "https://en.wikipedia.org/wiki/Admiralty_cicadabird": [
+      240
+    ],
+    "https://en.wikipedia.org/wiki/Afep_pigeon": [
+      756
+    ],
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1722
+    ],
+    "https://en.wikipedia.org/wiki/African_barred_owlet": [
+      732,
+      787
+    ],
+    "https://en.wikipedia.org/wiki/African_black_duck": [
+      733
+    ],
+    "https://en.wikipedia.org/wiki/African_black_swift": [
+      690
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_flycatcher": [
+      607
+    ],
+    "https://en.wikipedia.org/wiki/African_blue_tit": [
+      960
+    ],
+    "https://en.wikipedia.org/wiki/African_broadbill": [
+      1299
+    ]
+  },
+  "away": {
+    "https://en.wikipedia.org/wiki/Ad%C3%A9lie_penguin": [
+      1175,
+      1771,
+      2219,
+      2292
+    ]
+  },
+  "aye": {
+    "https://en.wikipedia.org/wiki/Afghan_snowfinch": [
+      1490
+    ]
+  }
+}
