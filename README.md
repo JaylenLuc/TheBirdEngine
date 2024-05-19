@@ -5,7 +5,7 @@
 ![image](https://github.com/JaylenLuc/TheBirdEngine/assets/91278747/29f9db98-a823-4426-ab4f-f4a468ce2ee8)
 ![image](https://github.com/JaylenLuc/TheBirdEngine/assets/91278747/694e56dd-f384-4efc-a239-674f675f647e)
 ![image](https://github.com/JaylenLuc/TheBirdEngine/assets/91278747/4c9d8600-b912-4ae2-8d97-5e562905d713)
-
+Vertical topical search engine about any animal within the Class Aves insofar as it's crawled
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
